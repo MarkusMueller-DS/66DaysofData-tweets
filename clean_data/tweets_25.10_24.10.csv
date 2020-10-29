@@ -1,0 +1,192 @@
+tweet_id,user_id,user_name,created_at,text,full_text,retweets,favorite
+1320272848745803777,1108597836755755009,maisdev,Sun Oct 25 07:55:51 +0000 2020,Did some exercises from udemy python course. #pythonForMachineLearning R2D4 #100DaysOfMLCode D54 #66daysofdata,None,0,0
+1320263053359910912,3229980963,FmFrancoise,Sun Oct 25 07:16:55 +0000 2020,"kaggle via NodeXL https://t.co/eneHJyGWcG
+@kaggle
+@kierisi
+@fchollet
+@ml_tweet_bot
+@fmfrancoise
+@statsbylopez… https://t.co/ojRtFVeIj4","kaggle via NodeXL https://t.co/eneHJyGWcG
+@kaggle
+@kierisi
+@fchollet
+@ml_tweet_bot
+@fmfrancoise
+@statsbylopez
+@tankazunori0914
+@blkhwk0ps
+@0verfit
+@furudatek
+
+Top hashtags:
+#kaggle
+#rstats
+#datascience
+#machinelearning
+#66daysofdata
+#100daysofcode
+#python
+#ai /",1,2
+1320260160561053696,285723440,geekanvesh,Sun Oct 25 07:05:26 +0000 2020,Immense learning and great networking at #DSGOVirtual #Hackathon. We analysed air quality of California as use case… https://t.co/ltpxSiFSGe,Immense learning and great networking at #DSGOVirtual #Hackathon. We analysed air quality of California as use case and our team was judged with best #model #award #66daysofdata #StillSoMuchToLearn,0,1
+1320258408709197825,1303725429132464128,rampand25356222,Sun Oct 25 06:58:28 +0000 2020,"Day 38,39 of #66daysofdata. Read chapter chapter 6 and 7 of feature engineering by Alice Zheng, I would highly reco… https://t.co/WHWD32Zas6","Day 38,39 of #66daysofdata. Read chapter chapter 6 and 7 of feature engineering by Alice Zheng, I would highly recommend this book if u r facing trouble with handling features as me😅. This covers topics in a way that newbies can understand and also can apply.",0,1
+1320247344592539648,211289215,IamTonyAK,Sun Oct 25 06:14:30 +0000 2020,#66DaysOfData Day 44: Two thirds of the way there! Met with an ex-colleague who just started as a machine learning… https://t.co/gv5Nhakuq2,"#66DaysOfData Day 44: Two thirds of the way there! Met with an ex-colleague who just started as a machine learning engineer. Discussed the interview process, his new role, the challenges they're trying to solve and models they use.",1,1
+1320237821656006657,1291114285507186690,jaimedatalatte,Sun Oct 25 05:36:40 +0000 2020,"D52. #66DaysofData 
+
+- kept working on this brazilian e-commerce dataset. The dataset is super extensive, but I’m a… https://t.co/RfvtKFxsQg","D52. #66DaysofData 
+
+- kept working on this brazilian e-commerce dataset. The dataset is super extensive, but I’m also thinking that there’s no chance I would’ve been able to tackle this on day 1. Feeling the progress today.",0,3
+1320236744185421824,1290013787819593735,math3mantic_,Sun Oct 25 05:32:23 +0000 2020,"Day 53 of #66daysofdata: Today, I finished Chapter 6: Decision Trees of Hands-on ML2 book by @aureliengeron and pre… https://t.co/2kroG5PfJW","Day 53 of #66daysofdata: Today, I finished Chapter 6: Decision Trees of Hands-on ML2 book by @aureliengeron and prepared a slideshow to present in a weekly zoom meeting tomorrow. I have been using JN extensions for a while; but just discovered the single most useful one. RISE.",0,2
+1320231455952338944,1247769181002403841,ahanawrites,Sun Oct 25 05:11:22 +0000 2020,Day 54 of #66daysofdata: Adam (Adaptive moment estimation) is another very popular adaptive learning rate method. I… https://t.co/WjvF9idkeV,"Day 54 of #66daysofdata: Adam (Adaptive moment estimation) is another very popular adaptive learning rate method. In addition to storing an exponentially decaying average of past squared gradients as in RMSprop, it also maintains an exponentially decaying average 1/2",0,1
+1320230740886507525,1301208059486842882,ceeezthedata,Sun Oct 25 05:08:31 +0000 2020,"🗓 Day 53 of #66daysofdata 
+#DataAnalytics #DataScience 
+
+Light work today viewed this informative video https://t.co/j6JUmWOAR6",None,0,1
+1320228020439797760,1300541186864590848,trainandtest,Sun Oct 25 04:57:43 +0000 2020,"#QuestionOfTheDay How to deal with imbalanced Data sets? 
+
+#MachineLearning #Data #DataScience #66daysofdata #100DaysOfCode #100DaysOfMLCode",None,3,6
+1320217866621235200,628182698,FelixNicholasW,Sun Oct 25 04:17:22 +0000 2020,"Day 55 of #66daysofdata trying to optimize my model (used car price prediction), then read about logistic regression and decision tree later",None,0,2
+1320217442380111872,1550112745,DebdutiS,Sun Oct 25 04:15:41 +0000 2020,"DAY55 of #66daysofdata . Still working on the hackathon. Lots of learning and teamwork and brainstorming. Fun! Oh,… https://t.co/v0yXUpfEPP","DAY55 of #66daysofdata . Still working on the hackathon. Lots of learning and teamwork and brainstorming. Fun! Oh, and I also learnt the basics of Git, thanks to @KenJee_DS 's video and a free course on Datacamp.",0,3
+1320213333140791296,2771098682,pigglymichele,Sun Oct 25 03:59:21 +0000 2020,"✅ DAY 5 of #66daysofdata 
+
+Learned how to match text patterns with wild cards % and the brackets [ ] 
+
+✨ Use it whe… https://t.co/txTdVY8meS","✅ DAY 5 of #66daysofdata 
+
+Learned how to match text patterns with wild cards % and the brackets [ ] 
+
+✨ Use it when we don’t know what’s the exact text criteria I want.",0,1
+1320211441576792065,1251498658907987968,madeline_pc,Sun Oct 25 03:51:50 +0000 2020,Re-reading this fascinating article on the use of deep learning in epigraphy. This article is what initially intere… https://t.co/yLGWCc5hx8,"Re-reading this fascinating article on the use of deep learning in epigraphy. This article is what initially interested me in machine learning, actually. 
+https://t.co/wA0rKzqjal
+
+#66DaysOfData 44",1,3
+1320201870485368833,1300469935760650240,JennAckerman3,Sun Oct 25 03:13:48 +0000 2020,"Day 53/54 of #66daysofdata:
+
+completed another mission today, learning more about Data Visualization!",None,0,1
+1320200790393409536,57376896,robertlazo,Sun Oct 25 03:09:31 +0000 2020,"Day #53 and #54 of #66DaysOfData : Continued DataCamp course. Found excellent article on urban development: ""Big Da… https://t.co/OmQeZJEath","Day #53 and #54 of #66DaysOfData : Continued DataCamp course. Found excellent article on urban development: ""Big Data and Big Cities: The Promises and Limitations of Improved Measures of Urban Life"" (2018) with effective analysis and data visualizations:  https://t.co/Rw0stWsMCt",0,2
+1320199227901763585,735315096679919617,bjcmit1,Sun Oct 25 03:03:18 +0000 2020,Day 53/54 of #66DaysOfData Spent 10 minutes reading ML social media posts. @KenJee_DS,None,0,3
+1320191552740716546,1169401020989890560,gregorymbell,Sun Oct 25 02:32:48 +0000 2020,"Day 49 of #66daysofdata 
+
+Watched two videos from @StorybyData:
+
+1.Very informative discussion with Andrew Jones ab… https://t.co/THHe6LXCRI","Day 49 of #66daysofdata 
+
+Watched two videos from @StorybyData:
+
+1.Very informative discussion with Andrew Jones about getting into the field of data science
+https://t.co/gINEzVJsWJ
+
+2.Brief video on the data visualization process
+https://t.co/YlwZAk0npi",0,3
+1320182311615430656,2149586883,vperez2000,Sun Oct 25 01:56:05 +0000 2020,"#Dia54 de #66daysofdata por @KenJee_DS
+
+Dia ocupado, asi que escogi aleatoriamente un video divertido:… https://t.co/FMSnw5QdMb","#Dia54 de #66daysofdata por @KenJee_DS
+
+Dia ocupado, asi que escogi aleatoriamente un video divertido:
+https://t.co/StxBcWzIZA
+#DoubleBAM @joshuastarmer",0,1
+1320182309820223488,2149586883,vperez2000,Sun Oct 25 01:56:05 +0000 2020,"#Day54 of #66daysofdata by @KenJee_DS
+
+Bussy day, so I randomly choose a fun video:
+
+https://t.co/StxBcWzIZA
+#DoubleBAM @joshuastarmer",None,0,2
+1320179216063721472,45938414,KiInoue,Sun Oct 25 01:43:47 +0000 2020,"Day08 of #66DaysOfData: more math - bases, Gram-Schmidt process, eigenvalues and eigenvectors...exploring Octave",None,0,0
+1320164768104153088,1319794636915761152,kenwongkaien,Sun Oct 25 00:46:22 +0000 2020,I've decided to join #66daysofdata challenge inspired by @KenJee_DS.  The goal is to develop a habit of learning #DataScience everyday.,None,0,7
+1320162068260134920,1008778640,Alepipi78,Sun Oct 25 00:35:39 +0000 2020,"Day ５１ of #66daysofdata 
+Read this fun article: 
+https://t.co/nEqEetYiWa",None,0,2
+1320159103298293761,1332613548,imkeller_5,Sun Oct 25 00:23:52 +0000 2020,Day 5 of #66DaysOfData! Chapter 9 of the Data8 book and the first day of #CMSAC20,None,0,2
+1320155903379865600,1319440155099467777,v1ctorpereira,Sun Oct 25 00:11:09 +0000 2020,"Day 3: Think Stats book, finished Chapters 3, 4, 5 and their exercises. PMF, CDF, and Modeling distributions 🔥
+
+#66DaysOfData  #DataScience",None,1,2
+1320152927919624192,951871594376376320,JackRaifer,Sat Oct 24 23:59:19 +0000 2020,"Day 51 of #66DaysOfData with @KenJee_DS.
+
+Spent most of my day attending #DSGOVirtual, listening to great keynotes… https://t.co/AYtnNiRH8u","Day 51 of #66DaysOfData with @KenJee_DS.
+
+Spent most of my day attending #DSGOVirtual, listening to great keynotes and meeting amazing people.
+
+Started studying some Biostatistics to understand people analytics better.",0,7
+1320147543720853504,1300017281666363394,mrvsokolovsky,Sat Oct 24 23:37:56 +0000 2020,Day 54 of #66DaysOfData by @KenJee_DS. Spent about an hour learning my way through derivatives. It was a struggle a… https://t.co/jwhQOkNfJj,"Day 54 of #66DaysOfData by @KenJee_DS. Spent about an hour learning my way through derivatives. It was a struggle and it's going to be an even bigger struggle doing these things in numpy. Anyway, 2 problems solved, good day.",0,3
+1320146200193019904,1300521724274974723,antgobar,Sat Oct 24 23:32:35 +0000 2020,"Day 54 of #66daysofdata 
+Started with the Heart Disease UCI database on #kaggle #python envorinment. 13 features in… https://t.co/gI0UVaBAgj","Day 54 of #66daysofdata 
+Started with the Heart Disease UCI database on #kaggle #python envorinment. 13 features including age, chest pain level &amp; cholesterol. Target is heart disease (0 or 1) so this is a classificaiton problem, maybe requiring logistic regression!
+#DataScience",2,4
+1320145239248637954,1169311344316882945,AdarrabYoussef,Sat Oct 24 23:28:46 +0000 2020,#66daysofdata Day 30 : Started getting familiar with computer vision and Convolutional Neural Networks.,None,0,3
+1320142947657109506,1301630535551381506,Tayiablytics,Sat Oct 24 23:19:40 +0000 2020,"Day 52 of #66daysofdata
+
+Life's been getting in the way a lot lately and today was no different. Didn't have much t… https://t.co/StKqHZAFvZ","Day 52 of #66daysofdata
+
+Life's been getting in the way a lot lately and today was no different. Didn't have much time today so watched this TED talk about creating original content by running neural networks in reverse, the results are quite trippy 😮
+https://t.co/rayJgFcUgK",0,3
+1320136751684472833,1300835179636895747,reakal2,Sat Oct 24 22:55:03 +0000 2020,"Day 44 of #66DaysofData!
+Completed reading through the ""Break into Data Science - 01 - Pandas"" Kaggle notebook by R… https://t.co/c3uthP55d7","Day 44 of #66DaysofData!
+Completed reading through the ""Break into Data Science - 01 - Pandas"" Kaggle notebook by Rudy Mizrahi.  I got to study about: 
+- subplot, add_subplot and subplots matplotlib.pyplot functions
+- Pivot tables
+- random.rand() numpy function.",0,6
+1320117184920682507,1299751299433496576,lukaszschab,Sat Oct 24 21:37:18 +0000 2020,Day 54: I have read Docker for Data Science — A Step by Step Guide https://t.co/swpOgPrvIl #66daysofdata… https://t.co/mVtsxK3Bwf,Day 54: I have read Docker for Data Science — A Step by Step Guide https://t.co/swpOgPrvIl #66daysofdata #datascience https://t.co/gx4ZksXTtK,1,2
+1320113963808428032,902263488134864896,namesbaun,Sat Oct 24 21:24:30 +0000 2020,"Day 42 and 43 of #66daysofdata:
+Yet another iteration nof stats
+- Covariance and Correlation
+- Probability Density… https://t.co/p6DmCsEx4Q","Day 42 and 43 of #66daysofdata:
+Yet another iteration nof stats
+- Covariance and Correlation
+- Probability Density Functions and Hypothesis Testing
+@KenJee_DS",0,5
+1320113054877704194,2225243816,risser_l,Sat Oct 24 21:20:53 +0000 2020,"Day 54 #66daysofdata
+I reviewed some python and machine learning concepts",None,2,5
+1320106203310100482,1302347066996293632,Andr93059843,Sat Oct 24 20:53:39 +0000 2020,#66daysofdata #100DaysOfCode #100DaysOfMLCode #MachineLearning Would anybody be interested in joining an online stu… https://t.co/EepDfFmWOl,#66daysofdata #100DaysOfCode #100DaysOfMLCode #MachineLearning Would anybody be interested in joining an online study group where we would go through a data science project in 60-90min on Zoom? 🥳,5,5
+1320097131991093249,1302347066996293632,Andr93059843,Sat Oct 24 20:17:37 +0000 2020,#66daysofdata Days 48-53: life got in the way a bit over the last couple of days but I still managed to practice cl… https://t.co/mKo2WMuKtm,#66daysofdata Days 48-53: life got in the way a bit over the last couple of days but I still managed to practice classification. I've started looking at more and more complicated projects. So I'm back on track now. 🥳,0,3
+1320095739666558976,822280007502295041,_paulo_lopez_,Sat Oct 24 20:12:05 +0000 2020,"Day 52 of #66daysofdata 
+I refreshed what are the most important evaluation metrics for regression and classificati… https://t.co/WFqFVfdZvm","Day 52 of #66daysofdata 
+I refreshed what are the most important evaluation metrics for regression and classification: 
+https://t.co/POvkKvad7j",2,18
+1320093114481184770,1039882181106126848,_stan_leigh,Sat Oct 24 20:01:39 +0000 2020,Day 54: Dimensionality reduction: Data compression and Data visualization.  #66daysofdata,None,1,5
+1320090746213396480,2148453230,isparam_teraiya,Sat Oct 24 19:52:14 +0000 2020,"Day 53 of #66daysofdata 
+Learning to create Interactive data visualization dashboards using Excel. 
+@KenJee_DS",None,0,6
+1320084233113784328,321527057,gmj_ds,Sat Oct 24 19:26:21 +0000 2020,"Day 53 of #66daysofdata - Today is a busy one with family,  but I will make time to listen to a few episodes from t… https://t.co/xYsdP2Tjwn","Day 53 of #66daysofdata - Today is a busy one with family,  but I will make time to listen to a few episodes from the @TDataScience podcast.  I am really enjoying their content!",0,6
+1320084203158032388,382172416,DeniseKGosnell,Sat Oct 24 19:26:14 +0000 2020,@pratiksha__ @WWCodeData Thank you for sharing! So glad to hear that your found the information to be insightful.… https://t.co/m5yrdbTkq2,"@pratiksha__ @WWCodeData Thank you for sharing! So glad to hear that your found the information to be insightful. 
+
+Enjoy your #66daysofdata !",0,4
+1320080069084274688,22637324,pratiksha__,Sat Oct 24 19:09:49 +0000 2020,"Day 13 of #66DaysOfData
+Joined @WWCodeData's event 'Exploring Graph Thinking' presented by @DeniseKGosnell.
+It was… https://t.co/pH4A7B8LY6","Day 13 of #66DaysOfData
+Joined @WWCodeData's event 'Exploring Graph Thinking' presented by @DeniseKGosnell.
+It was so interesting and presented in such an insightful way. I really appreciated hearing Denise's story in a refreshing and personal manner. 🤗",0,5
+1320074170416259073,1159830350102781953,KenJee_DS,Sat Oct 24 18:46:22 +0000 2020,"Day 54 of the #66DaysOfData! 
+
+Will likely be a lighter day, but planning to learn a bit more about @streamlit!
+
+Wi… https://t.co/p4NT2aMNKF","Day 54 of the #66DaysOfData! 
+
+Will likely be a lighter day, but planning to learn a bit more about @streamlit!
+
+Will be watching a few of the videos from @thedataprof's playlist on it: https://t.co/B4iGn2mrwr",0,11
+1320073616919203841,287494361,HakeemAmir,Sat Oct 24 18:44:10 +0000 2020,"@KenJee_DS Day 54 of #66daysofdata and UFC254
+
+Distributions (normal, bimodal, etc)",None,0,3
+1320071659353563138,1041554401997942784,MrsCSAmador,Sat Oct 24 18:36:23 +0000 2020,Day 54 (!) of @KenJee_DS #66daysofdata...I'm reading a lot and preparing for a project related to education. I'm wo… https://t.co/Q4hGZrl6lT,Day 54 (!) of @KenJee_DS #66daysofdata...I'm reading a lot and preparing for a project related to education. I'm wondering if anyone on here knows of data science practitioners  working in the educational space. I would love follow and learn from them.,0,3
+1320071411977736193,1300541186864590848,trainandtest,Sat Oct 24 18:35:25 +0000 2020,"#DailyRead Top 10 everyone-friendly articles on Data Science! 
+
+Source: HackerNoon, Medium
+
+#Data #DataScience… https://t.co/VbekG8tU3G","#DailyRead Top 10 everyone-friendly articles on Data Science! 
+
+Source: HackerNoon, Medium
+
+#Data #DataScience #MachineLearning #66daysofdata #100DaysOfCode #100DaysOfMLCode 
+
+https://t.co/dJs7Fmv9oA",9,8
+1320070160032559105,2562318241,NeemaMV,Sat Oct 24 18:30:26 +0000 2020,"Day 52  of #66daysofdata 
+Day 23 of #100DaysOfCode
+#DataScience
+A slow day. Went over few SQL hackerrank problem 
+D… https://t.co/Q5eZX3hTLB","Day 52  of #66daysofdata 
+Day 23 of #100DaysOfCode
+#DataScience
+A slow day. Went over few SQL hackerrank problem 
+Day 53
+Work related - Made few changes to the dashboard based on executives feedback
+Day 54
+Started with the final submission report of the capstone project",5,10
