@@ -1,24 +1,27 @@
 #####
 # Script requiers a user to change the dates for the output files 
-# automtic file naming is in progress
-
 
 # imports
 import os
 import tweepy as tw
 import pandas as pd
 import pickle
+import time
+from datetime import date
 
 # define keys
-consumer_key = 'XXX'
-consumer_secret = 'XXX'
-access_token = 'XXX'
-access_token_secret = 'XXX'
+consumer_key = 'OpNlPUgcKljkK7aLzxlI7pJag'
+consumer_secret = 'v4gygbVfo8BkJjmEDR0t8Gm0XNmkFC2hdROl1ppLRL7kMUnNBE'
+access_token = '1300492664308146176-iy5PQJpBz6Qe99ytcGhpaY6RjlnmmY'
+access_token_secret = 'IVwERrMYR2xhks5HYiFsHqDS94nz0cELzxVreF9eZlQ2G'
 
 # set keys
 auth = tw.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
 api = tw.API(auth, wait_on_rate_limit=True)
+
+# save the date to name the file
+date_today = date.today()
 
 # define searchword
 # -filter:retweets will exclude the retweets
@@ -62,9 +65,18 @@ d = {'tweet_id': tweet_id, 'user_id': user_id, 'user_name': user_name, 'created_
      'retweets': retweets, 'favorite': favorite}
 data_df_tweepy = pd.DataFrame(d)
 
+# file name
+file_name_csv = 'tweets_' + date_today.strftime('%d.%m.%Y') + '_tweepy.csv'
+file_name_pkl = 'tweetsData_' + date_today.strftime('%d.%m.%Y') + '_tweepy.pkl'      
+
+
 # saves the DataFrame as a csv:
-data_df_tweepy.to_csv('tweets_06.11_28.10_tweepy.csv', index=False)
+data_df_tweepy.to_csv(file_name_csv, index=False)
 
 # saves the original list from tweepy with all the information as a pickl
-with open('tweetsData_06.11_28.10_tweepy.pkl', 'wb') as f:
+with open(file_name_pkl, 'wb') as f:
     pickle.dump(list_tweets, f)
+
+
+
+
