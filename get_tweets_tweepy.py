@@ -10,10 +10,10 @@ import time
 from datetime import date
 
 # define keys
-consumer_key = 'OpNlPUgcKljkK7aLzxlI7pJag'
-consumer_secret = 'v4gygbVfo8BkJjmEDR0t8Gm0XNmkFC2hdROl1ppLRL7kMUnNBE'
-access_token = '1300492664308146176-iy5PQJpBz6Qe99ytcGhpaY6RjlnmmY'
-access_token_secret = 'IVwERrMYR2xhks5HYiFsHqDS94nz0cELzxVreF9eZlQ2G'
+consumer_key = 'XXX'
+consumer_secret = 'XXX'
+access_token = 'XXX'
+access_token_secret = 'XXX'
 
 # set keys
 auth = tw.OAuthHandler(consumer_key, consumer_secret)
