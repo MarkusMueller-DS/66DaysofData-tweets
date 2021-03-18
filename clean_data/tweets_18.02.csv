@@ -1,0 +1,1998 @@
+tweet_id,user_id,user_name,created_at,full_text,retweets,favorite
+1362373014080249865,1188798821024722945,Muh_Raihan_P,Thu Feb 18 12:06:52 +0000 2021,"Day 37 of #66daysofdata v2:
+Further read on Feature Importance, especially when it comes to tree algorithms. Also getting to know better how to infer them to make further domain analysis.",0,0
+1362364346211385351,1361574104483172357,RahilBelim7,Thu Feb 18 11:32:26 +0000 2021,"Day 2 : Today I worked on a project called ""2020 Kaggle ML &amp; DS Survey"" with @KenJee on YouTube and did a lot of analysis in it.
+
+#66daysofdata
+
+https://t.co/L194E4Swe3 https://t.co/HMvqVE1wJv",0,1
+1362362828460601344,1319044673080524801,meghansharris,Thu Feb 18 11:26:24 +0000 2021,Day 46 of #66daysofdata. Feeling a bit sick today so taking it easy. Probably going back and forth between my EDA and website design stuff for work.,0,4
+1362358346574086145,1345374681008926723,DataLiteracy66,Thu Feb 18 11:08:35 +0000 2021,"Once you validate that a data series is approximately normal, you can benefit from its properties.  Day 46 of #66DaysOfData shows the the power of two functions (PDF &amp; CDF) as we refocus distributions into probabilities. 
+
+#100DaysOfCode #DataScience
+
+https://t.co/jQuxEEGrWL https://t.co/qryFShSXT0",10,7
+1362327832353980418,2721077850,ahobeus,Thu Feb 18 09:07:20 +0000 2021,"Day 1 of the #66daysofdata
+Learned about lambda functions and context managers in python",0,0
+1362316939083743233,23293578,therealjaysueno,Thu Feb 18 08:24:03 +0000 2021,"Day 12 of #66daysofdata with @KenJee_DS . Tonight I learned about cadCad, a Python library for data scientists to model and analyze dynamical systems. (That was a mouthful)
+
+It's a skill set that's in demand and new. Here's a link to the free course: https://t.co/A38iP7rN56",0,0
+1362311586040467460,2527930848,joao96santos,Thu Feb 18 08:02:47 +0000 2021,"40 / #66DaysOfData
+Listened to Adrien Treuille (CEO Stremlit) on KNN EP 35
+
+https://t.co/MKwfII9wcM",0,2
+1362307190975963136,1059790562587492357,AvinShah_,Thu Feb 18 07:45:19 +0000 2021,"Day 45 of #66DaysOfData 2.0 with 
+@KenJee_DS
+
+ Continued on A/B Testing  
+     --Designing an Experiment",0,2
+1362293413849227264,397272525,shatandv,Thu Feb 18 06:50:34 +0000 2021,"Plan for Day 46 of #66DaysOfData!
+- Do 1 @hackerrank Python and SQL problem,
+- Finish @3blue1brown's linear algebra series,
+- Complete units 2-3 of @DataCamp Time Series Manipulation,
+- Implement Linear Regression from scratch.
+Yesterday was a tough day, let's pull through today.",0,3
+1362292834645266432,397272525,shatandv,Thu Feb 18 06:48:16 +0000 2021,"Day 45 of #66DaysOfData summary:
+- Didn't do @hackerrank,
+- Learned about the change of basis and eigen-things from @3blue1brown,
+- Didn't work on the 2nd unit of @DataCamp
+ Time Series Manipulation,
+- Didn't implement Linear Regression,
+- Spent the whole day with SQLAlchemy...",0,2
+1362292249975873540,1159830350102781953,KenJee_DS,Thu Feb 18 06:45:57 +0000 2021,"Day 45 of the #66DaysOfData Round 2! 
+
+Watched another great video on StyleGAN2 ADA by @jeffheaton! Cute puppy generation here I come! 
+
+https://t.co/CaFOjrhd4T",1,15
+1362275798984445954,1230211224337432576,aaronpetryio,Thu Feb 18 05:40:34 +0000 2021,"Day 45 of #66DaysOfData:
+- Downloaded more Survivor data for the Survivor analysis project
+- Listened to @KenJee_DS's chat with @myelbows on Ken's Nearest Neighbors (can't wait to create my first app!)",0,4
+1362274804888334340,1310356801909522433,_shreejaya,Thu Feb 18 05:36:37 +0000 2021,"Day 41 of #66daysofdata by @KenJee_DS
+ 
+Worked on hyperparameter tuning &amp; model validation chapter from the Python Data Science Handbook.",1,2
+1362267462436200452,1023818495471964160,NMashinchi,Thu Feb 18 05:07:27 +0000 2021,"Update on the #66daysofdata  challenge.
+
+Day 45 Wednesday - February 17th: Listened to the latest @TDataScience podcast during my lunch break. Really enjoyed listening about the future role of AI systems in democracy and government. Great episode 👍🏽 #datascience #ai",1,0
+1362264134960766985,1208077315747528704,SiphuLangeni,Thu Feb 18 04:54:14 +0000 2021,"Day 48: #MAE or #RMSE? Both measure average prediction errors in same unit as target variable. RMSE penalizes large errors. MAE easier to compare samples of different sizes. Both super easy using #sklearn #python
+
+#100DaysOfCode #66DaysOfData #DataScience #ModelMetrics #BWIAI",17,14
+1362257071144493061,209191879,bhatnagarkush,Thu Feb 18 04:26:09 +0000 2021,"Day 23 : Learned about @awscloud  Athena and QuickSight services and different use cases where these two can be integrated in Data pipeline
+#66daysofdata #AWS #MachineLearning",2,2
+1362254730592985092,1291114285507186690,jaimedatalatte,Thu Feb 18 04:16:51 +0000 2021,"D45. #66DaysofData 
+
+- Randomly applying what i learned with plotly. Just getting familiar with it starting with the classics (histograms and boxplots) https://t.co/4uUfTO6A9x",1,15
+1362251328165150721,21089537,leggomymego,Thu Feb 18 04:03:20 +0000 2021,Day 25: Demo'd a dynamic chart live on the web for a client today. Zero backend server setup required! #66daysofdata,0,4
+1362250562822148097,1099354391423913985,SarbottamM,Thu Feb 18 04:00:18 +0000 2021,"Day 47 of #66DaysOfData 
+Built the Naive Bayes classifier from scratch out of curiosity. Knowing how models work under the hood is important for model interpretability.
+Happy Learning!!!",0,5
+1362237808967110661,3432128877,Coach_Raz26,Thu Feb 18 03:09:37 +0000 2021,"Day 36: #66daysofdata 
+Worked on our in-season @VXSport GPS daily report for @DelawareWLax &amp; @DelawareFH! Visual to be released soon! 💪🤓📊 #dataviz #SportsAnalytics #SportsScience",0,3
+1362228437834948616,1032436236533882880,asteroidcodes,Thu Feb 18 02:32:23 +0000 2021,Day 1 ✨ Today I started the #66daysofdata by refreshing the basics of Machine Learning. I'm excited. This time I'm gonna make it!,0,4
+1362228350895468548,1344041087384637441,maxedataille,Thu Feb 18 02:32:02 +0000 2021,"Day 44 &amp; 45 of #66daysofdata checked some videos on the titanic project, fitted my model with logistic regression.",0,3
+1362225528636375041,18383562,pathria,Thu Feb 18 02:20:49 +0000 2021,#66daysofdata titanic data science solutions - much easier to start with and understand https://t.co/ms2sfuDU2T,0,1
+1362224619718082560,2149586883,vperez2000,Thu Feb 18 02:17:12 +0000 2021,"#66daysofdata #Round2 #Day41
+#41: https://t.co/srIaUsYkhz
+
+How to stay motivated  by @KenJee_DS
+
+1. Small tasks (1 🦶🏻 in front of the other)
+2. Measurable goals (that you can control)
+3. Keep track of your process
+4. Schedule your day
+5. Design your workplace(🧐 I like this one)",0,4
+1362216489495879680,1090353930,Luisfreii,Thu Feb 18 01:44:54 +0000 2021,"Day 2 #66daysofdata.
+Learned a little about interaction between variables in a linear regression model. Also learned about partial F-test.",0,6
+1362207938077724674,1341882826757705729,DataSurviving,Thu Feb 18 01:10:55 +0000 2021,Day 19 of #66daysofdata today I worked on data cleaning of a data set for a company project.,0,4
+1362195402074693636,1346312420780752896,Comet_Miller,Thu Feb 18 00:21:06 +0000 2021,"Day 34 of #66DaysOfData 
+
+Statistics:
+Got to page 102 in ISL
+
+Programming:
+Began watching TidyX #13
+
+Personal Project:
+Continued working with Paul Mitchell data",0,3
+1362194346343206912,981243701610602497,_CynicalCyanide,Thu Feb 18 00:16:55 +0000 2021,"Day 28
+Today my baby cousin asked my why I liked staring at the computer screen and crying. 
+
+Linear Algebra
+Crying in Python
+
+#100DaysOfCode
+#100daysofcodechallenge 
+#66daysofdata",4,7
+1362188479778619393,1267805283511750660,Binal_BP,Wed Feb 17 23:53:36 +0000 2021,"Day 44: #66daysofdata 
+
+For my project I’m working with Twitter data. I’m starting off with data related to this challenge😅 Today I spent most of my time cleaning the tweets.",0,5
+1362178954799423488,1041554401997942784,MrsCSAmador,Wed Feb 17 23:15:45 +0000 2021,"Day 44 of #66daysofdata with @KenJee_DS 
+Finished Kaggle's SQL course.
+ 
+Noticed that debugging the sql in a BigQuery environment is difficult. Best to debug the sql on a tiny test set in a different sql environment. 
+
+Also wondered who else codes to decompress. https://t.co/dJ3ZR7hGFO",0,8
+1362175306220539907,1316454234447990784,data_motivated,Wed Feb 17 23:01:15 +0000 2021,Wow. I finally was able to deploy. I have learned so much during this project. I will be creating a series of blog posts detailing my process and what tools I used. It is officially day 42 of the #66daysofdata challenge! #DataScience #MachineLearning,2,9
+1362166959304036354,1348370660389777409,GnzVicente,Wed Feb 17 22:28:05 +0000 2021,"Day 39 of #66DaysOfData:
+
+Today I learned about dot product, vector multiplication and linear dependence. Linear algebra theory has been a bit heavy but I'm still understanding what I need to.
+
+Went through R documentation to refresh useful stats functions, already miss Python.",0,3
+1362165848136376325,1096479301074063361,Petec0x0,Wed Feb 17 22:23:40 +0000 2021,"Day 48 of #66daysofdata. 
+Applied the knowledge from these articles to the Housing dataset.
+How to use the ""Boruta"" python library for feature selection.
+#Python #DataScience #MachineLearning https://t.co/Z0oYFpXHw4",3,3
+1362163469731196928,1354448802,opemomodu_DS,Wed Feb 17 22:14:13 +0000 2021,"Day 39 of the #66daysofdata with @KenJee_DS 
+
+- Completed the Logistic Regression project on @SoloLearn 
+- Attended a Q&amp;A session on data analytics hosted by @utiva_io, a golden interactive session 🔥
+- Learnt how to use the KFold cross-validation to create a good training and",0,3
+1362163127232692230,1300017281666363394,mrvsokolovsky,Wed Feb 17 22:12:51 +0000 2021,Days 44-45 of #66DaysOfData v2.0 by @KenJee_DS. I spent yesterday getting my covid model to work properly and today I finally got this thing to work. Rest of the time today (maybe 2 hours) I spent starting with the Titanic competition on Kaggle.,0,7
+1362154925795532807,1295354412794249219,thebrowndeity,Wed Feb 17 21:40:16 +0000 2021,"Day 21 of @KenJee_DS #66daysofdata:
+-Learnt about Conditional Selection on Pandas
+- Reseting Index
+- Argued with someone who said Data Science is boring 😂😂😂💔",1,3
+1362153135792390145,288875016,romainBechet,Wed Feb 17 21:33:09 +0000 2021,"#66daysofdata Day 49/66
+- Continued the project, I now have the number of days without games for each injury. 
+- Tomorrow: at least number of missing games!
+- Lot's of missing values in the dataset, I implemented double-check with another database I have on my computer",0,1
+1362151474923511812,319888531,ZubbyD,Wed Feb 17 21:26:33 +0000 2021,"Day 45 of #66DaysOfData with @KenJee_DS:
+
+Today, I started a project on studying the taxi-out time of airlines and how fuel consumption can be reduced. I focused on scraping the data today. There is so much to learn through doing projects. 
+1/2",0,8
+1362145739535773698,1324652185964204033,meyke9976,Wed Feb 17 21:03:46 +0000 2021,"Day 45 of #66daysofdata by @KenJee_DS 
+I finally got around to the modeling bit again. Improved the RMSLE from 0.17... to 0.12... Not brilliant, but for this point in my journey, I think it is ok. I might come back to it later, who knows! For now, I can say it thought me lots!",0,8
+1362145294964699141,324583975,georgekanellos,Wed Feb 17 21:02:00 +0000 2021,"Day 38 of #66daysofdata by @KenJee_DS
+
+Studied further multi-label image classification which included defining multi-label accuracy and loss functions.",0,2
+1362143496665260040,14093270,nbinowski,Wed Feb 17 20:54:51 +0000 2021,"Day 41 of #66daysofdata by @KenJee_DS 
+more reasons to love #python df = df.dropna() 
+Geocoding and mapping with folium and OpenMapQuest Discovered only the Eastern half of US is tweeting #tennis on a day that Serena meets Naomi again.  Why?  is the relevant #datascience question https://t.co/24d1TuVe4e",3,5
+1362138881076854785,1321234112,VXSport,Wed Feb 17 20:36:31 +0000 2021,"VX Sport has enjoyed following @Coach_Raz26 #66DaysofData project! Christina has been utilising VX GPS Data to highlight the technology that student-athletes use to improve performance and remain resilient. 
+
+Keep up the great work! https://t.co/krgFszEdhs",1,2
+1362133303646633984,1262838138948517888,KasimSegun,Wed Feb 17 20:14:21 +0000 2021,"Day 45 of #66daysofdata 
+- Completed “Streamlined data ingestion with pandas by amanu Mahfouz” @DataCamp 
+- learnt about json file type and how to extract them using API’s
+- Learnt about getting data from databases and loading them into pandas DataFrames",0,3
+1362132360125382660,1302704071837704197,KOrfanakis,Wed Feb 17 20:10:36 +0000 2021,"Day 28 of #66daysofdata R2
+- I revised the main concepts of Ch. 11. I also started exercise 8, which is a classification task on the CIFAR10 dataset.
+- I almost completed my project on COVID in Greece. I need to make a few tweaks/corrections before uploading.",0,9
+1362132219737894917,939519071380525058,asma_massad,Wed Feb 17 20:10:03 +0000 2021,"Day 12 of #66daysofdata
+- Viewed an advanced EDA tutorial.
+- Worked a little bit on the classification project.
+
+#datascience  #Python #machinelearning  #coding #programming #AI",7,3
+1362126951834615813,1360727881,kanay07,Wed Feb 17 19:49:07 +0000 2021,"Day 27 of #66daysofdata 
+
+Continued watching the CS50 lecture.",0,3
+1362125102599598092,967674092273983489,joleenbothma,Wed Feb 17 19:41:46 +0000 2021,"Day 41 of #66DaysofData 
+
+Reading competing on analytics by Davenport &amp; Harris. 
+
+This book is gold for understanding how companies move through the different stages of using analytics - from basic as hoc reports to machine learning",0,3
+1362123763605716992,63557338,egm_photo,Wed Feb 17 19:36:26 +0000 2021,"Day 45 of #66DaysOfData with @KenJee_DS 
+
+Another hectic day. Did not get into the Data Engineering book. But I listened to the interview of @streamlit's @myelbows on KNN (https://t.co/OHKdYSunPf).",0,3
+1362117234211106817,896716355411611648,martinnyakimov,Wed Feb 17 19:10:30 +0000 2021,"[Day 48 of #66DaysOfData]
+Studied statistics at school
+Finished fundamentals of R - @365datascience",0,4
+1362116784019681283,1332613548,imkeller_5,Wed Feb 17 19:08:42 +0000 2021,"Day 45 Part 2 of the #66daysofdata! Thanks to the explanation of @nickwan on his stream I was able to use cross-validation in my model. Unfortunately something is off about the final values (a Takeaway has somehow a negative value), so I have to take a look at the logic tomorrow.",0,2
+1362113115874205698,767218177,arif_zeeshan7,Wed Feb 17 18:54:08 +0000 2021,"#66DaysOfData with @KenJee_DS
+Day #2- started with Numpy package. Came to know alot why Numpy is faster than normal python.",2,9
+1362101049465524227,705259722761306113,ankitahlawatTP,Wed Feb 17 18:06:11 +0000 2021,"Q: Why do Websockets make the best therapists?
+
+A: They are always listening.
+
+#100DaysOfCode #66daysofdata #javascript #github",4,4
+1362093867647053828,3108644521,akanshabhatt71,Wed Feb 17 17:37:39 +0000 2021,"#66daysofdata Day 26:
+Studied about GROUP BY( for running basic segmentation), ORDER BY (for sorting values in SQL table), DISTINCT ,( to remove duplicates), rename a column, Joins ( inner join, full join, left join and right join) and a little about Chatbot.
+@KenJee_DS",0,4
+1362090639706365953,806854993256947713,Saurabh___Joshi,Wed Feb 17 17:24:49 +0000 2021,"Day 48 V_2 of #66DaysOfData with @KenJee_DS
+
+1. Did some SQL query database for week2 course project.
+2. Completed all video of Week2 Course.
+3.  Finalized my Data Mining college Project, started working on python scripts.
+4. Today was a very busy day😥
+5. Practiced some SQLquery",0,6
+1362089698953474048,784839510303453185,tthoraldson,Wed Feb 17 17:21:05 +0000 2021,"Day 48/66 of #66daysofdata: Completed ""Our Privacy Opportunity"", course 1 in the Private AI-series from @openminedorg. I learned so much in 7 hours, and I can't wait for the next courses to be released.",0,6
+1362086465237250050,1331398329977032707,aloknag_10,Wed Feb 17 17:08:14 +0000 2021,"Day 41 of #66DaysOfData:
+Continued with Tableau tutorials. 
+Learnings : 
+- overview of sheets, dashboards and stories
+- learned about different data connectors
+- connecting to access databases
+- visualizations based on measures and dimension selection",0,5
+1362079038328745990,1281890679052857346,ShrutiJ87241031,Wed Feb 17 16:38:43 +0000 2021,"Day 9: 2nd round #66daysofdata 
+- watched recoding of DATAcated Confrence 
+- watched some video on logistics project.
+- attending Data Science Salon today as well 💯
+@KenJee_DS",0,11
+1362068595522605060,951871594376376320,JackRaifer,Wed Feb 17 15:57:13 +0000 2021,"#66DaysOfData with @KenJee_DS R2 Day #41.
+Working on the next Road to Data Science article.
+Spent some time reading for some of the #DATApreneurs projects.
+Wondering about the future of Data Science. https://t.co/kJoWqpP2En",2,19
+1362066026771345410,872880426515259393,jeffmli,Wed Feb 17 15:47:01 +0000 2021,"Forgot to post on Sunday and yesterday #66daysofdata 
+
+Day 38 - Worked with @KenJee_DS on building out a simulation model for NCAAB bracket! 
+
+Day 39 - Yesterday, spent time reading through a fivethirtyeight blog post on their methodology.",0,6
+1362056496012427265,3023431117,tibi01993,Wed Feb 17 15:09:09 +0000 2021,"Day 20: Naive Bayers with Python
+Day 21: Decision Tree Classification
+#66daysofdata",0,3
+1362055152417447937,1344904404240015360,hereigoagainbyk,Wed Feb 17 15:03:48 +0000 2021,"Day 42 #66daysofdata 
+Continue doing project in Python: Telco lapsed dataset - 
+classification and clustering -&gt; Data Preparation for Clustering",0,1
+1362049677361782784,731856877139558400,01Abhi10,Wed Feb 17 14:42:03 +0000 2021,"#66daysofdata with @KenJee_DS 
+
+Day 44: Learning Numpy.",0,7
+1362047806794465280,2936164585,PPatil699,Wed Feb 17 14:34:37 +0000 2021,"#day45 of #66daysofdata with @KenJee_DS went through Bert architecture, was pretty easy to understand as transformers is the base",0,5
+1362042276948676616,1361227694889967616,dataQueen_pend,Wed Feb 17 14:12:39 +0000 2021,"I am continuing my learning of python with https://t.co/5D3zLauEIN. 
+
+I've finished Basic string operations. The next step - conditions. 
+
+I need to say. I'm a bit confused &lt;-- That's a sign that my brain needs to proccess this data.
+
+#66daysofdata",0,0
+1362027680993050626,1361227694889967616,dataQueen_pend,Wed Feb 17 13:14:39 +0000 2021,"That was quick! I finished free introduction to python course from @DataCamp. And I want to know more. 
+
+#66daysofdata
+This one only grow my apetite! https://t.co/kQQIMNRbyl",0,1
+1362017390289186820,1361574104483172357,RahilBelim7,Wed Feb 17 12:33:45 +0000 2021,Day 1 : #66daysofdata today i have learned about how to get into data science without a degree and than start to find some project ideas. https://t.co/MNEj5U9fKV,0,3
+1362017219719426049,1923780086,BynsJn,Wed Feb 17 12:33:04 +0000 2021,"Day 1 of #66daysofdata with @KenJee_DS  !
+#SpamDetector
+I was saving some webs to read for a future Chatbot project and I get across with this ' sms : spam &amp; ham ' data set, so I decided to work in a simple SMS spam detector with the data I collected!  And it works great! https://t.co/smbDx6tX5b",0,6
+1362010866556821506,1365464532,HaddadArmen,Wed Feb 17 12:07:50 +0000 2021,"Day 2: Was able to squeeze in a live Webinar held by @MindsDB about Machine Learning Democratization in a pretty busy school day. 
+#66daysofdata #MachineLearning #DataScience #BigData",9,8
+1362007595372994560,1319044673080524801,meghansharris,Wed Feb 17 11:54:50 +0000 2021,"Day 45 of #66daysofdata. Worked last night to update the dashboard. Not sure if it’ll be featured as a demo in a press release tomorrow or not. Either way it’s done for now. A lot of dr. Appointments, meetings, and running around today. Maybe I’ll have time to go back to my EDA🥱",0,4
+1361995069243486208,1345374681008926723,DataLiteracy66,Wed Feb 17 11:05:03 +0000 2021,"Day 45 of #66DaysOfData looks at three ways to validate if your #data follows the famous normal distribution, which many refer to as the bell curve.
+
+#100DaysOfCode #DataScience #DataLiteracy
+
+https://t.co/ILBq6mCftY https://t.co/QzMvv3mOJY",12,11
+1361993645390323720,1329313525974532097,AyubRasool14,Wed Feb 17 10:59:24 +0000 2021,Day 45/66 and 46/66: My side project is on hold since I am having a packed schedule. I continued on my udemy course. #66daysofdata,0,3
+1361968325199241222,1342877464792498182,HerlimRenaldy,Wed Feb 17 09:18:47 +0000 2021,"Day 48 - I’m very proud of what I made today, this dashboard lets the user go in depth with how their employee is performing! Let me know what you guys think I can improve on. #66daysofdata https://t.co/TttB6DjJbq",0,3
+1361967756929732612,1342877464792498182,HerlimRenaldy,Wed Feb 17 09:16:32 +0000 2021,"Day 47- I did a little work on implementing Google Tag Manager for my internship’s website.
+
+Other than that, a day full of PowerBI visualizations! Still getting the hang of things, having a hard time deciding how to order things around to make it look neat #66daysofdata https://t.co/jSwyMDKzT6",0,3
+1361957678541496321,1453368613,VivanVatsa,Wed Feb 17 08:36:29 +0000 2021,"algorithmic tension bw data engineer and data scientist 
+who wins? #datascience #dataengineer #66daysofdata #AI #MachineLearning",2,5
+1361955323649478657,1354399804151967744,farzana_rh,Wed Feb 17 08:27:07 +0000 2021,"#66DaysofData @KenJee_DS 
+Day 10-11: 
+· Dibble on R programming and the features of RStudio. 
+· Working on a ""statement of purpose"" for a bioinformatics graduate program.",0,3
+1361946613795545090,1159830350102781953,KenJee_DS,Wed Feb 17 07:52:31 +0000 2021,"Day 44 of the #66DaysOfData Round 2! 
+
+Spent most of the day on video editing and admin. Still got in about 15 minutes of work testing / tuning the model we built yesterday. 
+
+Remember, it is a marathon not a sprint!",0,23
+1361943983887417348,397272525,shatandv,Wed Feb 17 07:42:04 +0000 2021,"Plan for Day 45 of #66DaysOfData!
+- Do 1 @hackerrank Python and SQL problem,
+- Watch a @3blue1brown linear algebra video,
+- Complete the 2nd unit of @DataCamp Time Series Manipulation,
+- Still want to implement the LR model from scratch.",0,4
+1361943681973030913,397272525,shatandv,Wed Feb 17 07:40:52 +0000 2021,"Day 44 of #66DaysOfData summary:
+- Didn't do @hackerrank,
+- Learned about Cramer's Rule from @3blue1brown linear algebra video,
+- Completed the 1st unit of @DataCamp Time Series Manipulation course,
+- Didn't have time for LR implementation.",0,3
+1361937997583810561,1308365362598215680,maszanski,Wed Feb 17 07:18:16 +0000 2021,"Day 53 of #66daysofdata 
+Today I want to inquire a couple of techniques better: deal with categorical data &amp; feature selection (for improving my result on #Kaggle). Moreover, my plans include writing a crash-scheme for actions in every competition, such as EDA,  pipelines, etc. https://t.co/YRrEQWkNTl",0,2
+1361929890732204034,1310356801909522433,_shreejaya,Wed Feb 17 06:46:04 +0000 2021,"Day 40 of #66daysofdata by @KenJee_DS 
+
+Today I worked on revising fundamental statistics concepts!",0,5
+1361929764781518848,1230211224337432576,aaronpetryio,Wed Feb 17 06:45:34 +0000 2021,"Day 44 of #66DaysOfData:
+- Completed 'A Visual History of Nobel Prize Winners' on @DataCamp 
+
+Getting a little distracted with some additional hobbies, but making sure I make time for data.",0,7
+1361920768750194692,1258031380136509441,thatshutterboi,Wed Feb 17 06:09:49 +0000 2021,"Try OneStep now!
+https://t.co/OcrPNxI36H
+
+#PawriHoRahiHai #AI #MachineLearning #Deeplearning #memesdaily #TensorFlow #DataScience #66daysofdata #Trending #trendthis #OneStep #edtech #educational https://t.co/q87Jdz24xi",10,11
+1361918206491828227,1059790562587492357,AvinShah_,Wed Feb 17 05:59:38 +0000 2021,"Day 44 of #66DaysOfData 2.0 with 
+@KenJee_DS
+
+ Read Articles on A/B testing
+    --Data science you need to know! A/B testing https://t.co/Sq4MG5c1JH
+    --A/B Testing for Data Science using Python – A Must-Read Guide for Data Scientists https://t.co/r8vUe6VZPs",2,5
+1361911844412133378,2395797715,jjmachan,Wed Feb 17 05:34:21 +0000 2021,"Day 26 - #66daysofdata 
+Had to take a break for some time to focus on what to focus (still did not figure that out 🙂). 
+But like Denis Waitley says 
+“Don’t dwell on what went wrong. Instead, focus on what to do next. Spend your energy moving forward together towards an answer.”",0,6
+1361910460040249344,1306505184911208453,mt0rm0,Wed Feb 17 05:28:51 +0000 2021,D12 of #66daysofdata: Reviewing Polynomial regression and step functions,0,4
+1361907630449516545,957812876097605634,ZachFeldman3,Wed Feb 17 05:17:36 +0000 2021,#66daysofdata Days 41-44(?): Working on a private project with some really good progress. Good practice with nested data and functional programming (and help from @chuurveg),0,7
+1361906648990670849,1267805283511750660,Binal_BP,Wed Feb 17 05:13:42 +0000 2021,"Day 43: #66daysofdata 
+
+Today was a short session. Worked with regex in NLP.",0,7
+1361901880780066822,209191879,bhatnagarkush,Wed Feb 17 04:54:45 +0000 2021,"Day 22 : Learned about different Python libraries for Exploratory Data Analysis
+#66daysofdata #MachineLearning",0,3
+1361899087302455297,1208077315747528704,SiphuLangeni,Wed Feb 17 04:43:39 +0000 2021,"Day 47: Swinging around in the trees again! Don’t you love tree based #MachineLearning algos? Tendency is to overfit so keep the trees shallow. Tune splits at leaf nodes. Adjust amount of data sampled.
+
+#100DaysOfCode #66DaysOfData #DataScience #RandomForest #DecisionTree #BWIAI",11,10
+1361891247590416388,4769857642,louis__simpson,Wed Feb 17 04:12:30 +0000 2021,Day 37 of #66DaysOfData - 45 minutes on @acloudguru Intro to Azure #MachineLearning #AI #DataScience,1,4
+1361882990842839043,1258031380136509441,thatshutterboi,Wed Feb 17 03:39:42 +0000 2021,"Fan Of Opensource and Looking to Learn ML? Check out OneStep. An Open-source platform that's one stop solution to all your ML needs.
+Check it out here - https://t.co/OcrPNxI36H
+
+#DataScience #AI #OpenSource #education #DigitalTransformation #MachineLearning #edtech #66daysofdata",3,12
+1361881231227576320,3432128877,Coach_Raz26,Wed Feb 17 03:32:42 +0000 2021,"Day 35: #66daysofdata 
+Creating visuals must appeal to a specific audience!
+
+Had a great meeting to review specific stats and analytical analysis for @DelawareFB w/ @ChrisStewart302 @CoachTomEvans 
+
+Collecting data is great, but if it isn’t implementable it’s a waste! #Analytics",0,5
+1361878270363410432,1023818495471964160,NMashinchi,Wed Feb 17 03:20:56 +0000 2021,"Update on the #66daysofdata challenge.
+Day 44 Tuesday - February 16th: It's my birthday today, and before I call it a day, I had to complete an easy SQL question to get the 4th star on @hackerrank.  I need another 195 to get the gold badge. 😉 
+#DataScience #SQL  #hackerrank https://t.co/AVqUaHkohT",4,2
+1361876953901457409,784839510303453185,tthoraldson,Wed Feb 17 03:15:42 +0000 2021,Day 47/66 of #66daysofdata: Worked on the final project for Course 1 in the Private AI series from @openminedorg.,0,3
+1361867461600108544,1099354391423913985,SarbottamM,Wed Feb 17 02:37:59 +0000 2021,"Day 46 of #66DaysOfData 
+
+Worked on data preprocessing step for spam corpus data from Spamassassin. 
+
+And as a usual light workout for the mind and body.
+
+Happy Learning!!!",0,1
+1361860743545708547,1291114285507186690,jaimedatalatte,Wed Feb 17 02:11:18 +0000 2021,"D44. #66daysofdata 
+
+I just completed the course ""Introduction to Data Visualization with Plotly in Python""! https://t.co/MyDvapDRzT via @DataCamp",0,23
+1361860154896113669,722533518,nelotsak,Wed Feb 17 02:08:57 +0000 2021,"#66daysofdata with @KenJee_DS day 39:
+Reviewed differences between GA 4 and GA universal properties as thus:
+
+*GA4 enables flexible data collection
+*GA4 enables Ad-hoc reports
+*GA4 enables auto tracking
+*GA universal provides permanent filters ...
+
+#DataScience
+#Analytics",1,3
+1361856101965328389,1332613548,imkeller_5,Wed Feb 17 01:52:51 +0000 2021,"Day 44 Part 2 of the #66daysofdata! Did some ""first analysis"" attempts with my model. Also did some more tutorials on typescript for the visualisations in my bachelor thesis/project.",1,3
+1361843413872615425,1346312420780752896,Comet_Miller,Wed Feb 17 01:02:26 +0000 2021,"Day 33 of #66DaysOfData 
+
+Statistic:
+Got to page 99 in ISL
+
+Programming:
+Finished watching TidyX #12
+
+Personal Project:
+Continued working on a project I started at the beginning of the 66 days with Paul Mitchell School data; mostly data cleaning",1,1
+1361825883451981824,345564461,tolz_kay,Tue Feb 16 23:52:46 +0000 2021,"Day 42-44 of #66DaysOfData (Day 16-18) by @KenJee_DS 
+
+- SQL Practice on @DataCamp and w3resource.",0,3
+1361823350071435265,63557338,egm_photo,Tue Feb 16 23:42:42 +0000 2021,"Day 44 of #66DaysOfData with @KenJee_DS 
+
+Hectic day. I listened to The Future of Data Engineering on https://t.co/8NlLixaTWh.
+
+Also managed to spare a few minutes to help someone with the installation off Anaconda on their system.
+
+Tomorrow back to the Data Engineering book.",0,3
+1361820339131604992,1248200658672652288,MileticNemanja9,Tue Feb 16 23:30:44 +0000 2021,"#5 of #66daysofdata
+
+Continued revising on linear algebra. Learned some new concepts. 
+
+Had some ideas for projects.",0,1
+1361811684868972545,1348370660389777409,GnzVicente,Tue Feb 16 22:56:21 +0000 2021,"Day 38 of #66DaysOfData:
+
+Spent the day reviewing basic linear algebra concepts and sampling distributions, mostly preparing for classes 😅
+
+I'm excited to start diving deeper into the content!",0,1
+1361810800688652290,1348766102529171467,KeerthanaJagan5,Tue Feb 16 22:52:50 +0000 2021,Day 24 of #66daysofdata : Still figuring out Pytorch code to include validation along with training in pix2pix repo @KenJee_DS,0,4
+1361808735056855042,319888531,ZubbyD,Tue Feb 16 22:44:38 +0000 2021,"Day 44 of #66DaysOfData with @KenJee_DS:
+Today, I studied variable selection in R. When fitting a model, how many regressors are too much or too little or just right? I explored several stepwise methods for carrying this out. 
+#CodeNewbie #DataScience #MachineLearning",4,9
+1361807806190530563,1262838138948517888,KasimSegun,Tue Feb 16 22:40:56 +0000 2021,"Day 44 of #66daysofdata 
+- Continued “Streamlined data ingestion with pandas by amanu Mahfouz” @DataCamp 
+- Completed the second Chapter 
+- Learnt about working with date strings in pandas, working with bools in dataframe and reading excel workbooks as df",0,5
+1361804637695844355,196739994,_AnglinaB,Tue Feb 16 22:28:21 +0000 2021,"Day 11 of #60DaysOfPython and #66DaysOfData 
+
+Finished watching Lecture 3 of the @JovianML DS&amp;A course about Sorting Algorithms.",0,3
+1361803640894234625,267466466,tadiwami,Tue Feb 16 22:24:23 +0000 2021,"Day 28 of #66daysofdata : was busy with admin tasks so not so much time for actual training, but watched a short video on MS Azure. Also managed to catch up with a friend in a tech sector. Hm should I enroll myself to a degree programme in a uni?",0,4
+1361803205726924801,1090353930,Luisfreii,Tue Feb 16 22:22:39 +0000 2021,"Day 1 of #66daysofdata
+
+Today I watched a few videos on linear regression. Things like checking assumptions, R squared and adding factors to the model.",0,7
+1361800547209256965,1096479301074063361,Petec0x0,Tue Feb 16 22:12:06 +0000 2021,"Day 47 of #66daysofdata. 
+Read some article on Feature Engineering and Feature Selection.
+- ""Rare Feature Engineering Techniques for Machine Learning Competitions""
+https://t.co/gAMUPRGODm
+
+- ""Feature selection? You are probably doing it wrong""
+https://t.co/BWV1muQlgt",3,6
+1361800328941862914,1324652185964204033,meyke9976,Tue Feb 16 22:11:14 +0000 2021,"Day 44 of #66daysofdata by @KenJee_DS 
+I attended the online #AIforthePlanet conference. Nice to see how people use their skills to support great initiatives! Also worked on the housing dataset! Keep underestimating the amount of work it takes... 😅 Almost ready for modeling!",0,14
+1361790300335693824,1353547458350034945,Harshit93340989,Tue Feb 16 21:31:23 +0000 2021,"Day 20 of #66daysofdata: Made more progress with my on going course
+#DataScience",0,9
+1361788558055505920,1300863716003639296,yunihafsarii,Tue Feb 16 21:24:27 +0000 2021,"- reflected on my previous project (what I have learned, mistake I did and how should I improve further)
+- planned for next project 
+- watched this https://t.co/ICiQptQeKC 
+
+18/66 of #66daysofdata",0,3
+1361782490847973380,939519071380525058,asma_massad,Tue Feb 16 21:00:21 +0000 2021,"Day 11 of #66daysofdata
+I didn't have much time for the challenge today, so I reviewd some kaggle notebooks related to the dataset I started working on yesterday.
+
+#datascience  #Python #machinelearning  #coding #programming #AI",3,3
+1361782429300756490,43874625,LudovicCarceles,Tue Feb 16 21:00:06 +0000 2021,"Days 50 &amp; 51 of #66daysofdata ! I did the bare minimum those last 2 days, reading on the book Python for Data Science.",2,5
+1361776734358679553,1360727881,kanay07,Tue Feb 16 20:37:28 +0000 2021,"Day 26 of #66daysofdata
+
+Watched a CS50 lecture.  After I learn some coding basics, I plan to re-learn statistics.  Any recommendations for good places to learn online?",0,1
+1361775266956206080,1295354412794249219,thebrowndeity,Tue Feb 16 20:31:38 +0000 2021,"Day 20 of @KenJee_DS #66daysofdata:
+- Learnt about Pandas Series
+- Learnt about DataFrames
+- How to create one using NumPy Arrays
+- Selection and Indexing of Values in DataFrames",0,13
+1361774173765435392,1361227694889967616,dataQueen_pend,Tue Feb 16 20:27:18 +0000 2021,"Today... What I've done today? I was resting. Because both parts of the learning proccess - work and rest - are equally important to stable growth. 
+
+Don't let anyone to influence you into 'no-pain, no-gain', 'only hard work matters' bullshit.
+
+#66daysofdata #restday https://t.co/LsczDAZdNK",0,2
+1361773322032345090,1302704071837704197,KOrfanakis,Tue Feb 16 20:23:55 +0000 2021,"Day 27 of #66daysofdata R2
+- I finished reading Ch. 11 of ‘Hands-on #MachineLearning’. The topic of the last section was regularising a deep neural network.
+- I added three more plots for my analysis of the COVID datasets.",0,18
+1361771831192092673,967674092273983489,joleenbothma,Tue Feb 16 20:17:59 +0000 2021,"Day 40 of #66DaysofData 
+
+Watched the latest video by @mdancho84 on adding interactive shiny plots &amp; widgets to Rmarkdown, allowing you to create interactive reports
+
+I definitely feel like I am behind the curve on shiny✨
+
+https://t.co/6pgiYd4YNN",0,7
+1361768446397190147,324583975,georgekanellos,Tue Feb 16 20:04:32 +0000 2021,"Days 36&amp;37 of #66daysofdata by @KenJee_DS
+
+Created a small github repo for the chess visuals (https://t.co/D0OSDdn2tq) and had a look at multi label image classification.",0,8
+1361766525414174721,1199473474202406912,SadounMohammad,Tue Feb 16 19:56:54 +0000 2021,"Day 54 of #66daysofdata 
+
+Today I start doing some Python stuff, and I read the library Chart Studio documentation in Python and Plotly.",0,1
+1361764660467412997,288875016,romainBechet,Tue Feb 16 19:49:30 +0000 2021,"#66daysofdata Day 48/66
+- Created all functions for simplify injuries descriptions
+- I saw a dataset on Kaggle about the same topic but they just used basic NLP to classify each injury. 
+- I tried to implement this. 
+- More things tomorrow! https://t.co/lBR2fOryyZ",0,2
+1361759215254085632,1243246008303112192,samarthgupta39,Tue Feb 16 19:27:51 +0000 2021,"day25 of #66daysofdata
+-Today I continued with  Python Data Science Toolbox (Part 2) from @datacamp 
+- continued working on the project",2,10
+1361744069597224963,1306505184911208453,mt0rm0,Tue Feb 16 18:27:40 +0000 2021,D11 of #66daysofdata: Reviewing PCA and PLS Regression,0,1
+1361743630340403200,896716355411611648,martinnyakimov,Tue Feb 16 18:25:56 +0000 2021,"[Day 47 of #66DaysOfData]
+Watched videos about R - @365datascience",0,2
+1361743420784472064,1331398329977032707,aloknag_10,Tue Feb 16 18:25:06 +0000 2021,"Day 40 of #66DaysOfData:
+- revised python and ML concepts for an interview tomorrow.",0,7
+1361742101336051712,806854993256947713,Saurabh___Joshi,Tue Feb 16 18:19:51 +0000 2021,"Day 47 V_2 of #66DaysOfData with @KenJee_DS
+
+1. Did some Data Structures Problems.
+2. Watched the next 3 more videos of the course, only the Project Report is remaining.
+3. Listening to Music🎶
+4. Imported data using Joins for the @tableau Analysis Dashboard.",0,7
+1361738874410520577,1310665137666191360,A4Analysis,Tue Feb 16 18:07:02 +0000 2021,"Day 13 :
+
+Here I talk about the reason behind performing feature scaling before applying clustering algorithm.
+
+https://t.co/x4bhBh1jtc
+
+#DataScience #MachineLearning  #Statistics  #66daysofdata  v2 
+@KenJee_DS",0,3
+1361735910061084679,767218177,arif_zeeshan7,Tue Feb 16 17:55:15 +0000 2021,"#66DaysOfData with @KenJee_DS
+Day #1- completed the basics of python programming and brushed up on some topics of linear algebra.
+
+""sometimes the smallest step in the right direction ends up being the biggest step of your life""",0,4
+1361733423736500230,1345596935621763073,shravani_ml,Tue Feb 16 17:45:22 +0000 2021,"#66daysofdata Day41 - Learnt about confidence intervals, population vs sample space, dependent/independent values. Studied along with @hellotinah in her livestream  #DataScience #statistics",1,1
+1361731453734780929,2149586883,vperez2000,Tue Feb 16 17:37:32 +0000 2021,"#66daysofdata #Round2 #Day40
+#40: https://t.co/DVV0Qx5dH9
+
+The NBA 3-Point Line @KenJee_DS 
+Okay, an inspirational project video here
+It's fascinating the kind of questions that come just following all the data plotted📊
+The sweet spot in coaching sports it's the data exploration",0,2
+1361722697663672329,981243701610602497,_CynicalCyanide,Tue Feb 16 17:02:45 +0000 2021,"Day 27
+There are 10 kinds of people in this world. Those who understand binary, and those who don't :)
+
+Recursion in Python
+Linear Algebra (@3blue1brown )
+Poisson Distributions
+
+#100DaysOfCode 
+#100daysofcodechallenge 
+#66daysofdata",5,3
+1361712333584654338,2408550806,parthrajauria,Tue Feb 16 16:21:34 +0000 2021,"Day 29 of #66DaysOfData Round 2!
+Revised concepts of Underfitting, Overfitting, and Random Forests from these short videos by Kaggle.@KenJee_DS 
+https://t.co/mvwR2gwaJ4
+https://t.co/LKl7L6AlXl",0,4
+1361710013677461505,1341882826757705729,DataSurviving,Tue Feb 16 16:12:21 +0000 2021,"Day 18th of #66daysofdata wasn't very productive but I managed to take some tieme to evaluate a dataset and clean features, now working on null values",0,1
+1361709718935248898,731856877139558400,01Abhi10,Tue Feb 16 16:11:10 +0000 2021,"#66daysofdata with @KenJee_DS 
+
+Day 43: 
+- Learning NumPy.
+- Read an article on How Fast Numpy Really is and Why?",0,10
+1361708507234451462,14093270,nbinowski,Tue Feb 16 16:06:22 +0000 2021,Day 40 of #66daysofdata by @KenJee_DS I'm a fan of word walls and WordCloud does not disappoint.  Today's trending tweets in NY.  #dataviz #DataScience @CCM_edu #python https://t.co/zTsiyFiYh4,5,7
+1361705580780421121,1281890679052857346,ShrutiJ87241031,Tue Feb 16 15:54:44 +0000 2021,"Day 8: 2nd round #66daysofdata 
+- made a roadmap for machine learning.
+- going to attend Data Science Salon confrence.
+- did some research work on federated reinforcement learning.
+@KenJee_DS",2,16
+1361689601979650051,1319044673080524801,meghansharris,Tue Feb 16 14:51:14 +0000 2021,Day 44 of #66daysofdata. Have a webinar today about health disparities and research which should be interesting. May possibly do my TidyTuesday on break if I can. Waiting on some data before making the next changes to the dashboard.,0,5
+1361683290105724936,1262624101983633408,erkushagra_,Tue Feb 16 14:26:09 +0000 2021,d-43 &amp; d-44 of #66daysofdata R-2 done with EDA(Exploratory Data Analysis Application) and deployed on Heroku https://t.co/7pZPPh8NXF thanks to @thedataprof ✌and gone through a very interesting article https://t.co/NKVue7lYlu,2,5
+1361682452670935048,2936164585,PPatil699,Tue Feb 16 14:22:50 +0000 2021,#day44 of #66daysofdata with @KenJee_DS started with xgboost regressor,0,9
+1361681126830448640,1188798821024722945,Muh_Raihan_P,Tue Feb 16 14:17:34 +0000 2021,"Day 36 of #66daysofdata v2:
+Learned a bit about Feature Importance, planning to continue it tomorrow",0,2
+1361675617499025409,1358452630876528644,anulekha_,Tue Feb 16 13:55:40 +0000 2021,"Day 7 of #66daysofdata 
+
+Finished the Applying Analytics to the Worksheet section of my Tableau course. Hoping to complete the full course this week!",0,7
+1361668965873893377,1154041072743407616,JengaSchool,Tue Feb 16 13:29:14 +0000 2021,"1 DAY TO GO!💃🏿
+4 winners, 2 to go
+Congratulations Kamau John and @KoomeIdah  who won yesterday's trivia.
+Last chance to grab your seat at the @JengaSchool  Industry Lecture with Steve Crawford @astrocrawford .
+
+#DataScience #66daysofdata #tuesdayvibe #ArtificialInteligence https://t.co/AWlhCPtmOR",4,6
+1361663390213627906,951871594376376320,JackRaifer,Tue Feb 16 13:07:05 +0000 2021,"#66DaysOfData with @KenJee_DS R2 Day #40.
+Spent the day yesterday working on the abstract for an upcoming conference talk. The title is ""Build your Own Job"", about solving the conundrum of needing experience to get a job and a job to get experience.
+More details on it soon. https://t.co/xitwC2PNI3",0,15
+1361650645921505290,2562318241,NeemaMV,Tue Feb 16 12:16:26 +0000 2021,"Day 17 of #66daysofdata 
+Day 49 of #100daysofcodechallenge 
+
+(Work related) worked on test module for data manipulation
+Worked on a new project and listed train &amp; filter features",0,8
+1361632683286294534,1345374681008926723,DataLiteracy66,Tue Feb 16 11:05:04 +0000 2021,"""What does the #distribution look like?"" ""Is it normally distributed?"" 
+
+These questions are thrown around all of the time, often making non-data people anxious for no reason. We look at distribution basics on Day 44 of #66DaysOfData. #100DaysOfCode
+
+https://t.co/UgrjV7Hrni https://t.co/VUg1UiGPhQ",9,6
+1361597334447038465,1329313525974532097,AyubRasool14,Tue Feb 16 08:44:36 +0000 2021,Day 43/66 &amp; 44/66: continued my udemy course on AI and Machine learning. #66daysofdata,0,8
+1361590870257135616,397272525,shatandv,Tue Feb 16 08:18:55 +0000 2021,"Plan for Day 44 of #66DaysOfData!
+- Do 1 @hackerrank Python and SQL problem,
+- Watch a @3blue1brown linear algebra video,
+- Start the @DataCamp Time Series track,
+- Implement a Linear Regression model from scratch, if I have the time today.",0,6
+1361584498131935232,23293578,therealjaysueno,Tue Feb 16 07:53:36 +0000 2021,"Day 11 of #66daysofdata with @KenJee_DS. Today I'm studying Tableau basics. Today I've studied Sets and some quick takeaways:
+
+✔ Increases granularity
+✔ Reuse in other sheets
+✔ Dynamically changes with the data
+✔ Can link to a parameter
+
+#data #datascience #tableau #analytics https://t.co/guoxZ2QQdF",0,8
+1361583496494481410,1361574104483172357,RahilBelim7,Tue Feb 16 07:49:37 +0000 2021,"On the challenge of #66daysofdata from 17-feb-2021
+
+https://t.co/L194E4Swe3 https://t.co/1VVwlKeY7M",0,6
+1361573150824288256,1361227694889967616,dataQueen_pend,Tue Feb 16 07:08:30 +0000 2021,"Ok.. So, yesterday I've learned that I can use python as a calculator. And it also has some fancy stuff like modulo 😁. Unfortunately some notations are confusing to me.
+#66daysofdata @DataCamp https://t.co/fHTsdZW8iI",0,3
+1361571593357516806,1308365362598215680,maszanski,Tue Feb 16 07:02:19 +0000 2021,"Day 52 of #66daysofdata 
+My theoretic knowledges aren’t bad, but I need more practice.
+Today I want to do more practical exercises, than usual – maybe redo problems from the https://t.co/bIPi2X9YcF",0,3
+1361557600609968137,1354448802,opemomodu_DS,Tue Feb 16 06:06:43 +0000 2021,"Day 37 &amp; Day 38 #66daysofdata with @KenJee_DS 
+- Still experimenting with some datasets(LR)
+- Explored the KFold cross validation tool
+- Viewed Python challenges on @codewars
+- Read some articles via medium",0,5
+1361556687333650433,1159830350102781953,KenJee_DS,Tue Feb 16 06:03:05 +0000 2021,"Day 43 of the #66DaysOfData Round 2! 
+
+Worked all day on a NCAA Basketball data hack with @jeffmli! We got most of the framework done to be able to try to predict the tournament this year. We might even put a little skin in the game too 🧐🤑.
+
+Stay tuned for the vid in March! https://t.co/jjTpu0PR6l",0,29
+1361551673043259392,1059790562587492357,AvinShah_,Tue Feb 16 05:43:09 +0000 2021,"Day 43 of #66DaysOfData 2.0 with 
+@KenJee_DS 
+
+• Continued on A/B Testing 
+     --Choosing and Characterizing Metrics",0,12
+1361547249994637316,21089537,leggomymego,Tue Feb 16 05:25:35 +0000 2021,"The past few #66daysofdata have been about hosting #datavisualizations on the web &amp; #datastructures. Today I deployed a chart w/14 day moving averages using chart.js, a free open-source JS library for #datavisualization.",0,8
+1361537634649137153,1335423731645222912,lepeter93,Tue Feb 16 04:47:22 +0000 2021,"Day 39 of #66daysofdata:
+- Learning a bit more about Tensorflow
+- Did a few parts of udemy course",0,10
+1361521683543166976,209191879,bhatnagarkush,Tue Feb 16 03:43:59 +0000 2021,"Day 21 : Learned about @awscloud Database Migration Service , Step Functions and Data Engineering pipeline
+#66daysofdata #AWS #MachineLearning",1,5
+1361520530256367616,1023818495471964160,NMashinchi,Tue Feb 16 03:39:24 +0000 2021,"Day 43: Worked on my folium map and figured out how to display different layers representing the various columns in my dataset. In addition to that functionality, I added a dark and light mode option. Last but not least, I included a draggable legend✌️#datascience #66daysofdata https://t.co/VZJQkldu7c",0,2
+1361518607675580416,3432128877,Coach_Raz26,Tue Feb 16 03:31:46 +0000 2021,"Day 34: #66daysofdata 
+It was a fun day to SQUAT for @DelawareTFXC! Throwers had a day! Correlation or Causation of this past weekends meets?!🧐 Compete during the week to #WintheWeekend! Not just stronger but more powerful! #DataDriven #SportsScience #BlueHens 💪🤓📊 https://t.co/Y73oCCpHVT",2,5
+1361517883285716998,1344041087384637441,maxedataille,Tue Feb 16 03:28:53 +0000 2021,"Day 43 of #66daysofdata did some EDA on the categorical variables, dropped some variables and created dummy variables in my project",0,5
+1361512643639595008,1208077315747528704,SiphuLangeni,Tue Feb 16 03:08:04 +0000 2021,"Day 46: I love #Python for its endless modules! Using the Counter class from collections module a lot lately, a dict subclass for counting hashable objects. Consider computational costs of creating counter objects…
+
+#100DaysOfCode #66DaysOfData #DataScience #DataAnalysis #BWIAI",15,14
+1361510992014893056,1291114285507186690,jaimedatalatte,Tue Feb 16 03:01:30 +0000 2021,"D43. #66DaysofData 
+
+- kept advancing through the plotly course
+
+- chose a restaurant’s dataset to practice plotly",0,30
+1361497440935763971,1230211224337432576,aaronpetryio,Tue Feb 16 02:07:39 +0000 2021,"Day 43 of #66DaysOfData:
+- Completed 'Intermediate Data Visualization with Seaborn' on @DataCamp 
+- Began 'A Visual History of Nobel Prize Winners' on @DataCamp 
+
+Not data related, but I also scored my first @nba_topshot pack! Still no idea what's going on, but I'm pumped.",0,9
+1361496656752050176,1352793833457799168,Blakof2,Tue Feb 16 02:04:33 +0000 2021,"Make money on the Internet automatically $ 50 Free marketing
+https://t.co/tVMYzqa9wU
+#hclswlobp #business #analytics #5g #nodejs #cybersecurity #devops #100DaysOfCode #datascience #ai #bot  #machinelearning #Serverless #womenintech #100DaysOfCode #66DaysOfData #DataScience #iot https://t.co/j3iQpym5U3",12,3
+1361493809914208257,1267805283511750660,Binal_BP,Tue Feb 16 01:53:14 +0000 2021,"Day 42: #66daysofdata 
+
+Started working on a new project! Spent some time figuring out how I’m going to collect the data. Also, continued the NLTK video series.",0,11
+1361486081636589570,1332613548,imkeller_5,Tue Feb 16 01:22:31 +0000 2021,Day 43 Part 2 of the #66daysofdata! I kind of was able to fix my model with all the NaN values. So it is finally again going in the right direction. Learned a lot about the modelling and pandas along the way which was good.,0,2
+1361483918453706754,1099354391423913985,SarbottamM,Tue Feb 16 01:13:55 +0000 2021,"Day 45 of #66DaysOfData
+
+Played around and made a word cloud with image masking in python from the spam email corpus. Exploring new things is always motivating and keeps you refreshed.
+
+Happy Learning!!!
+#DataScience https://t.co/bAaS3CRt2E",4,3
+1361479250277187584,4769857642,louis__simpson,Tue Feb 16 00:55:22 +0000 2021,Day 36 of #66DaysOfData - still on the same theme - https://t.co/oXahWg0Myo  #DataScience #MachineLearning #AI,0,2
+1361464748756328450,784839510303453185,tthoraldson,Mon Feb 15 23:57:45 +0000 2021,Day 46/66 of #66daysofdata: Completed all the lectures for Course 1 in the Private AI series from @openminedorg. Moving on to the Privacy Product Specification project next,0,7
+1361464294697762817,722533518,nelotsak,Mon Feb 15 23:55:57 +0000 2021,"#66daysofdata with @KenJee_DS day 38:
+Attended Q&amp;A sessions on GTM fundamentals for Google Analytics  today.
+
+#DataScience
+#Analytics",3,6
+1361463283308519424,442279958,Duncanand,Mon Feb 15 23:51:56 +0000 2021,"Day 41 of #66daysofdata 
+
+Clearing my plate of all my freelance web dev work before my data science course starts next week :) https://t.co/vx36IiYWhY",1,3
+1361452054686883844,14093270,nbinowski,Mon Feb 15 23:07:19 +0000 2021,"Day 39 of #66daysofdata by @KenJee_DS spent time with Tweepy, Textblob and WordCloud today. Have to say some of the Python library names are cute and creative. #Python #DataScience",2,4
+1361449358382759937,1348766102529171467,KeerthanaJagan5,Mon Feb 15 22:56:36 +0000 2021,Day 23 of #66daysofdata: -Went back to refresh my memory about basic/vanilla GAN losses - Working on pic2pix pytorch code to include validation along with training @KenJee_DS,0,9
+1361447523244736512,86053507,RaulFlint,Mon Feb 15 22:49:18 +0000 2021,"Day 14 of #66DaysOfData: In the morning I've worked on how to use Data Fusion &amp; Cloud Composer in @GCPcloud .
+Next, I've continued the Data Manipulation with pandas curse in @DataCamp, this time I've learned how to work with index and how to slice Dataframes with loc and iloc",0,2
+1361443515721465862,1300017281666363394,mrvsokolovsky,Mon Feb 15 22:33:23 +0000 2021,"Days 42-43 of #66DaysOfData v2.0 by @KenJee_DS. It looks like I've implemented the initial Wuhan covid spread model. I'm saying ""looks like"" because I didn't have a chance to test it on the real data yet. Good progress though.",0,5
+1361441045607759872,1096479301074063361,Petec0x0,Mon Feb 15 22:23:34 +0000 2021,"Day 46 of #66daysofdata. 
+Completed with Section 5: Performance Measurement - KPIs of ""Algorithmic Trading &amp; Quantitative Analysis Using Python"" course on Udemy.
+- Maximum Drawdown and Calmar Ratio  and  its implementation in Python.
+#Python",2,8
+1361439858779111424,397272525,shatandv,Mon Feb 15 22:18:51 +0000 2021,"Day 43 of #66DaysOfData summary:
+- Didn't do @hackerrank,
+- Watched the 2nd @3blue1brown video on cross products,
+- Understood the algorithm of ML Linear Regression, but I'm still pretty unused to combining calculus with linear algebra,
+- Spent 9 hours with Scrapy and SQLAlchemy.",0,12
+1361437607742353415,196739994,_AnglinaB,Mon Feb 15 22:09:54 +0000 2021,"Day 10 of #60DaysOfPython and #66DaysOfData 
+
+Up to date with my tweets! 😅
+
+Today was another day of doing the minimum, but I continued watching Lecture 3 of the @JovianML DS&amp;A Course.
+
+#Pythondsa #Jovian #MergeSort #DataStructures #Algorithms",1,5
+1361433473949585412,196739994,_AnglinaB,Mon Feb 15 21:53:29 +0000 2021,"Day 9 of #60DaysOfPython and #66DaysOfData 
+
+Completed Assignment 2 of @JovianML DS&amp;A Course.
+
+Started watching Lecture 3.
+
+#pythondsa #Jovian",0,7
+1361432907055833089,1353547458350034945,Harshit93340989,Mon Feb 15 21:51:13 +0000 2021,Day 19 of #66daysofdata with @KenJee_DS: Learnt more about matplotlib and visualized my model's predictions to make them more readable and easy to understand.,0,9
+1361429196543729666,1283489158258819072,hhotkey,Mon Feb 15 21:36:29 +0000 2021,"Day 7/66 ==&gt;&gt; #66daysofdata #100DaysOfCode 
+
+- PyCharm community v20.xx usage
+- Setup a debugging environment 
+- Debugging a buggy function 
+- Lambda anonymous function usage
+- Read about Amazon and Netflix recommendation algorithms and their evolution during the past decade https://t.co/vKjsNfuoTL",7,6
+1361427452682268675,196739994,_AnglinaB,Mon Feb 15 21:29:33 +0000 2021,"Day 8 of #60DaysOfPython and #66DaysOfData 
+
+Spent a long time reviewing Linked Lists and Doubly Linked Lists, and touching the surface of Circular Linked Lists. Used the @realpython course videos for that! 🙂
+
+I then fried my brain watching lecture 2 of @JovianML Python DS&amp;A.",0,4
+1361426833368047617,196739994,_AnglinaB,Mon Feb 15 21:27:05 +0000 2021,"Day 7 of #60DaysOfPython and #66DaysOfData 
+
+Re-did Assignment 1 for the @JovianML Data Structures &amp; Algorithms course. It was another day taking things slow.
+
+#pythondsa #womenintech #Python",6,5
+1361425314430275586,1324652185964204033,meyke9976,Mon Feb 15 21:21:03 +0000 2021,"Day 43 of #66daysofdata by @KenJee_DS 
+I have been working on the housing dataset again today. Making steady progress... To be continued tomorrow!",0,18
+1361420308888973315,319888531,ZubbyD,Mon Feb 15 21:01:10 +0000 2021,"Day 43 of #66DaysOfData with @KenJee_DS:
+Today, I studied time series in R specifically on modeling deterministic trends. I studied straight line regression, polynomial regression, and seasonal means model all using least squares estimation. 
+
+1/2",0,5
+1361419622700838915,1262838138948517888,KasimSegun,Mon Feb 15 20:58:26 +0000 2021,"Day 43 of #66daysofdata 
+- Continued “Streamlined data ingestion with pandas by amanu Mahfouz” @DataCamp 
+- Completed the first chapter",0,10
+1361417446100402180,63557338,egm_photo,Mon Feb 15 20:49:47 +0000 2021,"Day 43 of #66DaysOfData with @KenJee_DS.
+
+Super eventful day. Too much to capture in a few characters. So check out this post on @LinkedIn for details: https://t.co/5DPPBVW6xg https://t.co/gtEiddZg9p",0,6
+1361416696204906496,939519071380525058,asma_massad,Mon Feb 15 20:46:48 +0000 2021,"Day 10 of #66daysofdata
+Started a classification task using a bank marketing dataset from UCI, I will try multiple classification algorithms and assess each model.
+
+#datascience  #Python #MachineLearning  #codinglife #programming #AI",2,5
+1361410749478948866,1284445574511636480,Tommy_McLennan,Mon Feb 15 20:23:11 +0000 2021,Days 38 &amp; 39 #66daysofdata read my statistics books. Day 40 #66daysofdata hit a wall on MATLAB. Really need to get back on @Kaggle I feel like I've been slacking recently but I'm really busy with work and other stuff at the moment. Need to keep going! :),0,16
+1361405468141363200,1302704071837704197,KOrfanakis,Mon Feb 15 20:02:11 +0000 2021,"Day 26 of #66daysofdata R2
+- I finalised the code for my notebook on COVID.
+- I also completed Module 4 of the ‘#DeepLearning Fundamentals’ course on edX (Regression and classification models with #Keras).",1,12
+1361405114477600770,1300863716003639296,yunihafsarii,Mon Feb 15 20:00:47 +0000 2021,"resumed my people analytic project:  finalised everything, probably not the best result out there for this dataset but I learned a lot throughout this project. 
+
+17/66 of #66daysofdata https://t.co/bXWHDhxRKy",0,5
+1361405001797689344,896716355411611648,martinnyakimov,Mon Feb 15 20:00:20 +0000 2021,"[Day 46 of #66DaysOfData]
+Completed the course about probability - @365datascience.
+These math and statistics courses are really good because they gave me the fundamental skills for data science.",0,5
+1361404834897887233,951871594376376320,JackRaifer,Mon Feb 15 19:59:40 +0000 2021,"#66DaysOfData with @KenJee_DS R2 Day #39.
+Yesterday I got to meet with an incredible group of people who are working on building an ML recommender system for data science educational resources.
+Amazing projects comming together.
+
+@Harshit93340989 @ShrutiJ87241031 https://t.co/BGPG4rYKkR",3,17
+1361398279221764096,1365464532,HaddadArmen,Mon Feb 15 19:33:37 +0000 2021,"a really nice article by Pratamamia Agung Prihatmaja about the connection between ML Engineer and a Data Scientist and their crucial role integration for a greater business satisfaction!
+#MachineLearning #DataScience #bigdata #66daysofdata 
+https://t.co/jmkt7usEWW",0,3
+1361396665584742401,1346312420780752896,Comet_Miller,Mon Feb 15 19:27:13 +0000 2021,"Day 32 of #66DaysOfData 
+
+Statistics:
+Got to page 97 in ISL
+
+Programming:
+Continued watching TidyX #12
+
+Personal Project:
+Continued pulling and organizing data from the API",0,4
+1361391212838727683,1358452630876528644,anulekha_,Mon Feb 15 19:05:33 +0000 2021,"Day 6 of #66daysofdata 
+
+Today was an unproductive day but i managed to complete the filters section of my Tableau course. 
+Also watched a bit of CodingEntrepreneurs video on the Spotify API.",0,9
+1361390863054745603,967674092273983489,joleenbothma,Mon Feb 15 19:04:09 +0000 2021,"Day 39 of #66DaysofData 
+
+Learnt about price elasticity in the customer analytics course on 365 data science.
+
+Price elasticity can be used to optimise the price and units sold of a product so that we can maximise revenue 💰",0,8
+1361389008488591360,1309541251830734848,_mansi___,Mon Feb 15 18:56:47 +0000 2021,"Day 23 of #66daysofdata by 
+@KenJee_DS
+
+Finished ""L07: Ensemble Methods"" and started with ""stat 453"" series for Deep Learning by @rasbt on YouTube
+https://t.co/EkqyasvYHf
+https://t.co/zq7V91YKIN
+
+#DataScience #MachineLearning",1,5
+1361388468778135554,909968496011894784,Paiky16,Mon Feb 15 18:54:38 +0000 2021,"Day 43 of #66daysofdata:
+▶️Brushing up my Python programming knowledge.",1,5
+1361387539207229442,1104985267,GeBakaev,Mon Feb 15 18:50:57 +0000 2021,#66daysofdata Day 37-38: Read a few chapters from Machine Leaening Yearning.,0,5
+1361383575946285058,1331398329977032707,aloknag_10,Mon Feb 15 18:35:12 +0000 2021,"Day 39 of #66DaysOfData:
+
+I started learning Tableau for BI reporting and visualization.",0,11
+1361380700411154433,1243246008303112192,samarthgupta39,Mon Feb 15 18:23:46 +0000 2021,"day24 of #66daysofdata
+Spent most of my day in scraping and cleaning the data for my project.
+Thanks to @keithgalli for this wonderful tutorial https://t.co/IooOHihvNg",0,12
+1361379462319808512,1159830350102781953,KenJee_DS,Mon Feb 15 18:18:51 +0000 2021,"Hey Everyone! #66DaysOfData Giveaway Announcement!! 
+
+@Binal_BP has won a digital copy of Clean Code in Python from @PacktPub @RavitJain
+
+@Binal_BP please DM me to claim! 
+
+Book: https://t.co/J0uf2iy151 https://t.co/BSseWiX7qe",2,32
+1361367828784246784,1281890679052857346,ShrutiJ87241031,Mon Feb 15 17:32:38 +0000 2021,"Day 7: 2nd round #66daysofdata 
+- worked on new project
+- did some thinking work on the project.
+- learned about federated reinforcement learning.
+@KenJee_DS",0,15
+1361366413554966534,1348370660389777409,GnzVicente,Mon Feb 15 17:27:00 +0000 2021,"Day 36 &amp; 37: #66DaysofData
+
+Spent yesterday (and some of today) finishing the final assignment &amp; quiz.
+
+Overall the course was much more difficult than I had imagined, however it was quite enjoyable. If you're up for the challenge I'd highly recommend it!
+https://t.co/PuviDEizpR",0,3
+1361366172701138947,806854993256947713,Saurabh___Joshi,Mon Feb 15 17:26:03 +0000 2021,"Day 46 V_2 of #66DaysOfData with @KenJee_DS
+
+1. Started with @tableau Visualization project, Completed 8 graphs, But I got stuck with SQL, Still finding my way to visualize my SQL queries in Tableau
+2. Watched the next 3 more videos of the course.
+3. Listening to Music 🎶",0,13
+1361365970523103234,1322620958327255040,Datavisz,Mon Feb 15 17:25:14 +0000 2021,Day11 of #66daysofdata: Few more pages on SVM. I am finding it difficult to understand the chapter on SVM especially the kernel part in ISLR.,0,3
+1361360938616586247,1310665137666191360,A4Analysis,Mon Feb 15 17:05:15 +0000 2021,"Day 12 :
+
+Here I talk about the statistical and business approach behind choosing K (number of clusters) in KMeans model
+
+https://t.co/2hWbYLjwMX
+
+#DataScience #MachineLearning  #Statistics  #66daysofdata  v2 
+@KenJee_DS",0,4
+1361349222730059776,731856877139558400,01Abhi10,Mon Feb 15 16:18:42 +0000 2021,"#66daysofdata with @KenJee_DS 
+
+Day 42: 
+- Was getting familiar with the Jupyter Notebook.
+- Started Learning NumPy from @keithgalli.",0,11
+1361348600656252929,1345596935621763073,shravani_ml,Mon Feb 15 16:16:13 +0000 2021,"#66daysofdata Day 40 - Reviewed and revised my Statistics , Distributions, Probability, Combinatorics notes
+#DataScience #Statistics #probability",0,4
+1361342166354849797,2149586883,vperez2000,Mon Feb 15 15:50:39 +0000 2021,"#66daysofdata #Round2 #Day39
+#39: https://t.co/p3VcQAFeTl
+
+6 habits successful DS by @KenJee_DS
+1. Asking good questions🧐
+2. Stay up to date📊
+3. Proper writing code👩🏻‍💻
+4. Great communication with end-users🗣
+5. Get involved with DS community👥
+6. Working on projects👷🏻‍♀️",0,3
+1361341379100766220,288875016,romainBechet,Mon Feb 15 15:47:31 +0000 2021,"#66daysofdata Day 47/66
+- Finished scrape and Database Integration 
+- Tomorrow: First analysis of the data
+- Tips: Make tasks you want to do really short! It helps to check a todo very often https://t.co/mdkRzz1ZCs",0,5
+1361315538593411075,2936164585,PPatil699,Mon Feb 15 14:04:51 +0000 2021,#day43 of #66daysofdata with @KenJee_DS started with xgboost classifier,0,10
+1361315136212852740,1188798821024722945,Muh_Raihan_P,Mon Feb 15 14:03:15 +0000 2021,"Day 35 of #66daysofdata v2:
+Had an overview of Business Analytics in practice, learned what kind of methods could be used to solve various business problems.",0,2
+1361293384313417734,18383562,pathria,Mon Feb 15 12:36:49 +0000 2021,#66daysofdata day 3 stacked regression.  https://t.co/1IL5RtqipK,0,0
+1361291933763723271,1360727881,kanay07,Mon Feb 15 12:31:03 +0000 2021,"Day 25 of #66daysofdata
+
+I browsed the python documentation.  It's a bit overwhelming to see how much there is, but I'm assuming I only need to learn a subset for data science.",2,7
+1361288825738326018,1319044673080524801,meghansharris,Mon Feb 15 12:18:42 +0000 2021,Day 43 of #66daysofdata  I'm wondering if coders/data scientists are more prone to burnout just because we're constantly staring at screens and natural problem solvers? Is it just me? the pandemic? idk. Working on the dashboard for a bit today then taking the rest of the day off!,0,14
+1361287306255163393,1248200658672652288,MileticNemanja9,Mon Feb 15 12:12:39 +0000 2021,"#4 of #66daysofdata
+
+Revising on linear algebra. Big thank you to @3blue1brown for making great lectures that sparkle my intuition. 
+
+Watched: Illustrated Guide to Recurrent Neural Networks: Understanding the Intuition
+https://t.co/UDhA9640UZ",0,6
+1361285560522792962,19448058,paulapivat,Mon Feb 15 12:05:43 +0000 2021,"""Which programming language should I start with?"" 
+
+A classic question. 
+
+Give yourself 2 weeks to ponder🤔. Get it out of your system. 
+
+And then? 👇
+
+#ship30for30 #CodeNewbies #66daysofdata https://t.co/y3r6sHMf8u",0,7
+1361274998149816321,1345374681008926723,DataLiteracy66,Mon Feb 15 11:23:45 +0000 2021,"We end our probability discussions by exploring Monte Carlo Simulations on day 43 of #66DaysOfData. Using random numbers, we build thousands of artificial worlds for Gracie's lemonade stand and then evaluate the outcomes. 
+
+#100DaysOfCode #DataScience
+
+https://t.co/RaHhqVuwYV https://t.co/2LA4KUKfe5",2,6
+1361253796307959815,705259722761306113,ankitahlawatTP,Mon Feb 15 09:59:30 +0000 2021,"If Internet Explorer was brave enough to ask to be your default browser, You are brave enough to ask that girl out.
+
+#100DaysOfCode #Python #javascript #66daysofdata",13,21
+1361253735578669057,705259722761306113,ankitahlawatTP,Mon Feb 15 09:59:16 +0000 2021,"Any code of your own that you haven’t looked at for six or more months might as well have been written by someone else. 
+
+#100DaysOfCode #66daysofdata 
+#javascript #DEVCommunity",7,12
+1361252618161577987,705259722761306113,ankitahlawatTP,Mon Feb 15 09:54:49 +0000 2021,"90% of coding is debugging. The rest 10% is writing bugs.  
+
+#100DaysOfCode #66daysofdata #python",11,7
+1361245941878034435,981243701610602497,_CynicalCyanide,Mon Feb 15 09:28:17 +0000 2021,"Day 26; Take 2
+The inertia of my laziness proves to be difficult to overcome. Going to add two days for every day I miss from now on. 
+
+Linear Algebra 
+Recursion in Python
+
+#100DaysOfCode 
+#100daysofcodechallenge 
+#66daysofdata",7,9
+1361236341850333185,1306505184911208453,mt0rm0,Mon Feb 15 08:50:09 +0000 2021,D9 of #66daysofdata: Ridge regression,0,4
+1361235786281189382,2527930848,joao96santos,Mon Feb 15 08:47:56 +0000 2021,"39 / #66DaysOfData
+Data at Amazon Online Trainning
+
+• [Section 7] Joining Tables
+• [Section 8] Working with Date Functions in Redshift SQL",0,7
+1361232068215250947,1365464532,HaddadArmen,Mon Feb 15 08:33:10 +0000 2021,"Day 1: Watched a YT Interview Video with an IG Data Scientist, reviewed basics of Python in DS (R/W files, Pandas, 1D)
+
+#python #datascience #machinelearning #coursera #66daysofdata #numpy #Pandas",4,7
+1361231117899030530,3023431117,tibi01993,Mon Feb 15 08:29:23 +0000 2021,"Day 19: Naive Bayes Intuition (continue...)
+#66daysofdata",0,4
+1361229066007945217,1361227694889967616,dataQueen_pend,Mon Feb 15 08:21:14 +0000 2021,#66daysofdata I'm ready to begin my journey. @dataQueen_pend in time will grow to be true Queen of data https://t.co/YNHURM7lKp,0,4
+1361225513138679808,1342877464792498182,HerlimRenaldy,Mon Feb 15 08:07:07 +0000 2021,"Day 46- Spent today working on my group project again, making sure my teammates’ code works properly, it’s really tough managing a team, project/product managers must not have it easy! #66daysofdata",0,7
+1361224920701628419,1342877464792498182,HerlimRenaldy,Mon Feb 15 08:04:46 +0000 2021,"Day 45- Made two more visualizations on PowerBI for my project. Then did a homework assignment on conducting ANOVA tests over multiple variables, statistics is definitely not my strongest suit, though i’m sure just getting the basics down will be good enough! #66daysofdata",0,6
+1361217173860069376,1308365362598215680,maszanski,Mon Feb 15 07:33:59 +0000 2021,"Day 51 of #66daysofdata 
+Today I want to concentrate on improving my result in the #Kaggle InClass competition – Flight delays. The best way to do this is to use gradient boosting, especially #CatBoost library. https://t.co/orGi0VjUTf",0,8
+1361216954443333632,1023818495471964160,NMashinchi,Mon Feb 15 07:33:06 +0000 2021,"Day 42: Today I took my data viz skills to another level. I implemented the hover functionality to display information for different states on a folium map. I also added a layer control so that the user can turn the animation on and off. 
+#datascience #dataviz #66daysofdata https://t.co/Wvl7aygY4M",1,6
+1361214316595335168,397272525,shatandv,Mon Feb 15 07:22:37 +0000 2021,"Plan for Day 43 of #66DaysOfData!
+- Do 1 @hackerrank Python and SQL problem,
+- Watch a @3blue1brown linear algebra video,
+- Understand the algorithm of ML Linear Regression (how it's computed).
+- Do some parsing with Scrapy.",0,11
+1361209347678863366,1069010036255387648,XudaiyanziD,Mon Feb 15 07:02:53 +0000 2021,DAY 14: scrap stock price from yahooFinace #66daysofdata,0,4
+1361209162806525955,1069010036255387648,XudaiyanziD,Mon Feb 15 07:02:09 +0000 2021,DAY 13: practice problem on leetcode #66daysofdata,0,3
+1361198149482606595,1159830350102781953,KenJee_DS,Mon Feb 15 06:18:23 +0000 2021,"Day 42 of the #66DaysOfData Round 2! 
+
+I hope everyone had a great valentines day! Today I did some last minute prep for my march madness data hack tomorrow. Hoping @kaggle has another competition this year! 
+
+Looked through this kernel from 2019: https://t.co/WlAGpNaay5",0,25
+1361186985054932995,26636853,xtinachen,Mon Feb 15 05:34:01 +0000 2021,"#66daysofdata 
+3⃣2⃣-4⃣2⃣
+• been off my twitter game this week! 🤭
+• finished problem set on CNN for NLP
+• read countless (30+) papers on ACL and arXiv 😓 
+• found a great CNN cheatsheet by @shervinea https://t.co/T4KqpizhLL
+• regression/covariates in R 
+• more @LeetCode!",1,6
+1361185505505734657,872880426515259393,jeffmli,Mon Feb 15 05:28:08 +0000 2021,"Day 37 #66daysofdata 
+
+I did a lot of thinking on building out custom evaluation metrics, specific to the business problem at hand. 
+
+Don't have too much to report, but will report later!",0,7
+1361184555777089537,1344041087384637441,maxedataille,Mon Feb 15 05:24:22 +0000 2021,Day 42 of #66daysofdata did some EDA on my project with the continuous variables,0,4
+1361178001916850176,705259722761306113,ankitahlawatTP,Mon Feb 15 04:58:19 +0000 2021,"Me: Why isn't this working?
+Normal Languages: You screwed up here
+Me: Oh, thanks
+
+Me: Why isn't this working?
+JavaScript: 🙂
+Me: Please, I'm begging you
+JavaScript: 🙂
+
+#100DaysOfCode #66daysofdata #javascript",8,10
+1361177100351197184,705259722761306113,ankitahlawatTP,Mon Feb 15 04:54:44 +0000 2021,"Senior developers are just former junior developers who got better at hiding the fact that their code is from StackOverflow.
+
+#100DaysOfCode #66daysofdata #code #javascript",13,9
+1361176765733904384,209191879,bhatnagarkush,Mon Feb 15 04:53:25 +0000 2021,"Day 20 : Learned about @awscloud different Data Stores , Data pipelines and Batch services
+#66daysofdata #AWS #MachineLearning",2,6
+1361176672951799809,1208077315747528704,SiphuLangeni,Mon Feb 15 04:53:02 +0000 2021,"Day 45: Comparing 2 means? Samples paired/independent? Variance pooled? 1 or 2 tailed test? From scipy.stats use ttest_rel or ttest_ind to get the t-statistic and p-value. If p-value &lt; α, reject H0.
+
+#100DaysOfCode #66DaysOfData #DataScience #StatisticalTesting #Python #BWIAI",23,19
+1361167550265049091,1291114285507186690,jaimedatalatte,Mon Feb 15 04:16:47 +0000 2021,"D42. #66daysofdata 
+
+Watched Ken’s new video on youtubw
+
+Why I Quit Data Science https://t.co/FvPY1EqqGU via @YouTube",1,12
+1361167235411140610,1322620958327255040,Datavisz,Mon Feb 15 04:15:32 +0000 2021,Day 10 of #66daysofdata: Watched few minutes of a youtube video on building data science portfolio.,1,4
+1361160970769424384,1099354391423913985,SarbottamM,Mon Feb 15 03:50:39 +0000 2021,"Day 44 of #66DaysOfData 
+
+Went through the article about Data scientist's common pitfalls.
+Happy Learning!!!
+
+https://t.co/oLm9mv5KZw",0,3
+1361158129174642689,1335423731645222912,lepeter93,Mon Feb 15 03:39:21 +0000 2021,"Day 37/38 of #66daysofdata:
+- Starting to learn some Tensorflow
+- Did some sections on udemy courses
+- Reviewing previous projects to find ways to improve",0,12
+1361154989452795904,1230211224337432576,aaronpetryio,Mon Feb 15 03:26:53 +0000 2021,"Day 42 of #66DaysOfData:
+- Continued 'Intermediate Data Visualization with Seaborn' on @DataCamp 
+
+Tough time focusing today. Back on the grind tomorrow!",0,10
+1361150618220421122,1059790562587492357,AvinShah_,Mon Feb 15 03:09:30 +0000 2021,"Day 41-42 of #66DaysOfData 2.0 with 
+@KenJee_DS 
+
+Continued on A/B Testing 
+      --Policy and Ethics for Experiments",0,10
+1361146565956526083,1267805283511750660,Binal_BP,Mon Feb 15 02:53:24 +0000 2021,"Day 41: #66daysofdata 
+
+Worked on tokenisation and stop words with the NLTK library. Started brainstorming ideas for a new project!🤩",0,11
+1361145959770513414,767218177,arif_zeeshan7,Mon Feb 15 02:51:00 +0000 2021,#66DaysOfData excited to join this challenge. Thanks @KenJee_DS for inspiring us. Will keep posting for the further updates and my journey.,0,8
+1361138771455070210,2149586883,vperez2000,Mon Feb 15 02:22:26 +0000 2021,"#66daysofdata #Round2 #Day38
+#38: https://t.co/K2AOWE4Yvt
+
+Build a WordCloud from @KenJee_DS 
+WHAT A GREAT PROJECT HERE!!
+Easy to follow and understand, a lot of ideas came to my mind
+-
+Fun fact: First thing, I search if someone did the Trump WordCloud Twitter scrape⁉️ -&gt;yes 😂😂",0,7
+1361138086789451781,784839510303453185,tthoraldson,Mon Feb 15 02:19:43 +0000 2021,Day 45/66 of #66daysofdata: Submitted by predictions for round 251 of #Numerai and went down the tech article rabbit hole,0,3
+1361133686536691715,1341882826757705729,DataSurviving,Mon Feb 15 02:02:14 +0000 2021,"Day 17 of #66daysofdata  finished chapter 3 of data science from scratch, it was a nice refreshing on data visualization but a little shallow in my opinion",0,1
+1361126024809877506,23293578,therealjaysueno,Mon Feb 15 01:31:47 +0000 2021,Day 10 of #66daysofdata I've setup #Google #Analytics on my portfolio website https://t.co/BgU2Cywbhe. It's written in #Gatsbyjs or #javascript. I want it track all my data because I plan to host many future projects on there. Please stay tuned and visit my site. https://t.co/APapMbYtj7,3,3
+1361117329610973189,1332613548,imkeller_5,Mon Feb 15 00:57:14 +0000 2021,Day 42 Part 2 of the #66daysofdata! I got out all the NaNs out of the coordinate data but made no progress with NaNs in the value estimation. Need to look into that tomorrow.,0,1
+1361108232408809473,3432128877,Coach_Raz26,Mon Feb 15 00:21:05 +0000 2021,"Day 33: #66daysofdata
+Working on a unique shooting chart for @DelawareFH! Records Goals &amp; No Goals but the coolest is the @UDBlueHens @YoUDee00 in the middle of the field! #DataVisualization #DynamicChart #SportsAnalytics https://t.co/k9OOEbGAIF",0,4
+1361101153589723136,1262838138948517888,KasimSegun,Sun Feb 14 23:52:57 +0000 2021,"Day 42 of #66daysofdata 
+- Completed my course on introduction to Data engineering 
+- started a new course “Streamlined data ingestion with pandas by amanu Mahfouz” at DataCamp",0,7
+1361091795338350597,345564461,tolz_kay,Sun Feb 14 23:15:46 +0000 2021,"Day 40 of #66DaysOfData (Day 15) by @KenJee_DS 
+
+- SQL interview questions
+- Conversations on using excel for multivariate analysis
+
+Day 41 of #66DaysOfData (Day 16) by @KenJee_DS 
+
+- It’s Valentine’s Day, just kept loving 🥰🥰",0,4
+1361087829791694856,1348766102529171467,KeerthanaJagan5,Sun Feb 14 23:00:01 +0000 2021,"Day 22 of #66daysofdata : 
+- Watched videos about feature selection/ feature engineering @KenJee_DS",0,9
+1361085642139185152,1295354412794249219,thebrowndeity,Sun Feb 14 22:51:19 +0000 2021,"Day 19 of #66daysofdata:
+- Enrolled for the Algebra Course on Khan Academy 
+- Did the Foundation Part for refreshing
+- I'm actually enjoying his classes!!",0,3
+1361079391900606470,319888531,ZubbyD,Sun Feb 14 22:26:29 +0000 2021,"Day 42 of #66DaysOfData with @KenJee_DS:
+Today, I still went deeper into understanding Neural Networks. Watched a StatQuest video: https://t.co/0rdBGksYmS 
+The explanation was well broken down.
+
+You can follow my progress here: https://t.co/8mvnqSl5s9
+#CodeNewbie #datascience",1,5
+1361077673196404736,1096479301074063361,Petec0x0,Sun Feb 14 22:19:39 +0000 2021,"Day 45 of #66daysofdata. 
+Continued with Section 5: Performance Measurement - KPIs of ""Algorithmic Trading &amp; Quantitative Analysis Using Python"" course on Udemy.
+- Covered Volatility Measures' and  its implementation in Python.
+- Sharpe and Sortino Ratio with Python.
+#Python",3,2
+1361074867991363588,14093270,nbinowski,Sun Feb 14 22:08:30 +0000 2021,Day 38 of #66daysofdata by @Ken_Jee Twitter-&gt;JSON-&gt;Tweepy-&gt;Python  perfect together.  Reviewed the differences between OAuth1 and 2. Got my Twitter Python app to work.  Will be sharing this work with my @CCM_edu students #python #twitterapi #json,3,2
+1361072562059452416,267466466,tadiwami,Sun Feb 14 21:59:20 +0000 2021,Day 26-7 of the #66daysofdata : continue learning MS Azure's machine learning. Raised to Level 2 of COVID here in New Zealand for 3 days. Practically nothing will change. Kids go to school. I work. What can I say? Happy.,1,6
+1361065047326404616,397272525,shatandv,Sun Feb 14 21:29:29 +0000 2021,"Day 42 of #66DaysOfData summary:
+- Didn't do @hackerrank,
+- Learned about the vector cross product from @3blue1brown,
+- Learned to calculate the R2 with its p-value for a Logistic Regression model.
+- Learned about Golang's control flow - for-loop, if-else, switch, defer.",0,5
+1361062124135591943,1300863716003639296,yunihafsarii,Sun Feb 14 21:17:52 +0000 2021,"resumed my people analytic project: achieved better performance after hyperparameter tuning. my undersampling dataset performed pretty well but the oversampling dataset is overfitting this time
+
+16/66 of #66daysofdata",0,3
+1361061954585055233,1358452630876528644,anulekha_,Sun Feb 14 21:17:11 +0000 2021,"Day 5 of #66daysofdata 
+
+- attended my tableau lecture where we went over the dashboard
+- watched a few more videos on how to use the spotify api",0,3
+1361051585468637186,1345596935621763073,shravani_ml,Sun Feb 14 20:35:59 +0000 2021,"#66daysofdata  Day 38,39 - Completed learning about Inferential Statistics-Fundamentals - Standard Normal Distribution, Central Limit theorem, Estimators&amp;Estimates #datascience #statistics",2,1
+1361047040680198154,288875016,romainBechet,Sun Feb 14 20:17:56 +0000 2021,"#66daysofdata Day 46/66
+Update on the project. 
+- Website very easy to scrape 
+- Thinking on how store the data. 
+- I'll probably store a subset of the data to make tests on the method https://t.co/c4KdB2ELqz",0,2
+1361046573489160194,1353547458350034945,Harshit93340989,Sun Feb 14 20:16:04 +0000 2021,"Day 16, 17 and 18 of #66daysofdata:
+Learned how to train a CNN with TensorFlow and Keras.
+Planned out my own data science curriculum for the next 12 months. Started writing a blog about my data science syllabus!",0,3
+1361042630952579078,1360727881,kanay07,Sun Feb 14 20:00:24 +0000 2021,"Day 22 - 24 of #66daysofdata 
+
+Finished week 3 of an intro to computer science course.  I learned about tuples, lists, and dictionaries.
+
+It's been frustrating and exhilarating all at the same time.",0,4
+1361030998750883842,1324652185964204033,meyke9976,Sun Feb 14 19:14:11 +0000 2021,"Day 42 of #66daysofdata by @KenJee_DS 
+I had big plans for today. With all the new ideas and knowledge I got from reading the notebooks yesterday, I wanted to improve my housing model today... The reality is that I did start, but will not finish. A long hike got in the way 🌲❄️🌳",0,15
+1361028991730163713,1243246008303112192,samarthgupta39,Sun Feb 14 19:06:12 +0000 2021,"day23 of #66daysofdata
+-Today I completed  Python Data Science Toolbox (Part 1) from @datacamp and started with part 2
+- worked on a OCR project",3,12
+1361027797309935616,967674092273983489,joleenbothma,Sun Feb 14 19:01:28 +0000 2021,"Day 37 &amp; 38 of #66DaysofData
+
+1. Reading Competing on Analytics by Davenport &amp; Harris
+
+2. Learnt about the marketing mix and the 4 P’s of marketing on 365 Data Science:
+
+🟢 Product
+🟢 Price
+🟢 Promotion
+🟢 Place",1,6
+1361023144983728130,324583975,georgekanellos,Sun Feb 14 18:42:59 +0000 2021,"Days 34&amp;35 of #66daysofdata by @KenJee_DS
+
+Created a visual representation of the path each chess piece takes in a game by using plotnine (ggplot2 for python) https://t.co/Y48YjfG4Jf",0,6
+1361019138966192135,43874625,LudovicCarceles,Sun Feb 14 18:27:03 +0000 2021,"Day 49 of #66DaysOfData ! I had to push myself to do it today but I continued to learn about matplotlib and plan to continue this evening my now bedside book, Python for DS :)",2,6
+1361017594157948928,939519071380525058,asma_massad,Sun Feb 14 18:20:55 +0000 2021,"Day 9 of #66daysofdata
+- Watched 1 hour seaborn crash course  on youtube. 
+- Read an interesting article ""How Does NASA Use Machine Learning""  on @geeksforgeeks 
+#datascience  #Python #MachineLearning  #codinglife #programming #AI",3,2
+1361014367467274240,951871594376376320,JackRaifer,Sun Feb 14 18:08:06 +0000 2021,"#66DaysOfData with @KenJee_DS R2 Day #38.
+Spent the day on several things, but mostly contemplating the future of #DataScience.
+How do you envision the Data Science industry in the future?
+I'll start 👇",2,17
+1361009649391173633,86053507,RaulFlint,Sun Feb 14 17:49:21 +0000 2021,"Day 12 &amp; 13 of #66DaysOfData: I worked with @GCPcloud  #DataFlow labs in @qwiklabs, yesterday the #Python version, today the #Java version",1,1
+1361006291641008131,909968496011894784,Paiky16,Sun Feb 14 17:36:00 +0000 2021,"Day 42 of #66daysofdata:
+Spent some time solving Leetcode questions.",0,9
+1361002396550270978,2936164585,PPatil699,Sun Feb 14 17:20:32 +0000 2021,#day42 of #66daysofdata with @KenJee_DS  read some articles and went through some tutorials basically it was a chill day,0,10
+1361001060916211715,896716355411611648,martinnyakimov,Sun Feb 14 17:15:13 +0000 2021,"[Day 45 of #66DaysOfData]
+Spent about 1 hour to study and practice R - @365datascience",0,5
+1360995929004810241,806854993256947713,Saurabh___Joshi,Sun Feb 14 16:54:50 +0000 2021,"Day 45 V_2 of #66DaysOfData with @KenJee_DS
+
+1. Watched YT video on Resume https://t.co/4EGtLfTc1w
+2. Finished my week1 report for the Course, here's the link: https://t.co/6G9xPU0QCa
+3. Did some light SQL coding.
+4. Started with week2 of the course.
+5. Listening to Music 🎶",0,8
+1360988011220004864,731856877139558400,01Abhi10,Sun Feb 14 16:23:22 +0000 2021,"#66daysofdata with @KenJee_DS
+ 
+Day 41:
+- Started using Jupyter Notebook.
+- Learning more on Python Data Structure.",1,12
+1360987003098177539,18383562,pathria,Sun Feb 14 16:19:22 +0000 2021,#66daysofdata day 2 house prices data exploration with kaggle https://t.co/EE4HEG8BU3,0,0
+1360985244069990407,4769857642,louis__simpson,Sun Feb 14 16:12:22 +0000 2021,Day 35 of #66DaysOfData - last night I worked on this... https://t.co/lCnItnjSp0  #DataScience #MachineLearning #AI,4,2
+1360976760129527811,1281890679052857346,ShrutiJ87241031,Sun Feb 14 15:38:39 +0000 2021,"Day 6: 2nd round #66daysofdata 
+- had amazing conversation with @JackRaifer  and my other friends on a project. 
+- did some research work on a topic 
+- working on trying out new thing with project.
+@KenJee_DS",0,12
+1360967430978211841,1188798821024722945,Muh_Raihan_P,Sun Feb 14 15:01:35 +0000 2021,"Day 34 of #66daysofdata v2:
+After getting more comfortable with data analysis and statistics, I continued my analysis on the Titanic Classification Challenge",0,1
+1360961850087780356,1319044673080524801,meghansharris,Sun Feb 14 14:39:25 +0000 2021,"Day 42 of #66daysofdata. Did some beginner Python lessons gong over the data types in Python. As my home is in R, imagine the gut-wrenching feeling of realizing I couldn’t assign values with “&lt;-“ and was forced to use “=“ in Jupyter. Just feels wrong man. 😭😡",0,14
+1360959893302374402,1308365362598215680,maszanski,Sun Feb 14 14:31:38 +0000 2021,"Day 50 of #66daysofdata 
+Today I want to make something like “rest day”, after more than one week of intensive passing the #MachineLearning course. My plan includes only reading a few article (honestly, I’ve a lot materials in my bookmarks, which I need to check). https://t.co/flb0y5zxAh",1,2
+1360941761451995138,3432128877,Coach_Raz26,Sun Feb 14 13:19:35 +0000 2021,"Day 32: #66daysofdata 
+Did a bit of R practice. Stayed away from my computer the majority of the day.",0,2
+1360939912019783684,1332613548,imkeller_5,Sun Feb 14 13:12:14 +0000 2021,Day 41 Part 2 of the #66daysofdata! I continued with the new version of the notebook. I started working things out how to have less NaNs.,0,1
+1360937749570748425,1262624101983633408,erkushagra_,Sun Feb 14 13:03:39 +0000 2021,"d-41 &amp; d-42 of #66daysofdata R-2 done with #30daysofcode @geeksforgeeks #valentinesum https://t.co/NuKxvNvS8a and gone through real-time sentiment analyzer article, predicting sentiment using TextBlob in real-time...
+https://t.co/fmz01xgoud",1,2
+1360936046880563204,261823100,EduarMMo,Sun Feb 14 12:56:53 +0000 2021,"Day 4 of #66daysofdata 
+I going to continue with the technical test to get a job a data scientist junior but doing a regression models like linear regression, decision tree and random forest in Python. 
+A great challenge to me !",0,1
+1360935894245666821,261823100,EduarMMo,Sun Feb 14 12:56:16 +0000 2021,"Day 3 of #66daysofdata and receive a technical test to get a job as data scientist junior but using python ( I know R). I spent the hole day in exploratory data analysis,  reading the pandas, matplotly and seaborn documentation to do it. https://t.co/oHI7xkYylq",1,2
+1360928984179957760,1354399804151967744,farzana_rh,Sun Feb 14 12:28:49 +0000 2021,"#66DaysofData @KenJee_DS 
+Day 7-9:
+· Watched the @thedataprof latest video, took notes and made a curriculum using the topics mentioned in the video.
+· DS Tools course - learnt about open sourced v/s commercial,  developmental, executional and fully integrated DV tools.",0,6
+1360925686471536640,1341882826757705729,DataSurviving,Sun Feb 14 12:15:43 +0000 2021,Day 16 of #66daysofdata aait was a busy day but I still managed to finish reading a chapter from data science from scratch.,1,4
+1360907907613794315,1345374681008926723,DataLiteracy66,Sun Feb 14 11:05:04 +0000 2021,"If there is a numeric value associated with an outcome,  we can calculate an expected value for a sequence of random events. How much profit can Gracie expect from her lemonade stand? Day 42 of #66DaysOfData 
+
+#100DaysOfCode #DataScience #DataLiteracy
+
+https://t.co/HWiZeQgl3F https://t.co/imi2JtAcl0",10,5
+1360880445924122624,23293578,therealjaysueno,Sun Feb 14 09:15:56 +0000 2021,"Day 9 of #66daysofdata with @KenJee_DS - today I finished a SQL course on Udemy. Highlights:
+🔵 CASE 
+🔵 JOINS 
+🔵 SUB QUERIES 
+🔵 CASTING",0,5
+1360875744197566465,1300017281666363394,mrvsokolovsky,Sun Feb 14 08:57:15 +0000 2021,Day 41 of #66DaysOfData v2.0 by @KenJee_DS. I read a paper about the Wuhan covid spreading model and watched a bunch of @realGeorgeHotz livecoding stream records. It's pretty impressive how this guy thinks in code. I have a lot to learn to get to that level.,0,6
+1360868672202543104,397272525,shatandv,Sun Feb 14 08:29:09 +0000 2021,"Plan for Day 42 of #66DaysOfData!
+- Do 1 @hackerrank Python and SQL problem,
+- Watch a @3blue1brown linear algebra video,
+- Learn about measuring the statistical significance of a Logistic Regression model.
+- Play around with Golang - learn the constructs of the language.",0,11
+1360868201383534592,397272525,shatandv,Sun Feb 14 08:27:17 +0000 2021,"Day 41 of #66DaysOfData summary:
+- Didn't do @hackerrank,
+- Watch a @3blue1brown video about the vector dot product,
+- Learned about fitting the Logistic Regression,
+- Understood a little about Ansible and Terraform, they sound really useful for any project with deployment.",0,12
+1360842886170873856,1346312420780752896,Comet_Miller,Sun Feb 14 06:46:41 +0000 2021,"Day 31 of #66DaysOfData 
+
+Statistics:
+Got to page 96 in ISL
+
+Programming:
+Continued watching TidyX #12
+
+Personal Project:
+Continued writing up on the college nationals simulation model; began working with {gt} to create good looking tables",0,3
+1360838838554271744,1159830350102781953,KenJee_DS,Sun Feb 14 06:30:36 +0000 2021,"Day 41 of the #66DaysOfData Round 2! 
+
+- Re-Read some of Hands-On Machine learning. Focused on improving the performance of neural nets with regularization and dropout!",0,27
+1360835791023439873,1354448802,opemomodu_DS,Sun Feb 14 06:18:30 +0000 2021,"Day 36 of the #66daysofdata by @KenJee_DS 
+
+🥢Currently experimenting with the Titanic dataset.
+
+🥢Read about some great applications of Data Science in industries, ranging from (Banking, Transport, Legal etc)
+
+🥢Attended a data analytics conference hosted by @utiva_io",4,9
+1360834799783399427,1230211224337432576,aaronpetryio,Sun Feb 14 06:14:34 +0000 2021,"Day 41 of #66DaysOfData:
+- Watched some PowerBI YouTube tutorials
+
+I'll be using PowerBI for work soon, so excited to build upon those skills in the day-to-day",0,11
+1360825636147761160,19448058,paulapivat,Sun Feb 14 05:38:09 +0000 2021,"How does a $77M company help
+
+data analysts 📊
+product managers 👨‍💼
+software developers 💻
+
+finally get on the same page?
+
+Read on👇
+
+#DataAnalytics #DataScience #66daysofdata #ship30for30 https://t.co/SAnpdaTGfC",0,5
+1360817378477580291,1322620958327255040,Datavisz,Sun Feb 14 05:05:20 +0000 2021,Day 9 of #66daysofdata: Light work today. Read few pages on SVM from ISLR.,0,4
+1360810883904135168,1208077315747528704,SiphuLangeni,Sun Feb 14 04:39:32 +0000 2021,"Day 44: Tf-idf scores measure importance of words in each document. Instantate TfidfVectorizer from sklearn.feature_extraction.text, fit_transform to your corpus. Scores fed to #MachineLearning model such as #NaiveBayes or #SVM.
+
+#100DaysOfCode #66DaysOfData #Python #NLP #BWIAI",12,14
+1360808699569184768,209191879,bhatnagarkush,Sun Feb 14 04:30:51 +0000 2021,"Day 19: Learned about @awscloud Glue Data catalog , Crawler and Glue ETL
+#66daysofdata #AWS #MachineLearning",2,6
+1360807225996894208,1267805283511750660,Binal_BP,Sun Feb 14 04:24:59 +0000 2021,"Day 40: #66daysofdata 
+
+Took it slow today. Started watching a video series on NLP with Python.",1,11
+1360783842907357188,1023818495471964160,NMashinchi,Sun Feb 14 02:52:04 +0000 2021,"Day 41: First, I earned the Silver Badge for SQL on @hackerrank. Second, I read about the Naive Bayes Clf and learned that it is also known as the ""Idiot's Bayes"" according to the book ""The Elements of Statistical Learning..."" by Hastie, Tibshirani, and Friedman. 😉
+#66daysofdata https://t.co/P85pAcjrby",0,5
+1360781884360450048,1344041087384637441,maxedataille,Sun Feb 14 02:44:17 +0000 2021,Day 40-41 of #66daysofdata cleaned my data and did some data visualization in my project.,0,9
+1360770345939202049,1291114285507186690,jaimedatalatte,Sun Feb 14 01:58:27 +0000 2021,"D41. #66DaysofData 
+
+Had an idea of going back to my previous kernels to brush them up with what i’ve learnt with plotly and realized i have to burn the whole thing 🥲
+
+Would be a nice exercise to do the whole thing again just to compare round one with round two",0,24
+1360768524038324228,1348370660389777409,GnzVicente,Sun Feb 14 01:51:12 +0000 2021,"Day 35 #66daysofdata
+
+Glad to have found the @DataSkeptic podcast today! 
+
+Listened to an interesting episode about Goodhart's law: how once a measure becomes a target it begins to deteriorate as a measure, by typically distorting behaviour.",0,5
+1360738033436397569,1099354391423913985,SarbottamM,Sat Feb 13 23:50:03 +0000 2021,"Day 43 of #66DaysOfData 
+Finally, the project interval prediction for vehicle price is public through the link below. The model is served as Serverless RESTful API through AWS using Zappa. Feel free to try it out.
+
+Happy Learning!!!
+
+https://t.co/32ZC8LFmaA",0,4
+1360733789983547401,784839510303453185,tthoraldson,Sat Feb 13 23:33:11 +0000 2021,Day 44/66 of #66daysofdata: It's @numerai model day! Tuned my #keras model and started using a new library for evaluation metrics.,0,5
+1360723083791900673,1348766102529171467,KeerthanaJagan5,Sat Feb 13 22:50:38 +0000 2021,Day 21 of #66daysofdata : Read about the bias-variance trade off. Started watching Statsquest Machine Learning Playlist! #BAM @KenJee_DS,0,9
+1360719231046864909,1295354412794249219,thebrowndeity,Sat Feb 13 22:35:20 +0000 2021,"Day 18 of #66DaysOfData
+- Entered the Pandas Sextion of José Portillas's course
+- Learnt what Series are, how to create them
+Can't wait to learn about Data Frames!!!
+- Enrolled for Some Algebra and Stats Courses on Khan Academy",0,14
+1360718234270502918,319888531,ZubbyD,Sat Feb 13 22:31:22 +0000 2021,"Day 41 of #66DaysOfData with @KenJee_DS:
+Today, I practiced some exercises on Machine Learning Foundations Ep #2: Computer vision by @googledevs. 
+Still understanding how the neural network algorithm works.
+You can follow my progress here: https://t.co/8mvnqSl5s9
+#CodeNewbie",0,4
+1360715754929336324,1300863716003639296,yunihafsarii,Sat Feb 13 22:21:31 +0000 2021,"resumed my people analytic project: my model accuracy has slightly improved after performing feature selection with PCA and input another relevant variable after hours of EDA. This time I oversample the dataset during cross validation
+
+15/66 of #66daysofdata",0,3
+1360706266088288258,951871594376376320,JackRaifer,Sat Feb 13 21:43:49 +0000 2021,"#66DaysOfData with @KenJee_DS R2 Day #37.
+Yesterday I had the pleasure of meeting and talking to some amazing people. First of all Jomet who wants to use Data Science to transfrom education.
+/Thread.",1,20
+1360706160454758400,1324652185964204033,meyke9976,Sat Feb 13 21:43:24 +0000 2021,"Day 41 of #66daysofdata by @KenJee_DS 
+Over the past few days, I haven't worked on my model for house prices anymore. Mostly because I did not know how to improve it further. Today I decided to break the 'deadlock' and started reading other people's notebooks. Learned a lot!!! ☺️",0,21
+1360704766926544902,1262838138948517888,KasimSegun,Sat Feb 13 21:37:51 +0000 2021,"Day 41 of #66daysofdata 
+- I worked on quizzes in my course. Completed a task which required me to extract, transform and load data into a Postgres database.",0,9
+1360701843123363849,1096479301074063361,Petec0x0,Sat Feb 13 21:26:14 +0000 2021,"Day 44 of #66daysofdata. 
+Started Section 5: Performance Measurement - KPIs of ""Algorithmic Trading &amp; Quantitative Analysis Using Python"" course on Udemy.
+Covered Compound annual growth rate (CAGR) overview and its implementation in Python.
+#algotrading #Python",2,10
+1360696662746935302,3108644521,akanshabhatt71,Sat Feb 13 21:05:39 +0000 2021,"#66daysofdata Day 25:
+Went through AND, OR ,NOT operators in SQL. Studied about Functions- COUNT, MAX, MIN, aggregation functions ( SUM, AVG).
+At last, did some hands on how to create a Calculated Field in Tableau 
+https://t.co/xqIrxRuhKa
+@KenJee_DS",0,5
+1360690789492420612,939519071380525058,asma_massad,Sat Feb 13 20:42:19 +0000 2021,"Day 8 of #66daysofdata
+Finished part 4 of  ""Build A Career in Data Science"", by Emily Robinson and Jacqueline Nolis.
+#datascience  #Python #MachineLearning  #codinglife #programming #AI",7,6
+1360683648912134147,63557338,egm_photo,Sat Feb 13 20:13:56 +0000 2021,"Day 41 of #66DaysOfData with @KenJee_DS. 
+
+Busy day today. I put in time reading Data Engineering articles. This one on resources to learn DE was particularly helpful. https://t.co/8x0BvNpgPC
+
+Tomorrow is my day off, so back on day 43.",0,4
+1360671900041641988,442279958,Duncanand,Sat Feb 13 19:27:15 +0000 2021,"Day 40 of #66daysofdata 
+
+Stats stats stats stats stats stats",0,3
+1360662435049295872,909968496011894784,Paiky16,Sat Feb 13 18:49:39 +0000 2021,"Day 40 and Day 41 of #66daysofdata:
+▶️Revised some data science and sql concepts for an interview.",0,11
+1360661019157094400,2408550806,parthrajauria,Sat Feb 13 18:44:01 +0000 2021,"Day 28 of #66DaysOfData Round 2!
+Finished the course 'Deep Learning: Face Recognition'. Learned about face recognition ad how to write code for the same. @KenJee_DS",0,5
+1360659611188146182,43874625,LudovicCarceles,Sat Feb 13 18:38:25 +0000 2021,"Days 47 &amp; 48 of #66daysofdata ! Yesterday as I was shattered after a long week at work, I continued to read Chapter 3 of Python for DS. Today I discovered matplotlib basics on the Udemy course https://t.co/5odRKt06jd",2,3
+1360654046152060932,288875016,romainBechet,Sat Feb 13 18:16:18 +0000 2021,"#66daysofdata Day 45/66
+- Planned my project 
+- Injuries in sport 
+- Only analytics (no prediction)
+- Try to finish before the end of the challenge 
+- Real Life project (messy data...) 
+- Little timeline in image Downwards ⬇️ https://t.co/LfSsPCq0JX",0,6
+1360651173024309249,806854993256947713,Saurabh___Joshi,Sat Feb 13 18:04:53 +0000 2021,"Day 44 V_2 of #66DaysOfData with @KenJee_DS
+
+1. Watched the next SQL course videos from 365 careers(udemy).
+2. Continued with more videos on Behavourial Interviews.
+3. Worked on my Week 1 project report for the Capstone project, tomorrow going to submit it :)",0,10
+1360649955292176387,896716355411611648,martinnyakimov,Sat Feb 13 18:00:03 +0000 2021,"[Day 44 of #66DaysOfData]
+Since I started to be more confident with Python, I decided to try to learn R (@365datascience course). Even though the syntax is a little different, there are good things that I like.",0,10
+1360645924603707392,1306505184911208453,mt0rm0,Sat Feb 13 17:44:02 +0000 2021,D8 of #66daysofdata: Techniques of feature selection,0,5
+1360638975963234307,1358452630876528644,anulekha_,Sat Feb 13 17:16:25 +0000 2021,"Day 4 of #66daysofdata 
+
+Attended my Tableau class where we learnt about calculated fields and using indices. 
+Also watched a couple of vides on using spotify api.",0,6
+1360636716374134790,1281890679052857346,ShrutiJ87241031,Sat Feb 13 17:07:27 +0000 2021,"Day 5: 2nd round #66daysofdata 
+- learned about encoder
+- tried some new project idea.
+Pretty chill day and Worked on some research work💯
+@KenJee_DS",1,15
+1360634009995337732,1308365362598215680,maszanski,Sat Feb 13 16:56:41 +0000 2021,"Day 49 of #66daysofdata is over. I finally ended https://t.co/bIPi2X9YcF🥳 Can’t say that my submit in #Kaggle InClass competition is good (I’m in the end of the  leaderboard lol), but tomorrow I want to improve my result.
+Thank you, @ykashnitsky for one of the best #ML courses! https://t.co/c4GZG7y7Z1",2,5
+1360630396099067908,731856877139558400,01Abhi10,Sat Feb 13 16:42:20 +0000 2021,"#66daysofdata with @KenJee_DS 
+
+Day 39 &amp; 40:
+- Was revising Special methods and property decorator in Python.
+- Taking a look at SQL triggers and ER Diagrams.
+- Read some articles related to Analytics.",0,17
+1360626649146920962,285723440,geekanvesh,Sat Feb 13 16:27:27 +0000 2021,"Day 34 of #round2 #66daysofdata 
+After getting charged up by Ken's great video, I cleaned my data further and completed a quest on @qwiklabs https://t.co/DeGcrRh8W1",0,7
+1360621861952884736,1344904404240015360,hereigoagainbyk,Sat Feb 13 16:08:25 +0000 2021,"Day 41 #66daysofdata 
+Continue doing project in Python: Telco lapsed dataset - 
+classification and clustering -&gt; remodelling using over sampling and under sampling",0,3
+1360621534113636359,18383562,pathria,Sat Feb 13 16:07:07 +0000 2021,#66daysofdata read through kaggle's identification of duplicate questions - data analysis and XGBoost starter,0,2
+1360610628499501059,209191879,bhatnagarkush,Sat Feb 13 15:23:47 +0000 2021,"Day 18 : Learned about @awscloud  Kinesis Firehose , Kinesis Data Analytics and Kinesis Video Stream
+#66daysofdata #awscloud #MachineLearning",1,4
+1360608548288409602,1248200658672652288,MileticNemanja9,Sat Feb 13 15:15:31 +0000 2021,"#3 of #66daysofdata
+
+Read article about how AI can learn to affect human decision making, and decided to take some time to break down those experiments. 
+It will take RNN, understending experimental design and refreshing on calculus and chain rule.
+
+https://t.co/wiPTPC35m1",0,5
+1360607419068542984,729672123460014080,Long_Nation,Sat Feb 13 15:11:02 +0000 2021,"Embarking on this #66daysofdata
+
+Blessings and own the day!",0,2
+1360605777157885957,19448058,paulapivat,Sat Feb 13 15:04:30 +0000 2021,"What's one thing all data scientists can get better at?
+
+Moving data.
+
+Some thoughts below👇
+
+#DataScience #66daysofdata #ship30for30 https://t.co/E2BlKMuCsC",1,7
+1360596825082744839,1188798821024722945,Muh_Raihan_P,Sat Feb 13 14:28:56 +0000 2021,"Day 33 of #66daysofdata v2:
+Starting the next chapter of SQL on Datacamp, learned about CASE statement",0,2
+1360596507024519178,3023431117,tibi01993,Sat Feb 13 14:27:40 +0000 2021,"Day 18: Naive Bayes Intuition
+#66daysofdata",0,1
+1360595112271597572,2936164585,PPatil699,Sat Feb 13 14:22:08 +0000 2021,#day41 of #66daysofdata with @KenJee_DS started with gradient boosting,0,12
+1360563137649381376,1199473474202406912,SadounMohammad,Sat Feb 13 12:15:04 +0000 2021,"Day 51 of #66daysofdata 
+
+Today I've read an article about the CRISP-DM methodology that described in terms of a historical process model.
+https://t.co/MVh8J0o2Ge",0,1
+1360556651951046657,2527930848,joao96santos,Sat Feb 13 11:49:18 +0000 2021,"38 / #66DaysOfData
+Data at Amazon Online Trainning
+
+• [Section 4] Best Practices on SQL
+• [Section 5] Using Comparison Operators
+• [Section 6] Using Aggregate Functions",0,5
+1360545519442022406,1345374681008926723,DataLiteracy66,Sat Feb 13 11:05:04 +0000 2021,"Day 41 of #66DaysOfData takes a look at Gracie's Lemonade Stand and the use of tree diagrams to map conditional probabilities. A great way to visualize all possible outcome paths.
+
+#100DaysOfCode #DataScience 
+
+https://t.co/Bp9bjfMCVS https://t.co/XwrTUfytFK",12,9
+1360535290624892935,1283489158258819072,hhotkey,Sat Feb 13 10:24:25 +0000 2021,"#NumPy exercises: writing functions for random #arrays, #vector norm, vector operations, basic #neural_network function, and vectorizing a #scalar
+
+Day 6 ==&gt;&gt; of #66daysofdata #100DaysOfCode https://t.co/cftRevNpft",9,9
+1360530099037220867,3108644521,akanshabhatt71,Sat Feb 13 10:03:47 +0000 2021,"#66daysofdata Day 24:
+Started with ML algorithms- KNN, Random Forest and their working, Linear Regression and it's types (simple and multiple linear regression), K- Means Clustering &amp; it's working.
+In SQL, studied about comparison operators (=,&lt;&gt;,!=,&lt;,&lt;=,&gt;,&gt;=,LIKE,IN).
+@KenJee_DS",0,12
+1360524880651767813,1342877464792498182,HerlimRenaldy,Sat Feb 13 09:43:03 +0000 2021,"Day 44 - Very productive day of learning PowerBI for my project. Did a little bit of data cleaning, and finally got to make some viz in PowerBI, my first ever dashboard! All of you #PowerBI experts please give me feedback or tips and tricks I'd be happy to hear it! #66daysofdata https://t.co/dZlZGgsMOd",0,7
+1360522886537216002,63557338,egm_photo,Sat Feb 13 09:35:08 +0000 2021,"Day 40 of #66DaysOfData with @KenJee_DS 
+
+Finally installed all the tools used in the Data Engineering with Python book. Now on to the actual task of data engineering. Starting with reading and writing files. https://t.co/LsVJmpqMaK",0,7
+1360491811664453637,1308365362598215680,maszanski,Sat Feb 13 07:31:39 +0000 2021,"Day 49 of #66daysofdata 
+Today I want to finish my #MachineLearning #ODS course. The final topic is the Gradient Boosting. And, instead of classic practice quiz I have #Kaggle InClass competition. https://t.co/rOMgdupdKv",2,7
+1360487835481108480,397272525,shatandv,Sat Feb 13 07:15:51 +0000 2021,"Plan for Day 41 of #66DaysOfData!
+- Do 1 @hackerrank Python and SQL problem,
+- Watch a @3blue1brown linear algebra video,
+- Learn even more about Logistic Regression.",0,8
+1360487644183035906,397272525,shatandv,Sat Feb 13 07:15:05 +0000 2021,"Day 40 of #66DaysOfData summary:
+- Didn't @hackerrank,
+- Finished the @kodekloud1 Advanced Docker course! ,
+- Understood a little about Ansible,
+- Watched a @3blue1brown video about non-square matrices,
+- Learned more about Logistic Regression coefficients.",0,9
+1360481650153459713,1310356801909522433,_shreejaya,Sat Feb 13 06:51:16 +0000 2021,"Day 39 of #66daysofdata by @KenJee_DS
+
+Went through this paper once again - https://t.co/wXkTuP0ltG",0,11
+1360480726873853953,1267805283511750660,Binal_BP,Sat Feb 13 06:47:36 +0000 2021,"Day 39: #66daysofdata 
+
+Continued working on text classification. Looked into tokenisation and text transformation. I’ll start reviewing NLP this weekend",1,12
+1360478762228408321,1291114285507186690,jaimedatalatte,Sat Feb 13 06:39:48 +0000 2021,"D40. #66daysofdata 
+
+More of a rest day today. Explored the plotly library",0,23
+1360476521094410240,1319044673080524801,meghansharris,Sat Feb 13 06:30:53 +0000 2021,"Day 41 of #66daysofdata! (It's 1:30 am so it counts) Figured out what was causing my pandoc errors 🙄 so now have a completed flexdashboard example for my site. Figuring out how much detail should go into the writeup though. Might try to make some data art later today, we'll see.",0,10
+1360474494880555008,1159830350102781953,KenJee_DS,Sat Feb 13 06:22:50 +0000 2021,"Day 40 of the #66DaysOfData Round 2! 
+
+- Spent some time looking through kernels on @kaggle of the past NCAAB bracket challenges. 
+- Also read some of the chapter of Hands on ML about Natural Language Processing with RNNs and Attention!",1,39
+1360468505964011522,1069010036255387648,XudaiyanziD,Sat Feb 13 05:59:02 +0000 2021,DAY 12: Practice a problem on Leetcode #66daysofdata,0,5
+1360467578062204929,1059790562587492357,AvinShah_,Sat Feb 13 05:55:21 +0000 2021,"Day 40 of #66DaysOfData 2.0 with 
+@KenJee_DS 
+
+Revised SQL https://t.co/DAOlajuavk",0,9
+1360453238160580609,1341882826757705729,DataSurviving,Sat Feb 13 04:58:22 +0000 2021,Day 15 of #66daysofdata today was a busy day but I managed to finish a vba macro and present a variable interpretation before starting the data cleaning process in order to understand what variables the team had collected and which ones were useful,0,9
+1360444239969148928,4769857642,louis__simpson,Sat Feb 13 04:22:37 +0000 2021,Day 34 of #66DaysOfData - today I created an account on @Azure. I also started Intro to Azure on @acloudguru - time for a different experience #DataScience #MachineLearning #AI,3,2
+1360439571759198209,1208077315747528704,SiphuLangeni,Sat Feb 13 04:04:04 +0000 2021,"Day 43: Tried/failed a hard #LeetCode question today. But that's OK! Don’t destroy your morale in an attempt to build your skillset. Be self-aware: know when to put more work in. Stay motivated: know when to face the next challenge.
+
+#100DaysOfCode #66DaysOfData #Python #BWIAI",17,23
+1360435146650836993,1230211224337432576,aaronpetryio,Sat Feb 13 03:46:29 +0000 2021,"Day 40 of #66DaysOfData:
+- Intermediate Python practice on @DataCamp 
+
+SUPER slow day, but was traveling most of the day, so happy to get the five minutes in. More coming this weekend!",0,13
+1360432306083819520,784839510303453185,tthoraldson,Sat Feb 13 03:35:12 +0000 2021,Day 43/66 of #66daysofdata: Continued to work on my Streamlit application as well as digging into #SQL Alchemy.,0,3
+1360430287210045441,1332613548,imkeller_5,Sat Feb 13 03:27:10 +0000 2021,Day 40 Part 2 of the #66daysofdata! not much today. Started refactoring the notebook for BDC by mostly renaming and changing columns. Tomorrow will be a more intense look at the features.,0,1
+1360426651998330880,872880426515259393,jeffmli,Sat Feb 13 03:12:43 +0000 2021,"Day 36 #66daysofdata 
+
+Did some basic thinking on prod model selection. Dimensions to consider: 
+
+- Interpretability 
+- Accuracy
+- Computational Costs 
+- Predictions at Scale 
+- Variance
+- Data Size
+
+What else?",0,11
+1360417559535783936,1346312420780752896,Comet_Miller,Sat Feb 13 02:36:36 +0000 2021,"Day 30 of #66DaysOfData 
+
+Statistics:
+Got to page 95 in ISL
+
+Programming:
+Began watching TidyX #12
+
+Personal Project:
+Used @thomas_mock's blog to change my very bad and long methods of looping through json API data to a very simple Tidy method",0,5
+1360416608020275208,258483341,JoseLuisMarrugo,Sat Feb 13 02:32:49 +0000 2021,"Day 12 of #66daysofdata.
+- First Day at work! 😁
+- Covid-19 Project with local dataset assigned.
+- Working on Personal Covid Project with Kaggle.
+https://t.co/xHdvcZK2PG",0,5
+1360399254234140672,1023818495471964160,NMashinchi,Sat Feb 13 01:23:51 +0000 2021,Day 40: Worked on the 2020 Kaggle Survey dataset and created some visuals for a project. Matplotlib is awesome and so powerful when it comes to customizing your graphs! #66daysofdata  #datascience #datascienceproject #datavisualization #matplotlib https://t.co/FBfiepIDon,3,6
+1360384486773506054,3432128877,Coach_Raz26,Sat Feb 13 00:25:11 +0000 2021,"Day 31: #66daysofdata 
+In celebration of a full month of posting I began skeleton plans for 2 new projects that sprung into my head! Can’t wait to work on them and utilize them for our @UDBlueHens athletes! #dataviz #SportsAnalytics #datadriven 🤓💪📊",0,4
+1360379477294010374,1099354391423913985,SarbottamM,Sat Feb 13 00:05:16 +0000 2021,"Day 42 of #66DaysOfData 
+- Explored the SHAP library for model interpretability for the tree-based model.
+- Read few articles on model interpretability using the SHAP library. 
+
+Happy Learning!!!
+#DataScience",0,1
+1360377087245381634,957812876097605634,ZachFeldman3,Fri Feb 12 23:55:46 +0000 2021,#66daysofdata Day 40: Tried (and failed) to implement early stopping in BorutaShap since @kmedved came in the clutch with implementing sample weights. Also found my way around Optuna so looking forward to adding both of these into my workflow,0,6
+1360372680172724229,1345596935621763073,shravani_ml,Fri Feb 12 23:38:16 +0000 2021,"#66daysofdata Day 37-Completed DescriptiveStats concepts today!
+Types of data, Types of variables, mean, median, mode, skewness, Variance, SD, Histogram, Scatter Plots. 
+I studied along with @hellotinah during her livestream today. Pls do more of these!
+#DataScience @KenJee_DS",1,5
+1360369536634093569,1300017281666363394,mrvsokolovsky,Fri Feb 12 23:25:46 +0000 2021,Day 40 of #66DaysOfData v2.0 by @KenJee_DS. Got interested in Deep reinforcement learning and today I started working on a model that will solve the Google dino game. I spent maybe a couple of hours trying to make sense of it. Will keep working on it as a side project.,1,7
+1360366150241185796,722533518,nelotsak,Fri Feb 12 23:12:19 +0000 2021,"#66daysofdata with @KenJee_DS day 35:
+
+Completed the certification earlier than expected :)
+
+*Thinking of related real-world scenarios to solutionize in the meantime ...
+
+#DataScience 
+#BigData
+#Analytics https://t.co/PkZI1gHNvu https://t.co/dFUZFSB3jK",4,6
+1360365567874461696,1344904404240015360,hereigoagainbyk,Fri Feb 12 23:10:00 +0000 2021,"Day 40 #66daysofdata 
+Continue doing project in Python: Telco lapsed dataset - 
+classification and clustering -&gt; Data Preparation: more Data Cleaning and Data Manipulation....",0,1
+1360364610172387330,1348766102529171467,KeerthanaJagan5,Fri Feb 12 23:06:12 +0000 2021,"Day 20 of #66daysofdata 2.0:
+Couldn’t post yesterday. Spent some time figuring out group by and apply using pandas and visualising categorical features @KenJee_DS",0,5
+1360361717901983747,1096479301074063361,Petec0x0,Fri Feb 12 22:54:42 +0000 2021,"Day 43 of #66daysofdata. 
+Learnt how to properly use Python's 'Ta-lib'  library for technical indicators and pattern recognition.
+#algotrading #Python",2,6
+1360361640940683264,319888531,ZubbyD,Fri Feb 12 22:54:24 +0000 2021,"Day 40 of #66DaysOfData with @KenJee_DS:
+
+Today, I continued the Machine Learning Foundations by @googledevs (https://t.co/A5FeUo3TQw). It was an introduction to computer vision. Great and well broken down video.
+#CodeNewbie #MachineLearning #DataScience",2,7
+1360361537022623745,345564461,tolz_kay,Fri Feb 12 22:53:59 +0000 2021,"Day 40 of #66DaysOfData (Day 15) by @KenJee_DS 
+
+- Practiced some sql queries",0,3
+1360361156620263430,345564461,tolz_kay,Fri Feb 12 22:52:28 +0000 2021,"Day 39 of #66DaysOfData (Day 14) by @KenJee_DS 
+
+I attended the DATAcated conference, key take-outs: 
+
+- Don’t get tied to data that is not relevant to the business @BrentDykes 
+
+- Be consistent with data you share with C-suite (don’t switch things up frequently) @JordanMorrow",0,2
+1360358783059324928,23293578,therealjaysueno,Fri Feb 12 22:43:02 +0000 2021,"Day 8 of #66DaysOfData with Ken Jee. Today I'm further reviewing #SQL JOINS for an upcoming interview. Topics:
+
+🟢 INNER JOIN
+🟢 FULL OUTER JOIN
+🟢 LEFT OUTER JOIN
+🟢 RIGHT JOIN
+🟢 UNION 
+
+https://t.co/YxGqni1DF0 #productivity #video",0,2
+1360358252261879813,1295354412794249219,thebrowndeity,Fri Feb 12 22:40:56 +0000 2021,"Day 17 of #66daysofdata
+-Learnt about Addition, Subtraction, Multiplication
+Scalar addition &amp; Subtraction in Numpy
+
+-Handling Operations with Zero
+-Universal Equations Methods
+
+- Downloaded the Khan Academy App, Finally can have the math with me on the Go🚃🚃
+
+Let's Go🚀🚀",0,5
+1360346354334265352,862344799747264514,m_szecowka,Fri Feb 12 21:53:39 +0000 2021,Day 41. Fixed my git repository! Also watched this awesome video on how to learn data science from @thedataprof. https://t.co/sVybLSEQ0k #66DaysOfData with @KenJee_DS,1,7
+1360344140739936261,288875016,romainBechet,Fri Feb 12 21:44:51 +0000 2021,"#66daysofdata Day 44/66
+Continuing simulations. 
+Uncertainty during sampling! https://t.co/tsc9DySzA5",0,2
+1360341895017353216,1324652185964204033,meyke9976,Fri Feb 12 21:35:56 +0000 2021,"Day 40 of #66daysofdata by @KenJee_DS 
+This is a pretty boring update I'm afraid... the only thing I did today was read in the DP-200 Moc book. Much more of this is still to come. But I hope to be able to mix it in with the more fun stuff! Let's mix it up 😂",0,16
+1360336938377629698,14093270,nbinowski,Fri Feb 12 21:16:14 +0000 2021,"Day 37 of #66daysofData by @Ken_Jee Losing track of the days but working on my Twitter API python project and having some fun today with The Zen of Python https://t.co/QxqWUE0SYC Love to use computational music as a way of helping us remember things, right @CCM_edu students?",0,1
+1360333371952529421,324583975,georgekanellos,Fri Feb 12 21:02:04 +0000 2021,"Day 33 of #66daysofdata by @KenJee_DS
+
+Managed to log the movement of all chess pieces from a game and created a pandas DataFrame for the board with coordinates that I plan to combine for my visuals.",0,8
+1360331697468936200,86053507,RaulFlint,Fri Feb 12 20:55:25 +0000 2021,"Day 8, 9, 10, 11 #66daysofdata: I started the @GoogleCloud_ES  Data Engineering training. We are learning the tools that @GCPcloud provide to work with data. For now, we have seen BigQuery, DataProc and today DataFlow.",0,2
+1360331382573195265,86053507,RaulFlint,Fri Feb 12 20:54:09 +0000 2021,"Day 7 &amp; 8 #66daysofdata: I continue the Data Manipulation with pandas @DataCamp course, this time I worked with Aggregating Data.",0,1
+1360330555775201285,1262838138948517888,KasimSegun,Fri Feb 12 20:50:52 +0000 2021,"Day 40 of #66daysofdata 
+- continued learning about ETL operations in data engineering.
+- finally worked on loading in my course lessons today",0,8
+1360327433178734595,1170698970,amarchesani12,Fri Feb 12 20:38:28 +0000 2021,I started the #66Daysofdata challenge by YouTuber Ken Jee on LinkedIn. I have been posting something related to baseball analytics every day and will continue to for at least 66 days. I wanted to share my work on Twitter today and invite anyone interested in following daily on my https://t.co/6RcJHkav0d,1,4
+1360323469737488386,1310665137666191360,A4Analysis,Fri Feb 12 20:22:43 +0000 2021,"Day 11 :
+
+Here I compare 2 popular clustering algorithms- K means and Hierarchical Clustering
+
+https://t.co/cwslIXYD7M
+
+#DataScience #MachineLearning  #Statistics  #66daysofdata  v2 
+@KenJee_DS",0,3
+1360322176851845125,1348370660389777409,GnzVicente,Fri Feb 12 20:17:35 +0000 2021,"Day 34: #66daysofdata
+
+Week 4 of my DS course was kicked off with this thought-provoking piece on how fraud and misconduct in the scientific community is being tackled and how we can use p-hacking and the likes to further scientific literature.
+https://t.co/S6sn1jgTSQ",0,3
+1360319119141330944,896716355411611648,martinnyakimov,Fri Feb 12 20:05:26 +0000 2021,"[Day 43 of #66DaysOfData]
+Watched ""Bayesian Inference"" and started ""Introduction to Tableau"" - @365datascience",0,3
+1360317149034631170,1331398329977032707,aloknag_10,Fri Feb 12 19:57:36 +0000 2021,"Day 38 of #66DaysOfData:
+- watched an excel data analysis video. 
+- learnings : sorting and filter, quick analysis, pivot table.",0,8
+1360316613094854659,285723440,geekanvesh,Fri Feb 12 19:55:28 +0000 2021,"Day 33 of #round2 #66daysofdata 
+* Learned about Tree maps, Filled Maps and Edit Visual Interactions on @Microsoft #PowerBI course by @superdatasci 
+* As a side quest completed @GCPcloud Apps Script, #Sheets and @googlemaps lab on @qwiklabs",0,9
+1360309416285798403,1243246008303112192,samarthgupta39,Fri Feb 12 19:26:52 +0000 2021,"day22 of #66daysofdata
+Today I continued with  Python Data Science Toolbox (Part 1) from @DataCamp",1,11
+1360301841226072065,1104985267,GeBakaev,Fri Feb 12 18:56:46 +0000 2021,#66daysofdata Day 36: Read a bit from the 4th chapter of hands-on ML.,0,1
+1360293731560169473,1333302458362171392,ArunAakriti,Fri Feb 12 18:24:33 +0000 2021,"#Day22 of #66daysofdata 
+
+-More practice of Python programming.
+-Revisited Errors in Hypothesis.
+
+#python_week",0,6
+1360290602504523777,1281890679052857346,ShrutiJ87241031,Fri Feb 12 18:12:07 +0000 2021,"Day 4: round 2 #66daysofdata 
+@KenJee_DS
+- worked on new data set for new project .
+- learned about scaling and centring 
+- researched a lot about maybe upcoming projects 💯",0,14
+1360273070058049538,1308365362598215680,maszanski,Fri Feb 12 17:02:27 +0000 2021,"Day 48 of #66daysofdata is finally over! It was a really hard for me. Today I’ve learned “Move, smoothe, evaluate” methods in time series, econometric approach &amp; Facebook Prophet library (I used it in my exercises, quite easier than ARIMA, for example). So I spent a good day :) https://t.co/CJLGg7qhvV",1,3
+1360271676475326469,939519071380525058,asma_massad,Fri Feb 12 16:56:54 +0000 2021,"Day 7 of #66daysofdata
+Finished part 3 of  ""Build A Career in Data Science"", by Emily Robinson and Jacqueline Nolis.
+#datascience  #Python #MachineLearning  #codinglife https://t.co/fEfWHt2chR",3,3
+1360267764993302529,1306505184911208453,mt0rm0,Fri Feb 12 16:41:22 +0000 2021,D7 of #66daysofdata: Reviewing Bootstrap,0,1
+1360266844137902080,806854993256947713,Saurabh___Joshi,Fri Feb 12 16:37:42 +0000 2021,"Day 43 V_2 of #66DaysOfData with @KenJee_DS
+
+1. Watched some SQL course videos from 365 careers(udemy).
+2. Continued with more videos on Behavourial Interviews.
+3. Learned some MySQL best code practice.
+4. Cleaned the Data using @tableau for the visualization 📊 project.",0,8
+1360265150100615169,442279958,Duncanand,Fri Feb 12 16:30:58 +0000 2021,"Day 39 of #66daysofdata
+
+Taking Monika Wahi's @DethWench Statistics course through @freeCodeCamp and putting all my notes in Anki
+
+Also watched a good BBC doc last night called 'The Joy of Data' :) 
+
+https://t.co/uNuctdbHmM",0,1
+1360250089990721539,1302704071837704197,KOrfanakis,Fri Feb 12 15:31:08 +0000 2021,"Day 25 of #66daysofdata R2
+- Continued reading Ch. 11. Today’s section was about choosing the right optimizer for training #NeuralNetworks
+- Continued the EDA on COVID data. I converted all visualisations into interactive ones with Plotly. I still need to do some modifications.",0,12
+1360239196468899842,1354448802,opemomodu_DS,Fri Feb 12 14:47:51 +0000 2021,"Day 34-35 of the #66daysofdata by @KenJee_DS 
+PS: ROC curve means Receiver Operator Characteristics curve.",0,4
+1360238474192850945,1188798821024722945,Muh_Raihan_P,Fri Feb 12 14:44:58 +0000 2021,"Day 32 of #66daysofdata v2:
+- Finishing up a chapter of SQL on Datacamp about Joining Tables, the outline is all about JOINs, set theory clauses, and subqueries
+- Review the Estimation &amp; Hypothesis Testing chapters (Confidences, Z-Test &amp; T-Test, Chi-Square-Test &amp; F-Test, ANOVA)",0,2
+1360238146903040002,1300017281666363394,mrvsokolovsky,Fri Feb 12 14:43:40 +0000 2021,Day 39 of #66DaysOfData v2.0 by @KenJee_DS. Added the third variable for the model to take into account. Now I'm ready to move on to more complex models. I personally find modeling real-life processes so much more interesting but it's indeed more difficult to do.,0,7
+1360230877633126403,1358452630876528644,anulekha_,Fri Feb 12 14:14:47 +0000 2021,"Day 3 of #66daysofdata 
+
+Slightly unproductive day but I finished up my mini Tableau assignment. 
+
+I’m also gonna start participating in #makeovermonday soon.",1,5
+1360226421235273735,2936164585,PPatil699,Fri Feb 12 13:57:05 +0000 2021,#day40 of #66daysofdata with @KenJee_DS revised bagging classifiers also did some python practice,0,10
+1360226148932870147,951871594376376320,JackRaifer,Fri Feb 12 13:56:00 +0000 2021,"#66DaysOfData with @KenJee_DS R2 Day #36.
+Reading @DeepLearningAI_ newsletter The Batch, contemplating a big issue in ML: great performance on test data but not working on real applications.
+This is something I often see myself. 
+Thread-/ https://t.co/eTJ5LVZGFc",0,10
+1360220275330093060,1329313525974532097,AyubRasool14,Fri Feb 12 13:32:39 +0000 2021,"Day 41/66: did some sql leetcode and did some research on KNN and K means to understand the ML models better.
+Tmr I will officially start on my project. I have been procrastinating so much. #66daysofdata",0,2
+1360219512616927232,1319044673080524801,meghansharris,Fri Feb 12 13:29:38 +0000 2021,Day 40 of #66daysofdata. Have a meeting today presenting my dashboard and automated reports to grant funders. Trying to get a data plan together to automate data processing across a large amount of very structurally messy google spreadsheets that dates back a few years. 😬😬,1,13
+1360209917508898817,1262624101983633408,erkushagra_,Fri Feb 12 12:51:30 +0000 2021,d-39 &amp; d-40 of #66daysofdata R-2 worked with Measures of Central Tendency and handling missing values https://t.co/9GK5zkjpXH gave a read to an interesting article...https://t.co/0nbRLj2WpQ,0,1
+1360191492195770369,1345374681008926723,DataLiteracy66,Fri Feb 12 11:38:17 +0000 2021,"Day 40 of #66DaysOfData feels like a big number so we thought we'd use to occasion to discuss the Law of Large Numbers within the context of probabilities. 
+
+#100DaysOfCode #DataScience #DataLiteracy
+
+https://t.co/oh5VVzETHY https://t.co/wfqxLJDTUc",5,2
+1360186831275364353,209191879,bhatnagarkush,Fri Feb 12 11:19:46 +0000 2021,"Day 17:  Start learning about AWS Services  related to Machine Learning , started with Kinesis Data Stream and S3 in @udemy
+#66daysofdata #MachineLearning #AWS #learnsomethingnew #NeverStopLearning",0,3
+1360182375502802944,3108644521,akanshabhatt71,Fri Feb 12 11:02:03 +0000 2021,"#66daysofdata Day 23:
+Studied about Data pre- processing ( types of missing data and approaches to solve this problem), hyperparameters, Gradient Descent algorithm, Back propagation, Logistic regression and its types ( binary, multinomial and ordinal), Naive Bayes algo
+@KenJee_DS",0,7
+1360166532211433473,1133765816648962049,DataNardeep,Fri Feb 12 09:59:06 +0000 2021,"Day 43 to 45 done of #66daysofdata haven't posted as I was busy with work and getting an #SQL presentation completed on the side, had to use trusty Excel and PowerPoint 💻
+#DataScience",3,1
+1360166417971167236,1300863716003639296,yunihafsarii,Fri Feb 12 09:58:39 +0000 2021,"resumed my people analytic project: performed feature engineering with hope to feed better data into the model 
+
+14/66 of #66daysofdata",1,2
+1360165888113147904,1300863716003639296,yunihafsarii,Fri Feb 12 09:56:33 +0000 2021,"resumed my people analytic project and the result was
+my model is under-fitting with extremely low F1 score. things I planned to improve the performance 
+- use better feature to tackle high bias issue 
+
+13/66 of #66daysofdata",0,2
+1360164434866364423,19448058,paulapivat,Fri Feb 12 09:50:46 +0000 2021,"Newsletters are so 🔥 hot🔥 your cat has one🐱
+
+Let's dive into #datascience newsletters 📰
+
+In a segment called 👇🧵
+
+📈All the Data Science that's Fit to Sub 🗣️
+
+#66daysofdata #DataAnalytics #AI #ML #nlp",5,5
+1360150090996932610,397272525,shatandv,Fri Feb 12 08:53:46 +0000 2021,"Plan for Day 40 of #66DaysOfData!
+- Do 1 @hackerrank Python and SQL problem,
+- Finish the @kodekloud1 Advanced Docker course with a k8s intro,
+- Watch a video about Ansible,
+- Watch a @3blue1brown linear algebra video,
+- Learn even more about Logistic Regression - from StatQuest.",0,10
+1360149829264027648,397272525,shatandv,Fri Feb 12 08:52:44 +0000 2021,"Day 39 of #66DaysOfData summary:
+- Didn't do @hackerrank,
+- Watched a Lecture on Docker CI/CD at the @kodekloud1 course,
+- Learned about inverse matrices and rank from @3blue1brown,
+- Learned a little about Logistic Regression, but I still feel the need to learn more.",0,9
+1360145633437487112,2243627559,Originalfemo,Fri Feb 12 08:36:03 +0000 2021,"I want to do #100daysofcode or #66daysofdata but I'm not sure what to start with and what to do for the full 100 days.
+
+Another issue is I'm not sure if I will be able to commit for 100 days",15,9
+1360141217850290181,981243701610602497,_CynicalCyanide,Fri Feb 12 08:18:31 +0000 2021,"Day 26
+
+I'm back. Exams done. Back to this. I think I've been too scattered and lost in my approach the first time round. 
+
+I need structure and achievable goals. So I now have daily goals and weekly goals.
+Baby Steps :) 
+
+#100daysofcodechallenge 
+#100DaysOfCode
+#66daysofdata",9,15
+1360137827011371008,1342877464792498182,HerlimRenaldy,Fri Feb 12 08:05:02 +0000 2021,"Day 43- 
+
+Practiced some SQL
+
+Learned more about MANOVA testing
+
+Worked on project and watched PowerBI tutorials
+
+Getting familiar with more unix commands and R at work
+
+Tomorrow I’m going to get my hands dirty with PowerBI for my project!
+#66daysofdata",0,3
+1360127740012290048,1308365362598215680,maszanski,Fri Feb 12 07:24:57 +0000 2021,"Day 48 of #66daysofdata
+My plans for today include “Time series analysis in Python”. It’s penultimate topic in the https://t.co/bIPi2X9YcF 🥳 https://t.co/w6uwMgKg5e",0,1
+1360125088335499264,1159830350102781953,KenJee_DS,Fri Feb 12 07:14:25 +0000 2021,"Day 39 of the #66DaysOfData Round 2! 
+
+Light day today, but I watched @thedataprof's new video ""The Art of Learning Data Science""! Really good roadmap for the field! 
+
+Video: https://t.co/SZ7UFOP41r",1,19
+1360120132068990977,1310356801909522433,_shreejaya,Fri Feb 12 06:54:43 +0000 2021,"Day 38 of #66daysofdata by @KenJee_DS
+
+Continuing to read the Python Data Science Handbook!",3,7
+1360117037461196802,2408550806,parthrajauria,Fri Feb 12 06:42:26 +0000 2021,"Day 27 of #66DaysOfData Round 2!
+Watched the short interview of Kaggle Grandmaster Pawel Jankiewicz. @KenJee_DS 
+https://t.co/R5B0wg2PGd",0,3
+1360103945331380228,1059790562587492357,AvinShah_,Fri Feb 12 05:50:24 +0000 2021,"Day 39 #66DaysOfData 2 with 
+@KenJee_DS 
+Created some Sales story and detailed report Viz and publish on tableau public
+Sales story https://t.co/MOGTmC0vwG
+Detailed Report
+https://t.co/c2GHQZSEiL
+Day 3 of  #DATAcated conference. It was really great session about Datastorytelling",0,8
+1360099605317304322,1069010036255387648,XudaiyanziD,Fri Feb 12 05:33:09 +0000 2021,DAY 11 learn SQL #66daysdata #66daysofdata,0,1
+1360098380203122692,1069010036255387648,XudaiyanziD,Fri Feb 12 05:28:17 +0000 2021,DAY 10 learn the web design #66daysofdata,0,3
+1360094162985644033,1069010036255387648,XudaiyanziD,Fri Feb 12 05:11:32 +0000 2021,"DAY 9 learn from the book ""Getting Started with SQL""#66daysofdata",0,1
+1360093892092309505,1069010036255387648,XudaiyanziD,Fri Feb 12 05:10:27 +0000 2021,"DAY 8# learn the book ""Data Science from Scratch"" #66daysofdata",0,1
+1360087248721633284,375194054,ashleybee94,Fri Feb 12 04:44:03 +0000 2021,"Day 17 of #66daysofdata round two! 
+I practiced @LeetCode questions using arrays that I got from here: https://t.co/woHh0ufwEy",0,5
+1360083615476973569,872880426515259393,jeffmli,Fri Feb 12 04:29:37 +0000 2021,"Day 35 #66daysofdata 
+
+Read through the NCAAB Kaggle in prep for some weekend hacking with @KenJee_DS 
+
+https://t.co/8pN3ZgS3tn",1,7
+1360082628670488583,1267805283511750660,Binal_BP,Fri Feb 12 04:25:42 +0000 2021,"Day 38: #66daysofdata 
+
+Worked on text classification using the Naive Bayes algorithm. Tried to classify articles with different categories (using data from sklearn)",0,9
+1360075503340838912,1099354391423913985,SarbottamM,Fri Feb 12 03:57:23 +0000 2021,"Day 41 of #66DaysOfData 
+
+- Watched a video about ""The Art of Learning Data Science"" (https://t.co/UvXflPxbo4) by Data Professor
+- Started a new project- Email Spam Detection to refresh NLP techniques. Using data from Apache SpamAssassin.
+
+Happy Learning!!!
+
+#DataScience",2,1
+1360070167112396802,21089537,leggomymego,Fri Feb 12 03:36:11 +0000 2021,Day 20: Broke down #computerscience problems into smaller chunks to iteratively increase code complexity and estimate Big O. Checked out #plotly &amp; #dash a framework for building web analytic apps. #66daysofdata,0,3
+1360070075265372160,1316454234447990784,data_motivated,Fri Feb 12 03:35:49 +0000 2021,Days 36 and 37: been working pretty hard on this. Figured out amazon RDS to get my database on the cloud. Working on getting my slug size down for Heroku right now. May end up needing to run batch processes on an EC2 instance. #66daysofdata #MachineLearning #DataScience,4,1
+1360066492851576832,1041554401997942784,MrsCSAmador,Fri Feb 12 03:21:35 +0000 2021,Day 39 of @KenJee_DS #66DaysOfData...objective for rest of this challenge: become proficient at data frames. First step : find good resources..I've taken the kaggle mini course and others...now turn it up a notch https://t.co/EMmAAzE25T,0,8
+1360063683355836418,19448058,paulapivat,Fri Feb 12 03:10:25 +0000 2021,"Your little brother has a Substack.
+
+That's how 🔥🔥🔥 newsletters are.
+
+Curious, I surveyed Data Science newsletters📰🤔
+
+Here's what I found👇
+
+#ship30for30 #DataScience #66daysofdata #Data https://t.co/Uk1Hh0o0OJ",1,1
+1360061692823109633,3432128877,Coach_Raz26,Fri Feb 12 03:02:30 +0000 2021,"Day 30: #66daysofdata 
+The cool thing about data is when you review a conditioning session with @DelawareFH &amp; identify something in 1 player that they literally saw in film!💪🤓📊
+
+Data is best when it connects the dots and can help the staff &amp; athletes! #Data #SportsScience",0,5
+1360060670331424772,1230211224337432576,aaronpetryio,Fri Feb 12 02:58:27 +0000 2021,"Day 39 of #66DaysOfData:
+- Completed chapter 3 of 'Intermediate Data Visualization with Seaborn' on @DataCamp 
+- Intermediate Python practice on @DataCamp's mobile app!
+
+You could say I'm pretty intermediate!",0,17
+1360060179916742658,1208077315747528704,SiphuLangeni,Fri Feb 12 02:56:30 +0000 2021,"Day 42: Don’t be a victim of leaky data! Info from outside training set has no place in your model. Use val/test sets, remove dupes between train/test, use sklearn.pipeline.Pipeline to preprocess/apply scalers 
+
+#100DaysOfCode #66DaysOfData #DataScience #MachineLearning #BWIAI",21,16
+1360057861062201347,4769857642,louis__simpson,Fri Feb 12 02:47:17 +0000 2021,Day 33 of #66DaysOfData - halftime!  today I took a break to look back on what I have done so far and see where I want to go now. I think another training class is in order. #DataScience #MachineLearning #AI,1,4
+1360056694240399368,1291114285507186690,jaimedatalatte,Fri Feb 12 02:42:39 +0000 2021,"D39. #66daysofdata 
+
+finally😁
+
+I am taking Introduction to data visualization with plotly in python on @DataCamp taught by ajscrive!
+
+https://t.co/NNQUSlFb0H",0,28
+1360028694262218757,1344041087384637441,maxedataille,Fri Feb 12 00:51:23 +0000 2021,"Day 39 of #66daysofdata decided to do the titanic project from kaggle, checked some notebooks online and imported my data",0,9
+1360023518277083138,1023818495471964160,NMashinchi,Fri Feb 12 00:30:49 +0000 2021,"Day 39 Thursday - February 11th: @FCBayern won the sextuple, and I was able to win the triple today. I passed the Python, MySQL, and machine learning assessment on @LinkedIn. #66daysofdata #datascience #LinkedInAssessments #techskills #badge #practicemakesperfect https://t.co/rso6fUBibG",4,2
+1360003784399745027,267466466,tadiwami,Thu Feb 11 23:12:24 +0000 2021,"Day 25 of the #66daysofdata : started taking a MS Azure AI course. It is one of the requirements for applying for am internship, so why not. I a, becoming interested in learning the combination of agriculture/aquaculture +  + data science + security.",0,5
+1360000381988855816,1348766102529171467,KeerthanaJagan5,Thu Feb 11 22:58:53 +0000 2021,"Day 19 of #66daysofdata 2.0:
+- Continued watching EDA video by @KenJee_DS - Learning about pivot tables",0,4
+1359991545102036996,196739994,_AnglinaB,Thu Feb 11 22:23:46 +0000 2021,"*yesterday
+Day 6 of #60DaysOfPython and #66DaysOfData 
+
+It has been a tough day today, so I’m taking things easy. Haven’t made too many changes to my model - but I’m currently waiting for it to finish training - prefect time to tweet!
+
+#womanwhocode",0,6
+1359987697138491393,284384756,Jdwest22,Thu Feb 11 22:08:29 +0000 2021,Playing with #nflfastR and looking at penalty counts grouped by diff situations. #66daysofdata,0,2
+1359986005714100226,1248200658672652288,MileticNemanja9,Thu Feb 11 22:01:45 +0000 2021,"Day #2 of #66daysofdata
+Just learned about Ramanujan Machine from @nature article. 
+Name fits?
+
+https://t.co/dlVq1cCiqK",0,3
+1359984856650964992,442279958,Duncanand,Thu Feb 11 21:57:11 +0000 2021,"Day 38 of #66daysofdata
+
+Had a nice chat with the director of a U Squared - a network of data scientists who solve business problems with AI. 
+
+Got some good tips on a project idea I've been meditating on.",0,6
+1359984763587682304,1096479301074063361,Petec0x0,Thu Feb 11 21:56:49 +0000 2021,"Day 41 - 42 of #66daysofdata. 
+Completed the Section 4 of ""Algorithmic Trading &amp; Quantitative Analysis Using Python"" course on Udemy.
+Covered - ADX, OBV (technical indicators), Renko charts and how they're implemented in python.
+#algotrading #Python",2,10
+1359984002095022086,784839510303453185,tthoraldson,Thu Feb 11 21:53:48 +0000 2021,Day 42/66 of #66daysofdata: Read through the Hitchhiker's Guide to Ocean Protocol. Super interesting! Looking forward to using https://t.co/K5gEVYpbhI in the future.  https://t.co/Cy11pxATFT,0,2
+1359983722020425729,319888531,ZubbyD,Thu Feb 11 21:52:41 +0000 2021,"Day 39 of #66DaysOfData with @KenJee_DS:
+
+Today, I watched Machine Learning Foundations by @googledevs (https://t.co/vHGgV2zaYX). It was a really insightful video. I learnt the difference between software development and Machine learning. 
+1/2",2,7
+1359982506586615809,1332613548,imkeller_5,Thu Feb 11 21:47:51 +0000 2021,"Day 39 Part 2 of the #66daysofdata! Pulled got through to my first version of vaep. But still have to refactor, especially my features. got too many NaN vaep values. Looks promising but going back to adjusting everything tomorrow",0,3
+1359980941419163651,2527930848,joao96santos,Thu Feb 11 21:41:38 +0000 2021,"37 / #66DaysOfData
+@Sentdex Neural Networks from Scratch Playlist:
+
+• [Section 7] Calculating Loss with Categorical Loss-Entropy
+https://t.co/GW1mpy7Pn7",0,7
+1359974127227043840,1262838138948517888,KasimSegun,Thu Feb 11 21:14:33 +0000 2021,"Day 39 of #66daysofdata 
+- continued learning about ETL operations in data engineering.
+- focused on transformation in my course lessons today",0,13
+1359970784169648129,288875016,romainBechet,Thu Feb 11 21:01:16 +0000 2021,"#66daysofdata Day 43/66
+Lots of simulations, the best way to understand statistics! I really want to make simulations good and understandable before publishing them
+I was asked to popularize n-dimension stat-tests😭😭, let me know if someone want some simulations on this topic",0,3
+1359970179934003202,324583975,georgekanellos,Thu Feb 11 20:58:52 +0000 2021,"Day 32 of #66daysofdata by @KenJee_DS
+
+Worked on creating a tracking class/dictionary of all the movements of chess pieces on the board. With the help of the amazing @SofiaSiw",0,14
+1359965348028628994,1324652185964204033,meyke9976,Thu Feb 11 20:39:40 +0000 2021,"Day 39 of #66daysofdata by @KenJee_DS 
+My day was very similar to yesterday 😇 Watched some more from the DATAcated conference (end of day 1 -nice talk Ken!- and beginning of day 3. Als tried to solve another @Hackerrank, but this one is not yet going my way! 🧐",0,15
+1359961011768418304,1302704071837704197,KOrfanakis,Thu Feb 11 20:22:26 +0000 2021,"Day 24 of #66daysofdata R2
+- Continued reading Ch. 11. Today’s section was about transfer learning.
+- Continued the EDA on COVID data. I started learning more about Plotly and added some interactive visualisations in my notebook (mostly by copying the documentation examples 😅).",0,19
+1359956085222866944,939519071380525058,asma_massad,Thu Feb 11 20:02:52 +0000 2021,"Day 6 of #66daysofdata
+Continued reading from  ""Build A Career in Data Science"", by Emily Robinson and Jacqueline Nolis.
+#datascience  #Python #MachineLearning  #codinglife",4,6
+1359954263070310404,1333302458362171392,ArunAakriti,Thu Feb 11 19:55:37 +0000 2021,"#Day21 of #66daysofdata 
+
+-Python practice 
+-Read and watched videos related Normal distribution and Normal curve for calculation.
+
+#python_week",0,12
+1359954173412978701,896716355411611648,martinnyakimov,Thu Feb 11 19:55:16 +0000 2021,"[Day 42 of #66DaysOfData]
+Completed the statistics module and watched the combinatorics part of ""Probability"" - @365datascience 
+Experimented with Pandas, NumPy, and Python data structures",1,11
+1359952597336002560,1310665137666191360,A4Analysis,Thu Feb 11 19:49:00 +0000 2021,"How I predicted Shared Bike Demand with Regression| Part 2 | A for Analysis https://t.co/xdveQ9W4BU via @YouTube 
+
+#66daysofdata #DataScience #MachineLearning",0,2
+1359950307619463173,1348370660389777409,GnzVicente,Thu Feb 11 19:39:54 +0000 2021,"Day 28 - 33: #66daysofdata 
+
+Finishing up the 3rd week of the DS course: a bit deeper into data manipulation techniques. 
+
+University has picked up again; looking forward to learning linear algebra, multivariable calc. and more advanced statistics in the next few weeks!",0,2
+1359948745513730048,1310665137666191360,A4Analysis,Thu Feb 11 19:33:42 +0000 2021,"How I predicted Shared Bike Demand with Regression| Part 1 | A for Analysis https://t.co/DCIh8qcpus via @YouTube 
+
+#66daysofdata #kaggle #DataScience",1,2
+1359945547348606977,1345596935621763073,shravani_ml,Thu Feb 11 19:20:59 +0000 2021,"#66daysofdata Day 35,36 - completed learning about continuous distributions. Up next, Can't wait - Descriptive statistics! #Statistics @KenJee_DS",0,10
+1359943002505031682,1104985267,GeBakaev,Thu Feb 11 19:10:52 +0000 2021,#66daysofdata Day 35: Worked on gathering a dataset for one of my clients. Read a few articles on how to implement ML in businesses. Finally read a few chapters from Machine Learning Yearning.,1,8
+1359942265104441349,3108644521,akanshabhatt71,Thu Feb 11 19:07:57 +0000 2021,"#66daysofdata Day 22:
+Started with difference between SQL and EXCEL. Saw a video on installation of SQL environment. Went through some basic queries using LIMIT, WHERE clause.
+Just earned the Bronze Badge for Sql on HackerRank! https://t.co/xiF2xbbeXt
+@KenJee_DS",0,11
+1359941520737136640,63557338,egm_photo,Thu Feb 11 19:04:59 +0000 2021,Day 39 of #66DaysOfData with @KenJee_DS. I made some progress setting up tools towards studying the Data Engineering book. Also got to watch a cool presentation by @refikanadol  Details at https://t.co/eKPqtELCws,0,5
+1359941295284756481,1331398329977032707,aloknag_10,Thu Feb 11 19:04:05 +0000 2021,"Day 37 of #66DaysOfData:
+
+☑️learned about following what-if analysis tools in excel. 
+1. Scenario manager 
+2. Goal Seek 
+3. Data Table
+
+☑️ Revised combinatorics and solved some probability problem based on the topic.",0,8
+1359940113392832515,1243246008303112192,samarthgupta39,Thu Feb 11 18:59:24 +0000 2021,"day21 of #66daysofdata
+-Today I started with  Python Data Science Toolbox (Part 1) from @DataCamp
+- For polishing my problem solving skills practiced some string questions from leetcode",1,11
+1359934878955892737,1309541251830734848,_mansi___,Thu Feb 11 18:38:36 +0000 2021,"Day 22 of #66daysofdata by 
+@KenJee_DS
+
+Continued with Gradient Boosting from ""L07: Ensemble Methods"" series by @rasbt on YouTube
+https://t.co/EkqyasvYHf
+
+#DataScience #MachineLearning",0,7
+1359933076638371840,1310665137666191360,A4Analysis,Thu Feb 11 18:31:26 +0000 2021,"Day 10 :
+
+A detailed exploratory data analysis done to understand bank loan defaulters and identifying the driving factors behind payment difficulty of applicants.
+
+https://t.co/OKQ3pgwzea
+
+#DataScience #MachineLearning  #Statistics  #66daysofdata  v2 
+@KenJee_DS",0,2
+1359931820322611205,909968496011894784,Paiky16,Thu Feb 11 18:26:26 +0000 2021,"Day 38 &amp; Day 39 of #66daysofdata:
+▶️Started understanding Linked Lists, implemented a basic LL.
+▶️Understanding recommender systems and how they work.",0,11
+1359923754109927435,2562318241,NeemaMV,Thu Feb 11 17:54:23 +0000 2021,"Day 16 of #66Daysofdata
+Attending 3rd day of the DATAcated conference",0,11
+1359923488664993796,43874625,LudovicCarceles,Thu Feb 11 17:53:20 +0000 2021,"Days 45 &amp; 46 of #66daysofdata ! Yesterday and today I am on chapter 3 of the book Python for DS. Lot’s of data at work but no playing around with them, only Excel tables reports building 😢",0,11
+1359919160390791172,951871594376376320,JackRaifer,Thu Feb 11 17:36:08 +0000 2021,"#66DaysOfData with @KenJee_DS R2, day 35. Discussing projects and issues in #DATApreneurs, from the importance of domain knowledge, to biases. 
+Spent some time in @codewars improving my python skills.
+
+Want to join #DATApreneurs?
+https://t.co/SfrgNM618R",0,8
+1359916955365371904,1281890679052857346,ShrutiJ87241031,Thu Feb 11 17:27:22 +0000 2021,"Day 3 : round 2 #66daysofdata  @KenJee_DS
+- Learned about impute and pipeline and scaling and centring
+- discussed about new project 
+- downloaded notion app really need a structure in life @Harshit93340989  thanks for suggesting.
+- watched @thedataprof  new video loved it💯",0,15
+1359914006828392449,1322620958327255040,Datavisz,Thu Feb 11 17:15:39 +0000 2021,"Day 8 of #66daysofdata : Read about support vector classifiers aka soft margin classifier, tuning parameter C",0,7
+1359913494745911302,1284445574511636480,Tommy_McLennan,Thu Feb 11 17:13:37 +0000 2021,Days 36 &amp; 37 #66daysofdata started cybersecurity and cryptography lectures and carried on working on edge detection on MATLAB.,0,20
+1359912716496998407,957812876097605634,ZachFeldman3,Thu Feb 11 17:10:32 +0000 2021,#66daysofdata Day ~39~: Found out the gamma implementation for ngboost worked on the boston housing data but not my data so it's sad boi hours,0,7
+1359912715238662155,957812876097605634,ZachFeldman3,Thu Feb 11 17:10:31 +0000 2021,#66daysofdata Day 38: Did some more exploring of data on project,0,3
+1359911088007966724,285723440,geekanvesh,Thu Feb 11 17:04:03 +0000 2021,"Day 32 of #round2 #66daysofdata
+* Enjoyed great lineup at #DATAcated conference
+* Continued learning #PowerBI through @superdatasci course on @udemy",0,11
+1359908511811915782,806854993256947713,Saurabh___Joshi,Thu Feb 11 16:53:49 +0000 2021,"Day 42 V_2 of #66DaysOfData with @KenJee_DS
+
+1. Downloaded the Yelp dataset for the @ucdavis course.
+2. Connected @MySQL database with @tableau. 
+3. Watched some SQL tutorial.
+4. Watched some videos on Behavourial Interviews.",0,11
+1359907166581260290,1137782574036635649,thedataprof,Thu Feb 11 16:48:29 +0000 2021,"Hi friends, here's the hand drawn infographic shown in the YouTube video I made on The Art of Learning Data Science which summarizes my best tips on how to get started in learning data science. Check out the YouTube video here https://t.co/NIj2WBVEgn
+
+#66daysofdata #datascience https://t.co/QEW4fdkg2z",17,77
+1359906561955536897,1354399804151967744,farzana_rh,Thu Feb 11 16:46:04 +0000 2021,"#66DaysofData @KenJee_DS 
+Day 5-6:
+Read 2 DS articles and browse through some beginner's python projects while I was helping my sister prepare for her virtual IT research presentation (even though I had no idea what AV trees are... I still have no idea!)😢",0,8
+1359891165693288450,1154041072743407616,JengaSchool,Thu Feb 11 15:44:54 +0000 2021,"@JengaSchool
+ Industry lecture tickets are now out! Only a total of 6 tickets are up for grabs. Participate in the TRIVIA and stand a chance to join in on the conversation!
+https://t.co/e2BV9GYm6U
+#DataScience #66daysofdata #ArtificialIntelligence #thursdayvibes https://t.co/ghoDE25cuy",2,4
+1359883191310573569,1358452630876528644,anulekha_,Thu Feb 11 15:13:12 +0000 2021,"Day 2 of #66daysofdata 
+
+Worked through the different charts in tableau with the sample superstore dataset. 
+
+I also just learnt that you can add gifs to Notion. Total note taking game changer.",0,10
+1359880312893829120,1344904404240015360,hereigoagainbyk,Thu Feb 11 15:01:46 +0000 2021,"Day 39 #66daysofdata 
+Continue doing project in Python: Telco lapsed dataset - 
+classification and clustering -&gt; Data Preparation: Back to Data Cleaning and Data Manipulation....",0,4
+1359877896672788481,3108644521,akanshabhatt71,Thu Feb 11 14:52:10 +0000 2021,"#66daysofdata Day 21:
+Studied about Lifecycle of Data Science projects ( Business Understanding, Data Mining, Data Cleaning, Data Visualization, Data Exploration, Data Engineering, Prediction Modelling), Learning rate in Artificial neural network, Frameworks for DS.
+@KenJee_DS",1,11
+1359874958004875264,731856877139558400,01Abhi10,Thu Feb 11 14:40:29 +0000 2021,"#66daysofdata with @KenJee_DS 
+
+Day 38: 
+-Revising some topics - Class methods and static methods, and creating subclasses.
+-Was solving SQL problems based on Joins.",0,16
+1359872506279038985,1188798821024722945,Muh_Raihan_P,Thu Feb 11 14:30:45 +0000 2021,"Day 31 of #66daysofdata v2:
+Further study on #SQL set theory clauses (UNION, UNION ALL, INTERSECT, EXCEPT) and also the two-subquery JOINs (Semi-Join &amp; Anti-Join)",0,4
+1359872147880095754,2149586883,vperez2000,Thu Feb 11 14:29:19 +0000 2021,"#66daysofdata #Round2 #Day37
+#37: https://t.co/8L4653HLIS
+
+37 videos till here &amp; this one is when @KenJee_DS YouTube channel starts taking shape.
+He approaches the 1K subscribers 🥳 and his ideas start to boost!
+Has been an inspiring and great journey watching his videos 🤓🙌🏻",0,8
+1359870744889491457,2936164585,PPatil699,Thu Feb 11 14:23:45 +0000 2021,#day39 of #66daysofdata with @KenJee_DS started revising ensemble technique also studying mirnet research paper!,0,11
+1359869089905135618,1164018355,comicsouvik,Thu Feb 11 14:17:10 +0000 2021,@KenJee_DS @ashleybee94 Hi @KenJee_DS .Following #66daysofdata diligently without the tweets like phase1. This is my first End to End ML model with deployment using @heroku : https://t.co/OelXVJmUJF .If you have a minute mentioned everything in readme. Thanks for inspiring always❤️ #MachineLearning,1,6
+1359866058136580097,14093270,nbinowski,Thu Feb 11 14:05:08 +0000 2021,Day 35 of #66daysofdata by ⁦@KenJee_DS⁩ reviewing this Text Analytics open course by MIT. It uses R so today I will practice it in #python #nlp #ai #ml #datascience ⁦@CCM_edu⁩  https://t.co/fOpMA700TR,6,7
+1359857274966183936,14093270,nbinowski,Thu Feb 11 13:30:13 +0000 2021,"Day 35 of #66daysofdata by ⁦@KenJee_DS⁩ this is packed with great resources for #nlp including some great linear algebra, calc, stats and prob cheat sheets. Going through the MIT open course on Text Analytics now. #datascience #ml ⁦@CCM_edu⁩  https://t.co/65VYTkZYac",1,9
+1359820743970856960,1345374681008926723,DataLiteracy66,Thu Feb 11 11:05:04 +0000 2021,"Probabilities are all around us and likely guide more decisions than you realize. But how do we quantify probability and what changes in situations with multiple events? Day 39 of #66DaysOfData takes a look. 
+
+#100DaysOfCode #DataScience #DataLiteracy
+
+https://t.co/GzyKrdAVw7 https://t.co/WURWhJkKiW",13,11
+1359798997829918720,1342877464792498182,HerlimRenaldy,Thu Feb 11 09:38:39 +0000 2021,"Day 42- Started learning PowerBI to make reports for my project. Very interesting and powerful stuff!
+
+Watched lectures about MANOVA and when to use it over a Multi-sample Hotelling’s Test, still a little confused but I love learning about it! Then did some R work #66daysofdata",0,7
+1359798312170258435,1342877464792498182,HerlimRenaldy,Thu Feb 11 09:35:56 +0000 2021,"Day 41- Worked alot on my project:
+ -  Imported weather data that was difficult to join with my original datasets
+ - Cleaned up the project github and notebook
+ - Went over teammates’ progress
+
+#66daysofdata",0,7
+1359780801815142401,1269775796006277120,MRahal92,Thu Feb 11 08:26:21 +0000 2021,"#66daysofdata with @KenJee_DS 
+Power BI project with @codebasicshub  done.
+
+I still have to do the version 2 based on feedbacks.
+https://t.co/FmMMuYGlha",0,9
+1359760054036140036,397272525,shatandv,Thu Feb 11 07:03:54 +0000 2021,"Plan for Day 39 of #66DaysOfData!
+- Do 1 @hackerrank Python and SQL problem,
+- Continue the @kodekloud1 Advanced Docker course,
+- Watch a @3blue1brown linear algebra video,
+- Learn about Logistic Regression - the sigmoid always kind of befuddles me.",0,12
+1359759857784651777,397272525,shatandv,Thu Feb 11 07:03:07 +0000 2021,"Day 38 of #66DaysOfData summary:
+- Didn't do @hackerrank,
+- Learned about Docker Stack from the @kodekloud1 Advanced Docker course,
+- Watched a @3blue1brown linear algebra video,
+- Learned about regularization. Wonder which more advanced regularizations are used in practice?",0,9
+1359757723940900864,1306505184911208453,mt0rm0,Thu Feb 11 06:54:39 +0000 2021,D6 of #66daysofdata: Types of cross-validation and usability,0,6
+1359755854673809410,1354448802,opemomodu_DS,Thu Feb 11 06:47:13 +0000 2021,"Day 33 of the #66DaysOfData
+
+📊Studied the foundations of the ROC (Receiver Operating Characteristic) Curve - A graph showing all of the possible models and their performance. A graph of the sensitivity vs the specificity.
+
+N.B: Sensitivity - Recall of the positive class",1,12
+1359750733390745602,1059790562587492357,AvinShah_,Thu Feb 11 06:26:52 +0000 2021,"Day 38 of #66DaysOfData 2.0 with 
+@KenJee_DS 
+• Created a Sales Viz and publish on tableau public, Please have a look https://t.co/7vO3fTYaFB
+• Day 2 of  #DATAcated. It was really great listening to Mike Wimmer, such an inspiring and visionary 12 yrs boy.",0,12
+1359747574765260800,1159830350102781953,KenJee_DS,Thu Feb 11 06:14:19 +0000 2021,"Day 38 of the #66DaysOfData Round 2! 
+
+- Read this research: https://t.co/82Y2KjBikn
+- Planning to do an NCAAB hack all day Monday with @jeffmli and this was a good starter to prepare.",0,18
+1359744118562279427,1310356801909522433,_shreejaya,Thu Feb 11 06:00:35 +0000 2021,"Day 37 of #66daysofdata by @KenJee_DS
+
+Today I started reading the Python Data Science Handbook! https://t.co/f2bxg7Geuu",2,6
+1359741841374142467,1308365362598215680,maszanski,Thu Feb 11 05:51:32 +0000 2021,"Day 47 of #66daysofdata 
+Today I’m starting new topic in my #MachineLearning course. It’s about Stochastic Gradient Descent and “Vowpal Wabbit” library. So, my goals include watching 2-hour video, reading big article about this topic, and doing practice quiz. https://t.co/2w10dP7gEQ",0,11
+1359737651151077376,1230211224337432576,aaronpetryio,Thu Feb 11 05:34:53 +0000 2021,"Day 38 of #66DaysOfData:
+- Listened to @KenJee_DS's Ken's Nearest Neighbors episode with Andrew Jones
+
+I am going to try to get some @DataCamp work in as well to keep that streak alive. First day playing league soccer in a while and I am very out of shape.",0,16
+1359735623695925249,1360727881,kanay07,Thu Feb 11 05:26:50 +0000 2021,"Day 15-21 of #66daysofdata 
+
+Finished week 2 of “Intro to Computer Science and Programming Using Python.”  
+
+This week, I learned about loops, recursion, and the need to pay attention to detail in coding. I spent several hours working on logic to instead find a missing “return.”",1,10
+1359733609150693377,1319044673080524801,meghansharris,Thu Feb 11 05:18:49 +0000 2021,Day 39 of #66daysofdata. Backing up on the EDA and doing some descriptives over. Hard to work when life is being “life.”,0,17
+1359723313048793095,21089537,leggomymego,Thu Feb 11 04:37:54 +0000 2021,"Day 19: Read an article on Towards Data Science about collaboration workflow, benchmarking &amp; unit tests. Shared 3 health equity metrics for covid vaccine distribution &amp; onboarded for a nonprofit cause I’m super excited about today! 🎉#66daysofdata",0,8
+1359718233729716226,1344041087384637441,maxedataille,Thu Feb 11 04:17:43 +0000 2021,Day 38 of #66daysofdata checked some codes in a project,0,8
+1359714762125266950,16387917,vinit_sansare,Thu Feb 11 04:03:56 +0000 2021,Day 9-11 - Completed with Confidence Interval and started with Hypothesis Testing. #66daysofdata,0,6
+1359712463193739264,209191879,bhatnagarkush,Thu Feb 11 03:54:48 +0000 2021,"Day 16 : Reading about K fold Techniques 
+#66daysofdata #MachineLearning",1,4
+1359711816595607554,1291489501844393984,_dominiquejames,Thu Feb 11 03:52:13 +0000 2021,"Follow @KenJee_DS on Twitter, like and subscribe on YouTube and listen to his podcast! 
+
+He’s got great #DataScience stuff and he’s gathered a really awesome community of people with #66daysofdata https://t.co/UEPxnG0fYv",2,9
+1359710938799222785,1208077315747528704,SiphuLangeni,Thu Feb 11 03:48:44 +0000 2021,"Day 41: When number of features outweighs number of observations, sample density becomes more sparse. #Python sklearn.decomposition.PCA great for dimensionality reduction! Variables less interpretable though...
+
+#100DaysOfCode #66DaysOfData #DataScience #MachineLearning #BWIAI",24,25
+1359709323690131457,1099354391423913985,SarbottamM,Thu Feb 11 03:42:19 +0000 2021,"Day 40 of #66daysofdata
+
+Revisited the analysis done on popular tags used in Data Science on StackExchange. You can check out the link below for the analysis done in mid-2020.
+https://t.co/FS6w2TvxpJ",1,6
+1359707275590578177,1291114285507186690,jaimedatalatte,Thu Feb 11 03:34:11 +0000 2021,"D38. #66daysofdata 
+
+Today i read some kernels on kaggle, came across Regex and NLP. Very interesting but understood nothing 😪
+
+Will put this this topic on queue for the next 66 days since i will focus the rest of this round on visualization 😌",1,28
+1359706927324831744,872880426515259393,jeffmli,Thu Feb 11 03:32:48 +0000 2021,"Day 34 #66daysofdata 
+
+Did some thinking around formulating problem statements. 
+
+In data science, properly understanding and defining the problem is more important than any algorithm or tool. 
+
+Here are some questions you could ask 👇",1,11
+1359704811684397060,1335423731645222912,lepeter93,Thu Feb 11 03:24:23 +0000 2021,"Day 35 of #66daysofdata:
+- Working on DS and ML course
+- Brushing up on SQL
+- Practiced some leetcode",0,11
+1359700933370929154,784839510303453185,tthoraldson,Thu Feb 11 03:08:59 +0000 2021,"Day 41/66 of #66daysofdata: Today I researched Streamlit, and Label Studio for work. I'm also looking into dataset versioning tools. If anyone has any recommendations, let me know!",0,7
+1359700713257975808,1262838138948517888,KasimSegun,Thu Feb 11 03:08:06 +0000 2021,"Day 38 of #66daysofdata 
+Had a very light day. Only watched python+ sql: part 1 video by Brian cafferky on YouTube",0,9
+1359694789520801794,4769857642,louis__simpson,Thu Feb 11 02:44:34 +0000 2021,Day 32 (I skipped a day) of #66DaysOfData - training models with Hello AI World from @NIVIDA with Jetson Xavier NX. Oh and working with a customer to configure switches for a DGX pod 😀 #DataScience #MachineLearning #AI,2,4
+1359689762177712129,1248200658672652288,MileticNemanja9,Thu Feb 11 02:24:35 +0000 2021,"Day #1 of #66daysofdata
+ I've read great article on @TDataScience blog about transforming meaning of texts into numbers. 
+Of course, it takes more than numbering words.
+
+https://t.co/5fmwBRrRRx
+
+#datascience #nlp #machinelearnkng #textmining",2,5
+1359688056413036548,1341882826757705729,DataSurviving,Thu Feb 11 02:17:49 +0000 2021,"Day 14 #66daysofdata today I worked on the @kaggle course of data cleaning on normalization and estandarization and date parsing, also started working on a project for the company I work for doing some variable understanding and basic EDA",0,7
+1359687325878521857,284384756,Jdwest22,Thu Feb 11 02:14:54 +0000 2021,Had to write up all the comments and explain my thinking for that last Java assignment. Keeping the streak alive. #66daysofdata,0,4
+1359677580320911363,1332613548,imkeller_5,Thu Feb 11 01:36:11 +0000 2021,Day 38 Part 2 of the #66daysofdata! I had to sort out some mongodb issues for a uni project. I only had little project on my model. hopefully more progress tomorrow.,0,6
+1359666794089226247,23293578,therealjaysueno,Thu Feb 11 00:53:19 +0000 2021,"Day 8 of #66DaysOfData - Spoke with @Chad_Oda today the founder of https://t.co/LFLLFN4c2a and one of the #AI thought leaders at #ClubHouse.
+
+🟢 Leverage your personal brand
+🟢 Social media + #DataScience 
+🟢 Non-linear path to AI is valued
+🟢 The power of networking",2,5
+1359665629129711619,1214799165500248066,ShivSivakumaran,Thu Feb 11 00:48:42 +0000 2021,"Day 32 of #66daysofdata:
+Started ""Python for Data Analysis"" time series chapter. Learning the basics of the datetime standard library. I'm very excited to look through some pilot data provided by a world-renowned academic!
+
+#python #datascience #blessed",4,9
+1359659064154816520,3432128877,Coach_Raz26,Thu Feb 11 00:22:36 +0000 2021,"Day 29: #66daysofdata 
+Began formulating our @UDBlueHens team’s match day +/- 🔢 to coincide with our @VXSport GPS data! #MegaSpring #BlueHens 
+
+This will help prioritize our training and promote optimal performance &amp; decrease risk of injury. 💪🤓📊
+#SportsScience #LoadManagement",0,13
+1359658648562135040,1023818495471964160,NMashinchi,Thu Feb 11 00:20:57 +0000 2021,"Day 38: I spent listening to the latest podcast on @TDataScience, which was about ethical AI and its meaning, during my lunch break. I really enjoyed listening to @datasew, who works with policymakers on ethically applying AI. Great episode! #66daysofdata  #DataScience #ethics",3,7
+1359655943781249026,1353547458350034945,Harshit93340989,Thu Feb 11 00:10:12 +0000 2021,Day 15 of #66DaysOfData: More image processing in tensorflow!,0,9
+1359645862163410945,1041554401997942784,MrsCSAmador,Wed Feb 10 23:30:09 +0000 2021,"Day 38 of #66DaysofData with @KenJee_DS
+ Trying to understand Python..
+
+What is this:
+ if len([obj['Key'] for obj in files['Contents'] if obj['Key'].endswith('csv') if 'Generated_Transcript' in obj['Key']])==0:
+
+files is returned from (aws s3) list_objects_v2",0,12
+1359644738513604609,1283489158258819072,hhotkey,Wed Feb 10 23:25:41 +0000 2021,"Setting up a #Python3 environment and installing the required #PythonLibraries
+
+Day 5 of #66daysofdata #100DaysOfCode 
+
+Original posts on Instagram 
+@ leaders.scientific.thinking https://t.co/jL4zNzRnTz",8,9
+1359644525455675392,63557338,egm_photo,Wed Feb 10 23:24:50 +0000 2021,"Day 38 of #66DaysofData with @KenJee_DS 
+
+Hair pulling wading through log files trying to get the cause of what I suspect to be race conditions.
+
+To preserve the little hair I have, switched to Data Engineering with Python. Installed Nifi. 
+
+Details at https://t.co/cDZqEWiiU3 https://t.co/Iosj3spEyh",0,8
+1359638472047394819,345564461,tolz_kay,Wed Feb 10 23:00:47 +0000 2021,"Day 38 of #66DaysOfData (Day 13) by @KenJee_DS 
+
+Today I learnt how to use the following queries on SQL using @moshhamedani “MYSQL Tutorial for beginners”
+
+- Practice practice practice on JOINS. 
+
+Kindly share practice materials anyone?Thank you",0,7
+1359637889081102336,345564461,tolz_kay,Wed Feb 10 22:58:28 +0000 2021,"Day 37 of #66DaysOfData (Day 12) by @KenJee_DS 
+
+I attended the DATAcated conference on LinkedIn. 
+
+Key take-outs:
+
+- it is always important to know the business value of data for stakeholders to buy in
+- Data is not the new oil 
+- Data can be transformed into products",1,9
+1359636277923098625,1300017281666363394,mrvsokolovsky,Wed Feb 10 22:52:04 +0000 2021,Day 38 of #66DaysOfData v2.0 by @KenJee_DS. Today I wrote a report for my mentor about what I did yesterday with the optimizers. I need to add a 'recovered' category data to the model tomorrow and this simplified model will be done. Then it will the time to move to complex models,0,7
+1359631307626729474,1260768588572524550,dgbruce1,Wed Feb 10 22:32:19 +0000 2021,"#day31 of #66daysofdata 
+Excited about ""Skilled Clinic: Data Structures &amp; Algorithms"" https://t.co/GJZeme8zcA @Eventbrite",0,4
+1359631139019882499,2527930848,joao96santos,Wed Feb 10 22:31:38 +0000 2021,"36 / #66DaysOfData
+@Sentdex Neural Networks from Scratch Playlist:
+
+• [Section 6] Softmax Activation
+https://t.co/pFlHODpP4D",0,6
+1359630993783676943,196739994,_AnglinaB,Wed Feb 10 22:31:04 +0000 2021,"Day 5 of #60DaysOfPython &amp; #66DaysOfData
+
+I now have A LOT of reading and experimenting to do with my model, thanks to Jesper taking a deeper dive in my notebook.
+
+Ane and I encountered a challenge at the end of our session today and it was super cool to see how she overcame it.",0,6
+1359628893532094473,862344799747264514,m_szecowka,Wed Feb 10 22:22:43 +0000 2021,Day 39-40 Finishing with diamonds prices and moving to a new data set. Managed to brake my git repository and unable to merge branches. Git is so confusing for me. 😖 #66DaysOfData with @KenJee_DS,0,8
+1359623173562642434,319888531,ZubbyD,Wed Feb 10 21:59:59 +0000 2021,"Day 38 of #66DaysOfData with @KenJee_DS:
+Today, I read an article on ""How to Identify a Clever Data Scientist"" (https://t.co/FXIzjlZJRn).  It was a great read. I learnt that Data Scientists need soft skills in addition to technical skills to really stand out. 
+1/2",0,5
+1359611669903720456,1324652185964204033,meyke9976,Wed Feb 10 21:14:17 +0000 2021,"Day 38 of #66daysofdata by @KenJee_DS 
+I watched the recording of yesterday's DATAcated conference (most of it), did some more @hackerrank challenges, and have been trying to figure out what kind of project I want to take on next...",0,17
+1359609532125741062,1295354412794249219,thebrowndeity,Wed Feb 10 21:05:47 +0000 2021,"Day 16 of #66daysofdata 
+-Learnt some basics of Numpy
+- I found it quite interesting, I'm really seeing Math/Numbers as more of a fun journey than a fear especially that I'm learning through interactive means",1,8
