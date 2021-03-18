@@ -18,7 +18,7 @@ with open('cred.yaml', 'w') as config_file:
     
     
 # generate bearer token
-premium_search_args = load_credentials('cred.yaml', yaml_key='search_tweets_api', env_overwrite=False)
+premium_search_args = st.load_credentials('cred.yaml', yaml_key='search_tweets_api', env_overwrite=False)
 # print(premium_search_args)
 
 # define query 
