@@ -1,4 +1,4 @@
-# NLP_66DaysofData
+# 66DaysofData tweets Analysis
 Analysis of tweets from the #66DaysofData community/challenge
 
 ### Challenges
