@@ -15,4 +15,4 @@ Analysis of tweets from the #66DaysofData community/challenge
 
 ### ToDO
 - complete data gathering (use Twitter API to get historical data before 03.10.2020)
-- make a more simpler data gathering pipline. At this point I have to do various steps in differrent environments to have a final DataFrame with all the data
+- make a more simpler data gathering pipeline. At this point I have to do various steps in differrent environments to have a final DataFrame with all the data
