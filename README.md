@@ -3,7 +3,7 @@ Analysis of tweets from the #66DaysofData community/challenge
 
 ### Challenges
 - Get historical tweets isn't easy. 
-- Twitter-premium API is a limit query amount per month
+- Twitter-premium API has a limit query amount per month
 - Oher Twitter APIs can only retrieve tweets with full-text up to one week
 
 ### Files
