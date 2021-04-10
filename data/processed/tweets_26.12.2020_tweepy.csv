@@ -1,0 +1,309 @@
+tweet_id,user_id,user_name,created_at,full_text,retweets,favorite
+1342758811862323201,2212129783,sam_jwalsh,Sat Dec 26 09:07:02 +0000 2020,"#66daysofdata
+Day 39:
+-Revised a function I created a while ago that outputs a batter's SwStr% zone plot with respect to pitcher-handedness and pitch type (fastballs, offspeed, breaking).
+-Needs some work, but here are some examples: https://t.co/H6ZReediAE",0,0
+1342739458840547328,1308365362598215680,maszanski,Sat Dec 26 07:50:08 +0000 2020,Day 3 of #66daysofdata https://t.co/PF4xMk6mRB,0,0
+1342734758682320902,2588345408,paulr_rohan,Sat Dec 26 07:31:27 +0000 2020,"Harvard just released for free their new #MachineLearning  course. 
+
+https://t.co/ksXgV2DPtX
+
+#DataScience #100DaysOfMLCode #Python #DataScientist #66daysofdata #Statistics   #programming #ArtificialIntelligence #Data #DataAnalytics #maths #DeepLearning #pythonlearning",15,5
+1342688940306833409,45938414,KiInoue,Sat Dec 26 04:29:23 +0000 2020,Day62 of #66DaysOfData: practice building an ANN with Tensorflow in @GoogleColab. 🐍,0,0
+1342613882913910784,1320782511748927489,NoahHorsleyDS,Fri Dec 25 23:31:08 +0000 2020,"Today I read more about a topic I was already quite familiar with: replication in science. Making version control and programming notebooks standard practice could improve reproducibility of analysis.
+
+Day 57 of #66daysofdata 
+Days missed: 4",0,3
+1342588916105437187,935615163457310722,stsewang17,Fri Dec 25 21:51:56 +0000 2020,Day 24 of #66daysofdata: ✓.,0,0
+1342539867964592128,1159830350102781953,KenJee_DS,Fri Dec 25 18:37:02 +0000 2020,@AmazingGrace_D Technically I am with my leaderboard! Will also be doing quite a few with the #66daysofdata starting up again Jan 4!,0,0
+1342524692092002304,19448058,paulapivat,Fri Dec 25 17:36:44 +0000 2020,"Day 31: #66daysofdata
+
+- ✍️ jotting some notes down on Gradient Descent; work-in-progress
+
+https://t.co/c8Nz72HSjM",0,1
+1342462873281331200,1199473474202406912,SadounMohammad,Fri Dec 25 13:31:05 +0000 2020,"Day 20 of #66daysofdata 
+
+Today I worked on Ch 10 through this chapter I pass to strings with string, through this chapter I understood multi ways that I can use it when I worked in structured and semi-structured data.",0,0
+1342389986809671681,2212129783,sam_jwalsh,Fri Dec 25 08:41:27 +0000 2020,"#66daysofdata 
+Day 38:
+-Got my notebook and predictions to submit to kaggle, but the score wasn't very good. I think my model is underfitting.
+-I need to incrementally train it so that I can use larger parameters without running out of memory.
+pretty happy I made it to this stage",0,0
+1342357205618745344,1308365362598215680,maszanski,Fri Dec 25 06:31:12 +0000 2020,"Day 2 of #66daysofdata 
+
+Data Visualization is perhaps one of the most underrated skills, but it is one of the most important to have. First of all I need it to continue “Pandas exercises: learn by doing”
+And here is my statistics course (it is in Russian) https://t.co/JSGt7DrcpY",0,0
+1342351841380741120,1320782511748927489,NoahHorsleyDS,Fri Dec 25 06:09:53 +0000 2020,"Today I read about the risk of unconsciously biasing your results through the decisions you make during the analysis process. 
+
+Day 56 of #66daysofdata 
+Days missed: 4",0,3
+1342304450782887949,35504008,jimfloyddata,Fri Dec 25 03:01:34 +0000 2020,I completed Intro to Time Series Analysis in R! Check out my certificate https://t.co/GIe0eWe9Ok #Coursera Day1 #66DaysofData,0,0
+1342284070441656324,1332613548,imkeller_5,Fri Dec 25 01:40:35 +0000 2020,Day 64 of #66daysofdata! Small SQL progress on Dataquest. Not that much because Christmas Eve.,0,0
+1342192339259973635,935615163457310722,stsewang17,Thu Dec 24 19:36:05 +0000 2020,Day 23 of #66daysofdata: ✓.,0,0
+1342163759427506177,19448058,paulapivat,Thu Dec 24 17:42:31 +0000 2020,"Day 30: #66daysofdata
+
+- working through external resources for Gradient Descent including: https://t.co/u0Umd4oCxA
+- 3blue1brown:
+
+https://t.co/pjbnvdG9Nw",0,1
+1342143617968705538,979753420398743552,DivijPawar,Thu Dec 24 16:22:29 +0000 2020,"Participating in #66Daysofdata . This should be fun, love an active community",0,4
+1342108710617812992,1310565371389177858,R1SE_823,Thu Dec 24 14:03:46 +0000 2020,"Day 41 of #66daysofdata 
+- Started reading this book https://t.co/i7w6nVat4I",0,1
+1342038889226141696,2212129783,sam_jwalsh,Thu Dec 24 09:26:19 +0000 2020,"#66daysofdata
+Day 37:
+-Trying to submit my model using kaggle notebooks is harder than I thought it would be.
+-Spent some time making this graph Brandon Belt https://t.co/KAQxbOnHUe",0,0
+1342004809340248064,1308365362598215680,maszanski,Thu Dec 24 07:10:54 +0000 2020,"#66daysofdata 
+So, now I’m starting this challenge too, in order to be more productive and attentive for details in my education.
+First of all, I want to say about really amazing and wonderful courses, which I’ll describe in my next tweet. https://t.co/sk83n0AZrj",0,0
+1341970243284062210,1320782511748927489,NoahHorsleyDS,Thu Dec 24 04:53:33 +0000 2020,"Yesterday I read about the importance of retaining information in analysis. Today I read about common mistakes when using a linear regression and about Simpson’s paradox.
+
+Day 55 of #66daysofdata 
+Days missed: 4",0,3
+1341962243437522944,45938414,KiInoue,Thu Dec 24 04:21:45 +0000 2020,"Day60 of #66DaysOfData: felt like I need a review of partial derivatives, particularly the chain rule...should help me understand the math behind cost functions of neural networks a little better.  Back propagation still seems like a black box to me.",0,2
+1341941690798628870,935615163457310722,stsewang17,Thu Dec 24 03:00:05 +0000 2020,Day 22 of #66daysofdata: ✓.,0,0
+1341904276008955914,1332613548,imkeller_5,Thu Dec 24 00:31:25 +0000 2020,Day 63 of #66daysofdata! Figured out how to get Google Sheets into a Pandas Frame in Colab. Also continued with SQL on Dataquest.,0,1
+1341810724553842688,2214590456,__peagah,Wed Dec 23 18:19:41 +0000 2020,"Day 45. Diving deeper into some Crop Science details to acquire domain knowledge.
+
+#66DaysOfData @KenJee_DS",0,1
+1341810360962179073,2214590456,__peagah,Wed Dec 23 18:18:14 +0000 2020,"Day 44. More exploratory analysis.
+
+#66DaysOfData @KenJee_DS",0,2
+1341802465214140417,2588345408,paulr_rohan,Wed Dec 23 17:46:51 +0000 2020,"My #blog  on #NLP
+
+https://t.co/zuFswmKQnl
+
+#DataScience #MachineLearning  #100DaysOfMLCode #Python #DataScientist #66daysofdata #Statistics   #programming #ArtificialIntelligence #Data #DataAnalytics #maths #DeepLearning #pythonlearning",2,2
+1341787042796072960,19448058,paulapivat,Wed Dec 23 16:45:34 +0000 2020,"Day 29: #66daysofdata
+
+- working through gradient descent
+- implement code in Hands-on ML (ch4) 
+- implement code for Gradient Descent vs Normal Equation for regression problems https://t.co/dwttKGI3m9",0,1
+1341723116154748930,1137782574036635649,thedataprof,Wed Dec 23 12:31:33 +0000 2020,"How to Build a Machine Learning Model
+In this video, I give a high-level overview on how to build a machine learning model in 9 minutes.
+
+👉 https://t.co/gWn3Xo6WbM
+
+#datascience #machinelearning #data #ai #66daysofdata #datascientist #dataanalyst",4,9
+1341703967173083140,1199473474202406912,SadounMohammad,Wed Dec 23 11:15:28 +0000 2020,"Day 19 of #66daysofdata 
+
+Today I continued on ch 9 in R4DS, and I went through the exercises. Tomorrow I'll start tackling the programming once. https://t.co/d3i27izjXD",0,0
+1341680882348924928,887648194603212800,MinoritySTEM,Wed Dec 23 09:43:44 +0000 2020,"@DataScienceFest for the whole of Nov they ran The Data Science Festival incl. talks, workshops, a quiz &amp; a movie night. I learnt so much, &amp; they made it so much fun.
+@KenJee_DS Not an org but Ken's #66DaysOfData inspired me to make my DS learning into a more consistent project",3,5
+1341655371115421697,2212129783,sam_jwalsh,Wed Dec 23 08:02:21 +0000 2020,"#66daysofdata
+Day 36:
+-The model finally trained and I got results! https://t.co/NLgPizcgqr",0,2
+1341654288393711619,1301025989359788033,AMuktineni,Wed Dec 23 07:58:03 +0000 2020,"Day 17 of #66daysofdata (2.0)
+
+I earned a statement of accomplishment on @DataCamp  for completing Introduction to Git! https://t.co/mJpBMoMvfq 
+
+@KenJee_DS",0,5
+1341637372031553537,2588345408,paulr_rohan,Wed Dec 23 06:50:50 +0000 2020,"My #blog  #Vector Normalization Basics
+
+https://t.co/VW7hV7uMaw
+
+#DataScience #MachineLearning  #100DaysOfMLCode #Python #DataScientist #66daysofdata #Statistics   #programming #ArtificialIntelligence #Data #DataAnalytics #maths #DeepLearning #pythonlearning",4,1
+1341565662616047616,1332613548,imkeller_5,Wed Dec 23 02:05:53 +0000 2020,Day 62 of #66daysofdata! Not did something particular today. Tried getting Excel into pandas and did some regex stuff for work. Also did a bit SQL on Dataquest.,0,0
+1341555760149487616,935615163457310722,stsewang17,Wed Dec 23 01:26:32 +0000 2020,Day 21 of #66daysofdata: ✓.,0,0
+1341524199152750594,2527930848,joao96santos,Tue Dec 22 23:21:08 +0000 2020,"56/ #66DaysOfData
+• Worked on ""Are You Too Old for Data Science?  👴👵"" https://t.co/YsKLVdQrXU",1,1
+1341451818694406144,2212129783,sam_jwalsh,Tue Dec 22 18:33:31 +0000 2020,"#66daysofdata
+Day 35:
+-continued trying to fit models to my PUBG data, but I'm getting errors.
+-going to look at how other people tackled training a dataset of this size.",0,0
+1341448454296387584,45938414,KiInoue,Tue Dec 22 18:20:09 +0000 2020,Day59 of #66DaysOfData: Exploring the basic concepts and terminology of graph theory...need a few practice problems to understand the concept of an Adjacency matrix 🤯,0,0
+1341435035165945858,19448058,paulapivat,Tue Dec 22 17:26:49 +0000 2020,"Day 28: #66daysofdata
+
+- active poetry for existing 🐍 project, ✍️ about installing, placing .venv directory for project, launching virtual env https://t.co/VbwAMMZ5hk
+- py4e/FCC: Definite loops and Loop Idioms
+- read Hands on ML ch 4 Training Models (Gradient Descent)",0,3
+1341380478226452481,1199473474202406912,SadounMohammad,Tue Dec 22 13:50:02 +0000 2020,"Day 18 of #66daysofdata 
+
+Today I, again, was short on time. I worked in ch 10 in R4DS. https://t.co/XPMFD3B3w4",0,1
+1341330023341387778,1453368613,VivanVatsa,Tue Dec 22 10:29:32 +0000 2020,"@KenJee_DS 
+thanks Ken. couldn't have completed my project if it wasn't for your YT tutorials.
+really looking forward to get support for my project transposition of your Data science scratch project.
+
+#66daysofdata #DataScience #Python https://t.co/IMJZ99K3yO",2,2
+1341304814928494592,1340838460257538049,tims_tangents,Tue Dec 22 08:49:22 +0000 2020,"Day -9. By the end of today, I will have:
+* finished reading the chapter on Classification that I'm on
+* deployed an RShiny app onto https://t.co/MdrcfJLSTf that does EDA on this data set https://t.co/GZtyvoN4y1
+#66daysofdata",0,1
+1341301092252991488,1340838460257538049,tims_tangents,Tue Dec 22 08:34:35 +0000 2020,"What actually happened:
+* read HALF of the chapter when I only scoped for a THIRD!
+* wrote SQL queries for the above mentioned AND for diagnoses! also merged queries into a mega query
+* installed R+RStudio and started looking at tutorials for it
+#66daysofdata",0,1
+1341298768864567296,1301025989359788033,AMuktineni,Tue Dec 22 08:25:21 +0000 2020,"Day 16 of #66daysofdata (2.0)
+
+Completed Chapters 3 &amp; 4 of Introduction to Git @DataCamp",0,7
+1341215187035025408,45938414,KiInoue,Tue Dec 22 02:53:13 +0000 2020,"Day58 of #66DaysOfData: got my chatbot to say ""hi"", and ""you're welcome"" in response to ""thanks"" 🐍",0,1
+1341179799369371649,935615163457310722,stsewang17,Tue Dec 22 00:32:36 +0000 2020,Day 20 of #66daysofdata: ✓.,0,1
+1341087791959126017,1302704071837704197,KOrfanakis,Mon Dec 21 18:27:00 +0000 2020,"Hello, everybody! I just published a notebook on #kaggle. It’s a classification task in which I predict customer churn for a #bank. You can have a look at it here:
+https://t.co/eZBqIYQpJ6
+I hope you have a nice Christmas and a good start in 2021! 
+#66daysofdata #MachineLearning",4,16
+1341085533447942144,2212129783,sam_jwalsh,Mon Dec 21 18:18:01 +0000 2020,"#66daysofdata 
+Days 33 &amp; 34:
+Done with camping
+-Read hands on machine learning both days",0,2
+1341076001510440962,19448058,paulapivat,Mon Dec 21 17:40:09 +0000 2020,"Day 26-27: #66daysofdata
+
+- work through intermediate expression, conditional structures, python funct, loops and iterations, definite loops (py4e, FreeCodeCamp) https://t.co/sOaoPShmvU
+- install Poetry dependency management in 🐍, will work on proper vscode integration",0,1
+1341038867042975744,2214590456,__peagah,Mon Dec 21 15:12:35 +0000 2020,"Day 43. Continuing my exploratory analysis. I also might resume the @365datascience course I had been doing some time ago.
+
+#66DaysOfData @KenJee_DS",0,3
+1340941612428324866,1340838460257538049,tims_tangents,Mon Dec 21 08:46:08 +0000 2020,"Day -10. By the end of the day, I will have:
+* read the first 1/3 of the Classification chapter in Practical Statistics for Data Scientist
+* written SQL queries for min/mean/max heart rate and respiratory rates
+#66daysofdata",0,1
+1340936544299958273,1273299721625333760,Flexgigzz_team,Mon Dec 21 08:26:00 +0000 2020,"Currently Python is the hottest programming language. Check 5  freelancing jobs for python programmers here 
+
+#python #AI #machinelearning #Data #DataScientist 
+ #100DaysOfCode #Coding  #66daysofdata #DataScience 
+#mondaythoughts 
+
+https://t.co/zGCKVrUZ4F",11,4
+1340889224841707522,1320782511748927489,NoahHorsleyDS,Mon Dec 21 05:17:58 +0000 2020,"Today I read a great article by Matthew Stewart on the manifestations, causes, and approaches for correcting dataset shift. 
+
+Day 53 of #66daysofdata 
+Days missed: 3
+
+https://t.co/sYoqR4etca",0,2
+1340851763969048576,45938414,KiInoue,Mon Dec 21 02:49:07 +0000 2020,Day57 of #66DaysOfData: interview prep for tomorrow - built a quick (and ugly) COVID dashboard with Tableau and practiced some intermediate SQL problems on Hackerrank.,0,3
+1340844139705974786,935615163457310722,stsewang17,Mon Dec 21 02:18:49 +0000 2020,Day 19 of #66daysofdata: ✓.,0,1
+1340837457806450691,1332613548,imkeller_5,Mon Dec 21 01:52:16 +0000 2020,Day 61 of #66daysofdata! Finished off the guided project about data cleaning. Started doing the SQL basics because I need that for school.,0,2
+1340707372965060608,1281890679052857346,ShrutiJ87241031,Sun Dec 20 17:15:21 +0000 2020,"Day 28 : #66daysofdata
+- complete project of EDA on IPL cricket match data set 
+- learned Tableau",0,3
+1340675379246190592,2588345408,paulr_rohan,Sun Dec 20 15:08:13 +0000 2020,"My #blog  on t-SNE on MNIST dataset
+
+https://t.co/rNjJfui6eL
+
+#DataScience #MachineLearning  #100DaysOfMLCode #Python #DataScientist #66daysofdata #Statistics  #pandas #programming #ArtificialIntelligence #Data #DataAnalytics #maths #DeepLearning",5,6
+1340650312672051202,1199473474202406912,SadounMohammad,Sun Dec 20 13:28:37 +0000 2020,"Day 17 of #66daysofdata 
+
+Today I've completed the tidy data chapter, through this chapter that I worked on, I have learnt different ways that I will use it in real data and how I can able to said that the data on hand is tidy.",0,2
+1340545719241822208,1273299721625333760,Flexgigzz_team,Sun Dec 20 06:33:00 +0000 2020,"Leverage your knowledge &amp; skills on blockchain for supply chains &amp; payment system in business 
+
+#blockchain #bitcoin #Crypto #100DaysOfCode #Coding  #66daysofdata #DataScience 
+ #javascript  #C
+
+https://t.co/wJiGEhe6T5",7,3
+1340524433149181952,1320782511748927489,NoahHorsleyDS,Sun Dec 20 05:08:25 +0000 2020,"I practiced web scraping again today and got a better handle on finding and pulling specific pieces of information. I look forward to digging into this topic more in the future!
+
+Day 52 of #66daysofdata
+Days missed: 3",0,5
+1340503766110527489,1332613548,imkeller_5,Sun Dec 20 03:46:17 +0000 2020,Day 60 of #66daysofdata! Continued on the Dataquest data cleaning guided project. I am on the last task and will finish it tomorrow.,0,2
+1340483895054229506,935615163457310722,stsewang17,Sun Dec 20 02:27:20 +0000 2020,Day 18 of #66daysofdata: ✓.,0,0
+1340483559367303170,1273299721625333760,Flexgigzz_team,Sun Dec 20 02:26:00 +0000 2020,"How to Using compiled code with Python ? Get the answer here 
+
+#Python  #womenwhocode #webdevelopment
+ #100DaysOfCode #Coding  #66daysofdata #DataScience #MachineLearning  #AI 
+#softwareengineer #javascript  #nodejs #reactjs 
+
+https://t.co/myfjSTAnaw",48,36
+1340370296839127040,1281890679052857346,ShrutiJ87241031,Sat Dec 19 18:55:56 +0000 2020,"Day 27: #66daysofdata 
+- learning ML 
+- did some intership task",0,2
+1340363589870211075,19448058,paulapivat,Sat Dec 19 18:29:17 +0000 2020,"Day 25: #66daysofdata
+
+- read through Data Science from Scratch ch8 &amp; implemented code https://t.co/sg1eiyB3JW
+
+- working through estimating gradient single data pt -&gt; whole dataset.",0,2
+1340313970566000642,1453368613,VivanVatsa,Sat Dec 19 15:12:07 +0000 2020,"""the more you give, the more you receive""
+really at this moment I got what you meant @KenJee_DS 
+obsession for data is making me learn new things 
+also started your scratch project.
+really helping along the way.
+
+#Data #66daysofdata https://t.co/MBu2vxr9FX",0,3
+1340313586552324097,45938414,KiInoue,Sat Dec 19 15:10:35 +0000 2020,"Day56 of #66DaysOfData: watching this live learning session presented by the creator of PyCaret.
+
+Deploying Machine Learning Pipelines using PyCaret https://t.co/uwVuSNJ0vO via @YouTube",1,2
+1340296829498347520,1273299721625333760,Flexgigzz_team,Sat Dec 19 14:04:00 +0000 2020,"Let's Finding bugs: debugging concepts and technics !
+
+#debugging #computational 
+#100DaysOfCode #66daysofdata  #100DaysOfCode #javascript #reactjs #angularjs #vuejs #nodejs #webdev #coding #codenewbie #code 
+
+https://t.co/XsCsHuI4G5",12,8
+1340284138490761217,1199473474202406912,SadounMohammad,Sat Dec 19 13:13:34 +0000 2020,"Day 16 of #66daysofdata 
+
+Back to challenge again, after stopping for two days. Today I've started working on tidy data part that will be practically able to work with huge dataset.",0,2
+1340167886715801607,2212129783,sam_jwalsh,Sat Dec 19 05:31:37 +0000 2020,"#66daysofdata 
+Day 32:
+-learned about random forests as well as AdaBoost and gradient boosting.
+The next 3 days will be more reading heavy as I’ll be camping and won’t be able to code.",0,2
+1340164158852108288,1301025989359788033,AMuktineni,Sat Dec 19 05:16:49 +0000 2020,"Day 15 of #66daysofdata (2.0)
+
+Completed Chapters 1 &amp; 2 of Introduction to Git @DataCamp",1,9
+1340082092428943365,1332613548,imkeller_5,Fri Dec 18 23:50:43 +0000 2020,Day 59 of #66daysofdata! Got a good chunk done in the data cleaning guided project. Halfway done now. Hoping to finish it tomorrow,0,2
+1340074921616056320,1318596362703962119,dataleftovers,Fri Dec 18 23:22:13 +0000 2020,"Day 40 of #66daysofdata:
+
+Read about stats. 
+
+I set myself the goal to finish reading Practical Stats for DS. 
+
+My 66 days are running out so I need to start focusing on reading.",0,2
+1340050736911101952,935615163457310722,stsewang17,Fri Dec 18 21:46:07 +0000 2020,Day 17 of #66daysofdata: ✓.,0,2
+1340038621869445120,45938414,KiInoue,Fri Dec 18 20:57:58 +0000 2020,"Day55 of #66DaysOfData: In Standford's ML course, the subject of Model Selection and Train/Validation/Test Sets brings new perspective on how I should have been doing cross-validation all along: 
+Train: 60%
+Cross validation: 20%
+Test: 20%
+
+It was always 80/20 in grad school...",0,1
+1339991469235421184,19448058,paulapivat,Fri Dec 18 17:50:36 +0000 2020,"Day 24: #66daysofdata
+
+- wrote a mini-tutorial on using the {sunburstR} package to visualize nested data https://t.co/mC2JGWGCYz",0,3
+1339990917608927233,909968496011894784,Paiky16,Fri Dec 18 17:48:25 +0000 2020,"Day 21 of #66daysofdata -
+⏹️ Completed assignment from the course on deep learning by jovian.
+⏹️ Started solving basic level codeforces questions.",0,2
+1339985497498636288,2588345408,paulr_rohan,Fri Dec 18 17:26:52 +0000 2020,"My #blog  on #NeuralNetworks with  #TensorFlow #keras 
+
+https://t.co/MS4FPRvq6Y
+
+#DataScience #MachineLearning  #100DaysOfMLCode #Python #DataScientist #66daysofdata #Statistics  #pandas #programming #ArtificialIntelligence #Data #DataAnalytics #maths #DeepLearning",19,12
+1339977988373434370,951871594376376320,JackRaifer,Fri Dec 18 16:57:02 +0000 2020,"To Math or Not to Math, the 3rd Story in my #RoadToDataScience series.
+
+Shout out to @KenJee_DS and the #66DaysOfData challenge for inspiring this series.
+
+#DataScience 
+#MachineLearning 
+#DeepLearning 
+#Mathematics
+
+https://t.co/DTzxvjzNRo via @LinkedIn",0,6
+1339976667385630721,1281890679052857346,ShrutiJ87241031,Fri Dec 18 16:51:47 +0000 2020,"Day 26: #66daysofdata 
+- completed project of EDA on global terrorism dataset 
+- learned some math concepts of function and graph of function 
+- watched cleaning data by @KenJee_DS  data science project series from scratch 💯
+Ps: soon going to watch @AndrewMoMoney  youtube live",1,3
+1339948143949967361,1453368613,VivanVatsa,Fri Dec 18 14:58:27 +0000 2020,"have been doing a lot of reading of scikit-learn documentation.
+i learn something new every day.
+
+#DataScience #DataAnalytics #66daysofdata #python #100DaysOfCode #100daysofpython #100daysofdata #scikit #MachineLeraning #AI #ml #jupyter #notebooks",4,5
+1339927843548049412,2214590456,__peagah,Fri Dec 18 13:37:47 +0000 2020,"Day 42. Just brushed up on using Pipelines.
+
+#66DaysOfData @KenJee_DS",0,2
+1339856709162999808,2212129783,sam_jwalsh,Fri Dec 18 08:55:07 +0000 2020,"#66daysofdata 
+Day 31:
+A whole month!
+-tried an sgd regressor on my model since it was easy to train
+-still have some errors to work out that have to do with indexing on my test set",0,1
+1339830566557016065,1301025989359788033,AMuktineni,Fri Dec 18 07:11:14 +0000 2020,"Day 14 of #66daysofdata (2.0)
+
+Started working on Chapter 1 - Introduction to Git @DataCamp",0,10
+1339799726254927873,1320782511748927489,NoahHorsleyDS,Fri Dec 18 05:08:41 +0000 2020,"I practiced web scraping today using Beautiful Soup. It was not too hard once I got the hang of reading HTML.
+
+Day 51 of #66daysofdata 
+Days missed: 3",0,4
+1339757982985441280,935615163457310722,stsewang17,Fri Dec 18 02:22:49 +0000 2020,Day 16 of #66daysofdata: ✓.,0,1
+1339735977200377864,1332613548,imkeller_5,Fri Dec 18 00:55:22 +0000 2020,Day 58 of #66daysofdata! Continued a bit with the data cleaning project on Dataquest. More time again tomorrow.,0,1
+1339734914443354112,1318596362703962119,dataleftovers,Fri Dec 18 00:51:09 +0000 2020,"Day 38 and 39 of #66daysofdata:
+
+Mostly cleaning data. 
+
+I've formed a good habit of doing DS related work. I regret not having a plan coming into this like @KenJee_DS suggested your video.
+
+ But I'm not sure I knew enough at the start to have made a good plan.",0,3
