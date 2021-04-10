@@ -1,8 +1,7 @@
-![wordcloud](reports/figures/test_vertical.png)
-
-
 # 66DaysofData tweets Analysis (WIP)
 Analysis of tweets from the #66DaysofData community/challenge
+
+![wordcloud](reports/figures/test_vertical.png)
 
 ### Challenges
 - Get historical tweets isn't easy. 
