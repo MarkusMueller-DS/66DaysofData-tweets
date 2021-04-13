@@ -3,7 +3,7 @@ import pandas as pd
 import streamlit as st
 import re
 import matplotlib.pyplot as plt
-import nltk_download_utils
+# import nltk_download_utils
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
@@ -20,7 +20,7 @@ st.markdown("""
     paricipant, when they used the above mentioned hashtag. 
     
     If you arent a participant and want to see different results you can try one of the following users: 
-    KenJee_DS, MarkusM99098101, KOrfanakis, _paulo_lopez_, JackRaifer.
+    KenJee\_DS, MarkusM99098101, KOrfanakis, \_paulo\_lopez\_, JackRaifer.
 
     The Word Cloud is created from a database with 14700 individual tweets (2020-08-29 to 2021-04-11).
 
@@ -31,7 +31,7 @@ st.write("")
 
 option = st.selectbox('Do you want the Word Cloud with or without lemmatization?', ['no', 'yes']) 
 
-user_name = st.text_input('Twitter user Name (without the @):')
+user_name = st.text_input('Twitter handle (without the @):')
 # st.write(f'WordCloud wird für {user_name} erstellt')
 
 if(st.button('Create WordCloud')):
