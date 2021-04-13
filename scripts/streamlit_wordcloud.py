@@ -8,7 +8,7 @@ from nltk.tokenize import word_tokenize
 from wordcloud import WordCloud
 
 # load data
-df = pd.read_csv('Tweets_wc.csv') 
+df = pd.read_csv('data/final/Tweets_wc.csv') 
 
 st.header('WordCloud-Generator')
 
