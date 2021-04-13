@@ -3,17 +3,31 @@ import pandas as pd
 import streamlit as st
 import re
 import matplotlib.pyplot as plt
-import nltk_download_utils
+# import nltk_download_utils
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
+from nltk.stem import WordNetLemmatizer
 from wordcloud import WordCloud
 
 # load data
 df = pd.read_csv('data/final/Tweets_wc.csv')
 
-st.header('WordCloud-Generator')
+st.title('Word Cloud-Generator')
+st.subheader('by Markus Müller ([@MarkusM99098101](https://twitter.com/MarkusM99098101))')
 
-user_name = st.text_input('Twitter user Name: ')
+st.markdown("""
+    This is a Word Cloud generator for the #66DaysofData Challenge. The Word Cloud is generated with the tweets form the 
+    paricipant, when they used the above mentioned hashtag. 
+    
+    If you arent a participant and want to see different results you can try one of the following users: 
+    KenJee_DS, MarkusM99098101, KOrfanakis, _paulo_lopez_, JackRaifer.
+""")
+
+st.write("")
+
+option = st.selectbox('Do you want the Word Cloud with or without lemmatization?', ['no', 'yes']) 
+
+user_name = st.text_input('Twitter user Name (without the @):')
 # st.write(f'WordCloud wird für {user_name} erstellt')
 
 if(st.button('Create WordCloud')):
@@ -69,9 +83,25 @@ if(st.button('Create WordCloud')):
         word = w
         str_user += "".join(word)+ " "
 
-    ## CREATE WORDCLOUD
-    wordcloud = WordCloud(width=1200, height=600, background_color="white", collocations=False, scale=1.8).generate(str_user)
-    fig, ax = plt.subplots()
-    ax.imshow(wordcloud, interpolation='bilinear')
-    ax.axis("off")
-    st.pyplot(fig)
+    if option == 'no':
+        ## CREATE WORDCLOUD
+        wordcloud = WordCloud(width=1200, height=600, background_color="white", collocations=False, scale=1.8).generate(str_user)
+        fig, ax = plt.subplots()
+        ax.imshow(wordcloud, interpolation='bilinear')
+        ax.axis("off")
+        st.pyplot(fig)
+
+    elif option == 'yes':
+        # Word cloud with lemmatizer
+        wordnet_lemmatizer = WordNetLemmatizer()
+        tokens = word_tokenize(str_user)
+        str_user = ''
+        for word in tokens:
+            word_ = wordnet_lemmatizer.lemmatize(word, pos="v")
+            str_user += "".join(word_)+ " "
+        wordcloud = WordCloud(width=1200, height=600, background_color="white", collocations=False, scale=1.8).generate(str_user)
+        fig, ax = plt.subplots()
+        ax.imshow(wordcloud, interpolation='bilinear')
+        ax.axis("off")
+        st.pyplot(fig)
+        
