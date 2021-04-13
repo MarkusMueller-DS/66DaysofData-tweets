@@ -2,13 +2,14 @@ import numpy as np
 import pandas as pd
 import streamlit as st
 import re
-import matplotlib.pyplot as plt 
+import matplotlib.pyplot as plt
+import nltk_download_utils
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from wordcloud import WordCloud
 
 # load data
-df = pd.read_csv('data/final/Tweets_wc.csv') 
+df = pd.read_csv('data/final/Tweets_wc.csv')
 
 st.header('WordCloud-Generator')
 
