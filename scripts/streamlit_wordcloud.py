@@ -3,7 +3,7 @@ import pandas as pd
 import streamlit as st
 import re
 import matplotlib.pyplot as plt
-# import nltk_download_utils
+import nltk_download_utils
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
