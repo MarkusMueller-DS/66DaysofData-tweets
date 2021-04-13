@@ -21,6 +21,10 @@ st.markdown("""
     
     If you arent a participant and want to see different results you can try one of the following users: 
     KenJee_DS, MarkusM99098101, KOrfanakis, _paulo_lopez_, JackRaifer.
+
+    The Word Cloud is created from a database with 14700 individual tweets (2020-08-29 to 2021-04-11).
+
+    You can read more about the project on my [porfolio website](https://markusmueller-ds.github.io/portfolio/66days_analysis.html) (WIP)
 """)
 
 st.write("")
