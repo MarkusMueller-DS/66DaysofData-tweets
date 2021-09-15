@@ -34,4 +34,5 @@ Analysis of tweets from the #66DaysofData community/challenge
     - paulapivat (173 tweets)
 
 *** Wordcloud Streamlit-App
+
 ![wordcloud_app](reports/figures/Word_Cloud_App.png)
