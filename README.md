@@ -33,6 +33,6 @@ Analysis of tweets from the #66DaysofData community/challenge
 - Who was the most active user?
     - paulapivat (173 tweets)
 
-*** Wordcloud Streamlit-App
+### Wordcloud Streamlit-App
 
 ![wordcloud_app](reports/figures/Word_Cloud_App.png)
