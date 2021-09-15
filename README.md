@@ -19,12 +19,12 @@ Analysis of tweets from the #66DaysofData community/challenge
 
 ### First results
 - How many total tweets?
-    - 14181
+    - 23144
 - How many unique participants?
-    - 779
+    - 1170
 - Basic statistics on tweets?
-    - mean: 67.8
-    - median: 69.0
+    - mean: 60.5
+    - median: 56.0
     - max: 165
     - min: 8
 - Day with most tweets / Day with least tweets
