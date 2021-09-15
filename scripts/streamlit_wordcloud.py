@@ -10,7 +10,7 @@ from nltk.stem import WordNetLemmatizer
 from wordcloud import WordCloud
 
 # load data
-df = pd.read_csv('data/final/Tweets_wc.csv')
+df = pd.read_csv('data/final/Tweets_data.csv')
 
 st.title('Word Cloud-Generator')
 st.subheader('by Markus Müller ([@MarkusM99098101](https://twitter.com/MarkusM99098101))')
@@ -22,7 +22,7 @@ st.markdown("""
     If you arent a participant and want to see different results you can try one of the following users: 
     KenJee\_DS, MarkusM99098101, KOrfanakis, \_paulo\_lopez\_, JackRaifer.
 
-    The Word Cloud is created from a database with 14700 individual tweets (2020-08-29 to 2021-04-11).
+    The Word Cloud is created from a database with 23144 individual tweets (2020-08-29 to 2021-09-15).
 
     You can read more about the project on my [porfolio website](https://markusmueller-ds.github.io/portfolio/66days_analysis.html) (WIP)
 """)

@@ -32,3 +32,6 @@ Analysis of tweets from the #66DaysofData community/challenge
     - max tweets: 2nd of September 2020, (one day after the start)
 - Who was the most active user?
     - paulapivat (173 tweets)
+
+*** Wordcloud Streamlit-App
+![wordcloud_app](reports/figures/Word_Cloud_App.png)
