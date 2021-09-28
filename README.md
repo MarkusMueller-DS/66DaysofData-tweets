@@ -1,5 +1,5 @@
 # 66DaysofData tweets Analysis (WIP)
-Analysis of tweets from the #66DaysofData community/challenge
+##### Analysis of tweets from the #66DaysofData community/challenge
 
 ![wordcloud](reports/figures/test_vertical.png)
 
