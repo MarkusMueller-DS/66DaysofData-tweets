@@ -21,12 +21,12 @@
 
 ### First results
 - How many total tweets?
-    - 23144
+    - 33276
 - How many unique participants?
-    - 1170
+    - 1625
 - Basic statistics on tweets?
-    - mean: 60.5
-    - median: 56.0
+    - mean: 61
+    - median: 54
     - max: 165
     - min: 8
 - Day with most tweets / Day with least tweets
