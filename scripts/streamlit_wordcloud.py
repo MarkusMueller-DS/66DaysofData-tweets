@@ -11,21 +11,26 @@ from wordcloud import WordCloud
 
 # load data
 df = pd.read_csv('data/final/Tweets_data.csv')
+rows = df.shape[0]
+date_from = df['created_at'][0].split(" ")[0]
+date_to = df['created_at'][df.index[-1]].split(" ")[0]
 
 st.title('Word Cloud-Generator')
 st.subheader('by Markus Müller ([@MarkusM99098101](https://twitter.com/MarkusM99098101))')
 
-st.markdown("""
+html_str = f"""
     This is a Word Cloud generator for the #66DaysofData Challenge. The Word Cloud is generated with the tweets form the 
     paricipant, when they used the above mentioned hashtag. 
     
     If you arent a participant and want to see different results you can try one of the following users: 
     KenJee\_DS, MarkusM99098101, KOrfanakis, \_paulo\_lopez\_, JackRaifer.
 
-    The Word Cloud is created from a database with 23144 individual tweets (2020-08-29 to 2021-09-15).
+    The Word Cloud is created from a database with {rows} individual tweets ({date_from} to {date_to}).
 
     You can read more about the project on my [porfolio website](https://markusmueller-ds.github.io/portfolio/66days_analysis.html) (WIP)
-""")
+"""
+
+st.markdown(html_str, unsafe_allow_html=True)
 
 st.write("")
 
@@ -54,7 +59,7 @@ if(st.button('Create WordCloud')):
         elif (len(links_) == 3):
             str_ = str_.replace(links_[0], '').replace(links_[1], '').replace(links_[2], '')
         elif(len(links_) > 3):
-            print('error: more than 3 links in the tweet')
+            print('attention: more than 3 links in the tweet')
         elif (len(links_) == 0):
             pass
             
@@ -108,4 +113,15 @@ if(st.button('Create WordCloud')):
         ax.imshow(wordcloud, interpolation='bilinear')
         ax.axis("off")
         st.pyplot(fig)
-        
+
+    # SHOW DETAILS
+    st.header('More information about the user')
+    st.write(user_name)
+    # Number of Tweets
+    num_tweets = df_user.shape[0] 
+    st.write('number of tweets: ', str(num_tweets))
+
+    # First and last Tweet
+    date_from_user = df_user['created_at'][0].split(" ")[0]
+    date_to_user = df_user['created_at'][df_user.index[-1]].split(" ")[0]
+    st.write('First Tweet: ', date_from_user, ' Last Tweet: ', date_to_user)
