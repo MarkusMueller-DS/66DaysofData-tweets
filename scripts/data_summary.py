@@ -1,10 +1,9 @@
 # script to quickly assess the dataset
 
 import pandas as pd
-from datetime import date, time
 
-# path to dataset
-df = pd.read_csv('finalFrame.csv')
+PATH_DATA = 'data/final/tweets_66DaysofData.csv'
+df = pd.read_csv(PATH_DATA)
 
 # split the `created_at` column into date and time to make aggreation over days possible 
 df['created_at'] = pd.to_datetime(df['created_at'])
