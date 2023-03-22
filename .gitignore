@@ -1,4 +1,7 @@
 .DS_Store
-__pychache__/
+__pycache__/
 test.ipynb
 .env
+scripts/__pycache__/
+.ipynb_checkpoints/
+data/local/

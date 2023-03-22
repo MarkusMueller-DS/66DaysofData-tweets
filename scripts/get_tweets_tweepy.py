@@ -72,13 +72,15 @@ data_df_tweepy = pd.DataFrame(d)
 print(f"got {data_df_tweepy.shape[0]} tweets")
 
 # file name
-file_name_csv = 'tweets_' + date_today.strftime('%d.%m.%Y') + '_tweepy.csv'
-file_name_pkl = 'tweetsData_' + date_today.strftime('%d.%m.%Y') + '_tweepy.pkl'      
+# save weekly data locally 
+# all the data is found in zip archive in data/processed and data/raw
+file_name_csv = 'data/local/csv/tweets_' + date_today.strftime('%Y.%m.%d') + '_tweepy.csv'
+file_name_pkl = 'data/local/pkl/tweetsData_' + date_today.strftime('%Y.%m.%d') + '_tweepy.pkl'      
 
 # saves the DataFrame as a csv:
 data_df_tweepy.to_csv(file_name_csv, index=False)
 
-# saves the original list from tweepy with all the information as a pickl
+# saves the original response from tweepy with all the information as a pickl
 with open(file_name_pkl, 'wb') as f:
     pickle.dump(list_tweets, f)
 
@@ -101,6 +103,11 @@ if os.path.isfile(PATH_DATA):
     # drop for duplicate rows
     results = result.drop_duplicates(subset=['full_text'], keep='last')
     print(f'rows after merging: {results.shape[0]}')
+
+    # save as csv
+    results.to_csv(PATH_DATA, index=False)
+    results.to_parquet("data/final/tweets_66DaysofData.parquet")
+
 else:
     data_df_tweepy.to_csv(PATH_DATA, index=False)
 
