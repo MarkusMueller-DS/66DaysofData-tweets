@@ -4,41 +4,51 @@ import streamlit as st
 import re
 import random
 import matplotlib.pyplot as plt
-import nltk_download_utils
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
 from wordcloud import WordCloud
 
 
+def create_random_df(df: pd.DataFrame) -> pd.DataFrame:
+    """
+    Function to create a DataFrame with tweets from a random participant
+    df: main DataFrame with every tweet
+    """
+    print("create wordcloud for random user")
+    # find random user 
+    unique_user = df['user_id'].unique()
+    random_user_id = random.choice(unique_user)
+    user_name = df[df['user_id'] == random_user_id]['user_name'].values[0]
 
-def create_wordcloud(df: pd.DataFrame, user_name: str = ''):
+    df = df[df['user_name']==user_name]
+    df = df.reset_index(drop=True)
+
+    return df
+
+def create_wordcloud(df: pd.DataFrame, user_name: str = '', option:str = 'no', src: str = ''):
     """
     function to create the wordcould
     df: pandas DataFrame
     user_name: name of the user if provided. If not then a random wordcould is generated
+    option: with lemmatization or without (defualt: without)
+    random: if random or for every data point
     """
 
-    # check if user_name is provided
-    if user_name == '':
-        # find random user 
-        unique_user = df['user_id'].unique()
-        random_user_id = random.choice(unique_user)
-        user_name = df[df['user_id'] == random_user_id]['user_name'].values[0]
-        print(f'random user id: {random_user_id}')
-        print(f'random user name: {user_name}')
-
-
-    # filter DataFrame with user name
-    df_user = df[df['user_name']==user_name]
-    df_user.reset_index(inplace=True)
+    # check which wordcloud to create
+    if (src == 'random'):
+        df = create_random_df(df)
+    if (src == 'user'):
+        # filter DataFrame with user name
+        df = df[df['user_name']==user_name]
+        df = df.reset_index(drop=True)
 
     # remove links
     link_re = re.compile('http://\S+|https://\S+')
     str_user = ''
 
-    for x in range(len(df_user)):
-        str_ = df_user['full_text'][x]
+    for x in range(len(df)):
+        str_ = df['full_text'][x]
         links_ = re.findall(link_re, str_)
     
         if (len(links_) == 1):
@@ -53,8 +63,6 @@ def create_wordcloud(df: pd.DataFrame, user_name: str = ''):
             pass
             
         str_user += ''.join(str_)
-
-    # attention:  1269775796006277120
 
     # to lowercase
     str_user = str_user.lower()
@@ -112,20 +120,25 @@ def create_wordcloud(df: pd.DataFrame, user_name: str = ''):
     st.header('More information about the user')
     st.write(user_name)
     # Number of Tweets
-    num_tweets = df_user.shape[0] 
+    num_tweets = df.shape[0] 
     st.write('number of tweets: ', str(num_tweets))
 
     # First and last Tweet
-    date_from_user = df_user['created_at'][0].split(" ")[0]
-    date_to_user = df_user['created_at'][df_user.index[-1]].split(" ")[0]
+    date_from_user = df['created_at'][0].split(" ")[0]
+    date_to_user = df['created_at'][df.index[-1]].split(" ")[0]
     st.write('First Tweet: ', date_from_user, ' Last Tweet: ', date_to_user)
 
-
+st.set_page_config(page_title="Wordcloud", page_icon="☁")
+st.sidebar.header("Wordcloud")
 
 
 # load data
-PATH_DATA = 'data/final/tweets_66DaysofData.csv'
-df = pd.read_csv(PATH_DATA)
+@st.cache
+def load_data(path):
+    df = pd.read_csv(path) 
+    return df
+
+df = pd.read_csv('data/final/tweets_66DaysofData.csv')
 rows = df.shape[0]
 date_from = df['created_at'][0].split(" ")[0]
 date_to = df['created_at'][df.index[-1]].split(" ")[0]
@@ -138,28 +151,45 @@ html_str = f"""
     paricipant, when they used the above mentioned hashtag. 
     
     If you arent a participant and want to see different results you can try one of the following users: 
-    KenJee\_DS, MarkusM99098101, KOrfanakis, \_paulo\_lopez\_, JackRaifer.
+    KenJee\_DS, MarkusM99098101, KOrfanakis, \_paulo\_lopez\_, JackRaifer, or create a random one.
 
     The Word Cloud is created from a database with {rows} individual tweets ({date_from} to {date_to}).
 
-    You can read more about the project on my [porfolio website](https://markusmueller-ds.github.io/portfolio/66days_analysis.html) (WIP)
+    You can read more about the project on my [porfolio website](https://markusmueller-ds.github.io/portfolio/66days_analysis.html)
 """
 
 st.markdown(html_str, unsafe_allow_html=True)
-
 st.write("")
 
-option = st.selectbox('Do you want the Word Cloud with or without lemmatization?', ['no', 'yes']) 
+if "button_clicked" not in st.session_state:
+    st.session_state.button_clicked = False
 
-user_name = st.text_input('Twitter handle (without the @):')
-# st.write(f'WordCloud wird für {user_name} erstellt')
+def callback_wc():
+    st.session_state.button_clicked = True
 
-# Buttons to create wordcloud
-if(st.button('Create WordCloud')):
-    create_wordcloud(df, user_name=user_name)
+with st.sidebar:
+    button_all_wc = st.button('Wordcloud')
+    button_random_wc = st.button('Wordcloud Random')
+    button_user_wc = st.button('Wordcloud User', on_click=callback_wc)
 
-if(st.button('Random WordCloud')):
-    create_wordcloud(df)
+if (button_all_wc):
+    st.write("Wordcloud for all")
+    # show image of wordcloud
+    # generte local
 
-if (st.button('Wordcould of the whole dataset')):
-    create_wordcloud(df)
+if (button_random_wc):
+    st.write("Creating a Wordcloud for a random participant")
+    df = load_data('data/final/tweets_66DaysofData.csv')
+    create_wordcloud(df=df, src='random')
+
+if (button_user_wc or st.session_state.button_clicked):
+    option = st.selectbox('Do you want the Word Cloud with or without lemmatization?', ['no', 'yes']) 
+    user_name = st.text_input('Twitter handle (without the @):')
+
+    button_create_wc = st.button("Create Wordcloud")
+    
+    if(button_create_wc):
+        st.write("Creating a Wordcoloud for a specific user")
+        df = load_data('data/final/tweets_66DaysofData.csv')
+        print(df.info())
+        create_wordcloud(df=df, user_name=user_name, option=option, src="user")
