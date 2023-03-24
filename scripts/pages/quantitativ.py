@@ -27,7 +27,6 @@ def callback_qa():
 
 with st.sidebar:
     button_all_qa = st.button('Stats for all')
-    button_random_qa = st.button('Stats for random')
     button_user_qa = st.button('Stats for user', on_click=callback_qa)
 
 if (button_all_qa):
@@ -92,10 +91,6 @@ if (button_all_qa):
         Ther are four peaks clearly visible. This corresponds with the 
         4 Rounds of the #66DaysofDataChallenge.
     """)
-
-
-if (button_random_qa):
-    st.write("Statistics for random participant")
 
 if (button_user_qa or st.session_state.button_clicked_qa):
     user_name = st.text_input('Twitter handle (without the @):')

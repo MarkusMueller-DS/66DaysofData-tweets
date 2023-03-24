@@ -13,7 +13,7 @@ st.sidebar.success("Select part of analysis")
 
 st.markdown(
     """
-    This an app based on streamllit to showcase various analysis of the 66DaysofData tweets.
+    This an app based on streamlit to showcase various analysis of the 66DaysofData tweets.
     Select intersting parts from the sidebar on the left.
     """
 )
