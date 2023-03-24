@@ -8,6 +8,7 @@ from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
 from wordcloud import WordCloud
+from create_wc_global import replace_links
 
 
 def create_random_df(df: pd.DataFrame) -> pd.DataFrame:
@@ -26,6 +27,9 @@ def create_random_df(df: pd.DataFrame) -> pd.DataFrame:
 
     return df
 
+
+
+
 def create_wordcloud(df: pd.DataFrame, user_name: str = '', option:str = 'no', src: str = ''):
     """
     function to create the wordcould
@@ -43,36 +47,17 @@ def create_wordcloud(df: pd.DataFrame, user_name: str = '', option:str = 'no', s
         df = df[df['user_name']==user_name]
         df = df.reset_index(drop=True)
 
-    # remove links
-    link_re = re.compile('http://\S+|https://\S+')
-    str_user = ''
-
-    for x in range(len(df)):
-        str_ = df['full_text'][x]
-        links_ = re.findall(link_re, str_)
-    
-        if (len(links_) == 1):
-            str_ = str_.replace(links_[0], ' ')
-        elif (len(links_) == 2):
-            str_ = str_.replace(links_[0], '').replace(links_[1], '')
-        elif (len(links_) == 3):
-            str_ = str_.replace(links_[0], '').replace(links_[1], '').replace(links_[2], '')
-        elif(len(links_) > 3):
-            print('attention: more than 3 links in the tweet')
-        elif (len(links_) == 0):
-            pass
-            
-        str_user += ''.join(str_)
+    corpus = replace_links(df)
 
     # to lowercase
-    str_user = str_user.lower()
+    corpus = corpus.lower()
 
     # remove hashtags
     hashtag_re = re.compile('#(\w+)')
-    str_user = re.sub(hashtag_re, '', str_user)
+    corpus = re.sub(hashtag_re, '', corpus)
 
     # tokenize
-    tokens = word_tokenize(str_user)
+    tokens = word_tokenize(corpus)
 
     # remove non alphabetic Tokens
     words = [word for word in tokens if word.isalpha()]
@@ -80,23 +65,19 @@ def create_wordcloud(df: pd.DataFrame, user_name: str = '', option:str = 'no', s
     # remove stop words
     stop_words = set(stopwords.words('english'))
     # add misc words to stop words to enhance expressiveness
-    misc_words = {"day", "week", "days"}
+    misc_words = {"day", "week", "days", "round", "today", "yesterday", "r2", "amp"}
     stop_words.update(misc_words)
     words = [w for w in words if not w in stop_words]
 
-    # remove words based on the tweets
-    list_remove = ['round', 'today', 'yesterday', 'day', 'r2', 'amp']
-    words = [w for w in words if not w in list_remove]
-
     # combine tokens to one string
-    str_user = ''
+    corpus = ''
     for w in words:
         word = w
-        str_user += "".join(word)+ " "
+        corpus += "".join(word)+ " "
 
     if option == 'no':
         ## create Wordcloud
-        wordcloud = WordCloud(width=1200, height=600, background_color="white", collocations=False, scale=1.8).generate(str_user)
+        wordcloud = WordCloud(width=1200, height=600, background_color="white", collocations=False, scale=1.8).generate(corpus)
         fig, ax = plt.subplots()
         ax.imshow(wordcloud, interpolation='bilinear')
         ax.axis("off")
@@ -105,12 +86,12 @@ def create_wordcloud(df: pd.DataFrame, user_name: str = '', option:str = 'no', s
     elif option == 'yes':
         # Word cloud with lemmatizer
         wordnet_lemmatizer = WordNetLemmatizer()
-        tokens = word_tokenize(str_user)
-        str_user = ''
+        tokens = word_tokenize(corpus)
+        str_global = ''
         for word in tokens:
             word_ = wordnet_lemmatizer.lemmatize(word, pos="v")
-            str_user += "".join(word_)+ " "
-        wordcloud = WordCloud(width=1200, height=600, background_color="white", collocations=False, scale=1.8).generate(str_user)
+            str_global += "".join(word_)+ " "
+        wordcloud = WordCloud(width=1200, height=600, background_color="white", collocations=False, scale=1.8).generate(str_global)
         fig, ax = plt.subplots()
         ax.imshow(wordcloud, interpolation='bilinear')
         ax.axis("off")
@@ -173,9 +154,9 @@ with st.sidebar:
     button_user_wc = st.button('Wordcloud User', on_click=callback_wc)
 
 if (button_all_wc):
-    st.write("Wordcloud for all")
+    st.write("Wordcloud for the entire dataset:")
     # show image of wordcloud
-    # generte local
+    st.image('reports/figures/wordcloud.png')
 
 if (button_random_wc):
     st.write("Creating a Wordcloud for a random participant")
@@ -191,5 +172,4 @@ if (button_user_wc or st.session_state.button_clicked):
     if(button_create_wc):
         st.write("Creating a Wordcoloud for a specific user")
         df = load_data('data/final/tweets_66DaysofData.csv')
-        print(df.info())
         create_wordcloud(df=df, user_name=user_name, option=option, src="user")
