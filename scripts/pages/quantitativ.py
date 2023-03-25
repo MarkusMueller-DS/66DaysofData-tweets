@@ -24,6 +24,23 @@ def find_mentions(df: pd.DataFrame) -> pd.DataFrame:
     df_mentions = pd.DataFrame(dict_mentions[:10], columns =['Mentions', 'Count'])
     return df_mentions 
 
+def find_hastags(df: pd.DataFrame) -> pd.DataFrame:
+    hashtag_dict = {}
+    for txt in df["full_text"].values:
+        hashtags = re.findall(r"#(\w+)", txt)
+        for hashtag in hashtags:
+            hashtag_low = hashtag.lower()
+            if hashtag_low != '66daysofdata':
+                if hashtag_low in hashtag_dict:
+                    hashtag_dict[hashtag_low] += 1 
+                else:
+                    hashtag_dict[hashtag_low] = 1
+    # sort hashtags
+    hashtags = sorted(hashtag_dict.items(), key=lambda x:x[1], reverse=True)
+    df_hashtags = pd.DataFrame.from_records(hashtags[:20], columns =['Hashtag', 'Count'])
+    return df_hashtags
+
+
 st.set_page_config("Quantitative Analysis")
 st.sidebar.header("Quantitative Analysis")
 
@@ -109,11 +126,18 @@ if (button_all_qa):
     """)
 
     mentions = find_mentions(df)
-
     st.markdown("## Top 10 Mentions")
     bars = alt.Chart(mentions).mark_bar().encode(
         x=alt.X('Count:Q'),
         y=alt.Y('Mentions:O', sort='-x')
+    )
+    st.altair_chart(bars, use_container_width=True)
+
+    hashtags = find_hastags(df)
+    st.markdown('## Top 20 Hashtags')
+    bars = alt.Chart(hashtags).mark_bar().encode(
+        x=alt.X('Count:Q'),
+        y=alt.Y('Hashtag:O', sort='-x')
     )
     st.altair_chart(bars, use_container_width=True)
 
@@ -178,6 +202,14 @@ if (button_user_qa or st.session_state.button_clicked_qa):
         bars = alt.Chart(mentions).mark_bar().encode(
             x=alt.X('Count:Q'),
             y=alt.Y('Mentions:O', sort='-x')
+        )
+        st.altair_chart(bars, use_container_width=True)
+
+        hashtags = find_hastags(df)
+        st.markdown('## Top 20 Hashtags')
+        bars = alt.Chart(hashtags).mark_bar().encode(
+            x=alt.X('Count:Q'),
+            y=alt.Y('Hashtag:O', sort='-x')
         )
         st.altair_chart(bars, use_container_width=True)
 
