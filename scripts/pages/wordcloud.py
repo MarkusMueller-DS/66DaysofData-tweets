@@ -27,9 +27,6 @@ def create_random_df(df: pd.DataFrame) -> pd.DataFrame:
 
     return df
 
-
-
-
 def create_wordcloud(df: pd.DataFrame, user_name: str = '', option:str = 'no', src: str = ''):
     """
     function to create the wordcould

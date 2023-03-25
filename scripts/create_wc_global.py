@@ -35,22 +35,6 @@ def add_lemmatization(corpus: str) -> str:
 
     return str_lemma
 
-"""
-# Code to find the set of every linked person with '@' in the DataFrame
-def find_linked_persons(df):
-    list_linked_persons = []
-    for x in range(len(df)):
-        linked_persons_ = re.findall(r"@(\w+)", df['full_text'][x])
-        if len(linked_persons_) != 0: list_linked_persons.extend(linked_persons_)
-        set_linked = set(list_linked_persons)
-    return set_linked
-
-lst = find_linked_persons(df)
-print(lst)
-"""
-
-
-
 def create_wordcloud(df: pd.DataFrame):
     """
     function to create the wordcould
