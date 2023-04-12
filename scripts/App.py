@@ -8,6 +8,7 @@ import nltk
 nltk.download('punkt')
 nltk.download('stopwords')
 nltk.download('wordnet')
+nltk.download('omw-1.4')
 
 st.set_page_config(
     page_title="66DaysofData Dashboard"
