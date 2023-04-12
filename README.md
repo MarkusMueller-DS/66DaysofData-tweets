@@ -1,47 +1,35 @@
-# 66DaysofData tweets Analysis (WIP)
+# 66DaysofData tweets Analysis
 
 ##### Analysis of tweets from the #66DaysofData community/challenge
 
 ![wordcloud](reports/figures/wordcloud.png)
 
-<a href="https://markusmueller-ds.github.io/portfolio/66days_analysis.html">Link</a> to website with more informations.
+For a more in depth description of the project visit my <a href="https://markusmueller-ds.github.io/portfolio/66days_analysis.html">portfolio website</a>.
 
-### Challenges
+### Data gathering results (as of 2023/04/12)
 
-- Get historical tweets isn't easy.
-- Twitter-premium API has a limit query amount per month
-- Oher Twitter APIs can only retrieve tweets with full-text up to one week
-
-### Files
-
-- data: folder for raw, processed and final data
-- notebooks: folder containing all the jupyter notebooks
-- scripts: folder containing every python script for data collecting, preprocessing and analysis
-
-### ToDO
-
-- make a more simpler data gathering pipeline. At this point I have to do various steps in differrent environments to have a final DataFrame with all the data
-- deploy word cloud generator for the participants (work locally)
-
-### First results
-
-- How many total tweets?
-  - 33276
-- How many unique participants?
-  - 1625
-- Basic statistics on tweets?
-  - mean: 61
-  - median: 54
-  - max: 165
-  - min: 8
-- Day with most tweets / Day with least tweets
-  - min tweets: 8 tweets on 19th and 20th of Decemer 2020
-  - max tweets: 2nd of September 2020, (one day after the start)
-- Who was the most active user?
-  - paulapivat (173 tweets)
+- 40191 tweets from #66DaysofData collected
+- Tweets from 2020-08-29 to 2023-04-07
+- 1902 unique participants took part in the challenge
+- Stats of tweets:
+  - Average length of a tweet: 194.25
+  - Max length: 383
+  - Min length: 13
+  - Median langth: 201.0
 
 ### Wordcloud Streamlit-App
 
-![wordcloud_app](reports/figures/Word_Cloud_App.png)
+<a href="https://markusmueller-ds-66daysofdata-tweets-scriptsapp-q7vlyf.streamlit.app/">Link</a> to the streamlit app.
 
-### Files
+Streamlit app can be run with:
+`streamlit run scripts/App.py`
+
+### Folders and Files
+
+- `data`: Folder with data
+  - `/final`: Entire dataset used for analysis and streamlit dashboard
+  - `/processed`: Zip-folder with processed weekly data
+  - `/raw`: Raw response from twitter
+- `notebooks`: Notebooks used for exploration and testing of features
+  - `/legacyNotebooks`: Old notebooks
+- `scripts`: Python script to get data, transfrom data, creating the streamlit app

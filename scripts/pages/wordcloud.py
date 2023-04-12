@@ -154,7 +154,7 @@ with st.sidebar:
 
 if (button_all_wc):
     print(st.session_state)
-    st.write("Wordcloud for the entire dataset:")
+    st.markdown(f"### Wordcloud for the entire dataset:")
     # show image of wordcloud
     st.image('reports/figures/wordcloud.png')
 
