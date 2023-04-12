@@ -122,18 +122,17 @@ date_from = df['created_at'][0].split(" ")[0]
 date_to = df['created_at'][df.index[-1]].split(" ")[0]
 
 st.title('Word Cloud-Generator')
-st.subheader('by Markus Müller ([@MarkusM99098101](https://twitter.com/MarkusM99098101))')
+#st.subheader('by Markus Müller ([@MarkusM99098101](https://twitter.com/MarkusM99098101))')
 
 html_str = f"""
-    This is a Word Cloud generator for the #66DaysofData Challenge. The Word Cloud is generated with the tweets form the 
-    paricipant, when they used the above mentioned hashtag. 
+    This is a Word Cloud generator for the #66DaysofData Challenge. The Word Cloud is generated from the participants tweets
+    , when they used the above mentioned hashtag. 
     
-    If you arent a participant and want to see different results you can try one of the following users: 
-    KenJee\_DS, MarkusM99098101, KOrfanakis, \_paulo\_lopez\_, JackRaifer, or create a random one.
+    If you aren't a participant and want to see different results you can try one of the following users: 
+    KenJee\_DS, MarkusM99098101, KOrfanakis, \_paulo\_lopez\_, JackRaifer, or create a random one (select Wordcould Random from the sidebar).
 
     The Word Cloud is created from a database with {rows} individual tweets ({date_from} to {date_to}).
 
-    You can read more about the project on my [porfolio website](https://markusmueller-ds.github.io/portfolio/66days_analysis.html)
 """
 
 st.markdown(html_str, unsafe_allow_html=True)
