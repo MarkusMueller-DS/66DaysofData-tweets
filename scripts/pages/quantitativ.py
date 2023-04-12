@@ -214,7 +214,7 @@ st.write(
     """
     Quantitative analysis of the tweets. Please select type of granularity in the sidebar on the left. 
     If you aren't a participant and want to see different results you can try one of the following participants: 
-    KenJee\_DS, MarkusM99098101, KOrfanakis, \_paulo\_lopez\_, JackRaifer,
+    KenJee\_DS, MarkusM99098101, KOrfanakis, \_paulo\_lopez\_, JackRaifer.
     """
 )
 
