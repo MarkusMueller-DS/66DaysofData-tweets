@@ -1,4 +1,3 @@
-import numpy as np
 import pandas as pd
 import streamlit as st
 import re
@@ -138,8 +137,12 @@ html_str = f"""
 st.markdown(html_str, unsafe_allow_html=True)
 st.write("")
 
+# init Session States
+# https://docs.streamlit.io/library/advanced-features/session-state#initialization
 if "button_clicked" not in st.session_state:
     st.session_state.button_clicked = False
+if "user" not in st.session_state:
+    st.session_state.user = False
 
 def callback_wc():
     st.session_state.button_clicked = True
@@ -147,7 +150,7 @@ def callback_wc():
 with st.sidebar:
     button_all_wc = st.button('Wordcloud')
     button_random_wc = st.button('Wordcloud Random')
-    button_user_wc = st.button('Wordcloud User', on_click=callback_wc)
+    button_user_wc = st.button('Wordcloud Participant', on_click=callback_wc)
 
 if (button_all_wc):
     print(st.session_state)
@@ -156,11 +159,14 @@ if (button_all_wc):
     st.image('reports/figures/wordcloud.png')
 
 if (button_random_wc):
+    # set session state to not show elements form participant wordcloud
+    st.session_state.user = False
     print(st.session_state)
     df = load_data('data/final/tweets_66DaysofData.csv')
     create_wordcloud(df=df, src='random')
 
-if (button_user_wc or st.session_state.button_clicked):
+if (button_user_wc or st.session_state.button_clicked or st.session_state.user):
+    st.session_state.user = True
     print(st.session_state)
     option = st.selectbox('Do you want the Word Cloud with or without lemmatization?', ['no', 'yes']) 
     user_name = st.text_input('Twitter handle (without the @):')
@@ -168,7 +174,9 @@ if (button_user_wc or st.session_state.button_clicked):
     button_create_wc = st.button("Create Wordcloud")
     
     if(button_create_wc):
+        print(st.session_state)
         st.markdown(f"### Creating a Wordcoloud for {user_name}")
         df = load_data('data/final/tweets_66DaysofData.csv')
         create_wordcloud(df=df, user_name=user_name, option=option, src="user")
         st.session_state.button_clicked = False
+        print(st.session_state)

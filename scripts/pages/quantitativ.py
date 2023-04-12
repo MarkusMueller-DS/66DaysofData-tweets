@@ -220,6 +220,8 @@ st.write(
 
 if "button_clicked_qa" not in st.session_state:
     st.session_state.button_clicked_qa = False
+if "user_qa" not in st.session_state:
+    st.session_state.user_qa = False
 
 def callback_qa():
     st.session_state.button_clicked_qa = True
@@ -229,12 +231,15 @@ with st.sidebar:
     button_user_qa = st.button('Stats for user', on_click=callback_qa)
 
 if (button_all_qa):
+    st.session_state.user_qa = False
     create_all()
 
-if (button_user_qa or st.session_state.button_clicked_qa):
+if (button_user_qa or st.session_state.button_clicked_qa or st.session_state.user_qa):
+    st.session_state.user_qa = True
     user_name = st.text_input('Twitter handle (without the @):')
 
     button_create_qa = st.button("get stats")
     
     if(button_create_qa):
         create_user(user_name)
+        st.session_state.button_clicked_qa = False

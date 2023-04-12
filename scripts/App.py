@@ -14,7 +14,7 @@ st.markdown(
     This an app based on streamlit to showcase various analysis of the 66DaysofData tweets.
 
     ### How to use?
-    - Select topic from the sidebar on the left
+    - Select topic from the sidebar on the left (if sidebar is not showing click on the arrow in the left upper corner)
     - Choose ganularity of analysis (for all, for a specific user, or random)
 
 
