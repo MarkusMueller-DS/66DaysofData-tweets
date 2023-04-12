@@ -1,7 +1,12 @@
 import streamlit as st
+import nltk
 
 # st-pages to rename the pages on the sidebar
 # https://github.com/blackary/st_pages
+
+# Downlad NLTK
+nltk.download('punkt')
+nltk.download('stopwords')
 
 st.set_page_config(
     page_title="66DaysofData Dashboard"
