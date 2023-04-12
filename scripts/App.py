@@ -7,6 +7,7 @@ import nltk
 # Downlad NLTK
 nltk.download('punkt')
 nltk.download('stopwords')
+nltk.download('wordnet')
 
 st.set_page_config(
     page_title="66DaysofData Dashboard"
