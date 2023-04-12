@@ -16,11 +16,12 @@ def create_random_df(df: pd.DataFrame) -> pd.DataFrame:
     Function to create a DataFrame with tweets from a random participant
     df: main DataFrame with every tweet
     """
-    print("create wordcloud for random user")
+    #print("create wordcloud for random user")
     # find random user 
     unique_user = df['user_id'].unique()
     random_user_id = random.choice(unique_user)
     user_name = df[df['user_id'] == random_user_id]['user_name'].values[0]
+    st.markdown(f"### Creating a Wordcloud for a {user_name}")
 
     df = df[df['user_name']==user_name]
     df = df.reset_index(drop=True)
@@ -31,7 +32,7 @@ def create_wordcloud(df: pd.DataFrame, user_name: str = '', option:str = 'no', s
     """
     function to create the wordcould
     df: pandas DataFrame
-    user_name: name of the user if provided. If not then a random wordcould is generated
+    user_name: name of the user if provided. if not then a random wordcould is generated
     option: with lemmatization or without (defualt: without)
     random: if random or for every data point
     """
@@ -95,8 +96,7 @@ def create_wordcloud(df: pd.DataFrame, user_name: str = '', option:str = 'no', s
         st.pyplot(fig)
 
     # show details
-    st.header('More information about the user')
-    st.write(user_name)
+    st.markdown('#### More information about the participant')
     # Number of Tweets
     num_tweets = df.shape[0] 
     st.write('number of tweets: ', str(num_tweets))
@@ -111,8 +111,8 @@ st.sidebar.header("Wordcloud")
 
 
 # load data
-@st.cache
-def load_data(path):
+@st.cache_data
+def load_data(path) -> pd.DataFrame:
     df = pd.read_csv(path) 
     return df
 
@@ -150,22 +150,25 @@ with st.sidebar:
     button_user_wc = st.button('Wordcloud User', on_click=callback_wc)
 
 if (button_all_wc):
+    print(st.session_state)
     st.write("Wordcloud for the entire dataset:")
     # show image of wordcloud
     st.image('reports/figures/wordcloud.png')
 
 if (button_random_wc):
-    st.write("Creating a Wordcloud for a random participant")
+    print(st.session_state)
     df = load_data('data/final/tweets_66DaysofData.csv')
     create_wordcloud(df=df, src='random')
 
 if (button_user_wc or st.session_state.button_clicked):
+    print(st.session_state)
     option = st.selectbox('Do you want the Word Cloud with or without lemmatization?', ['no', 'yes']) 
     user_name = st.text_input('Twitter handle (without the @):')
 
     button_create_wc = st.button("Create Wordcloud")
     
     if(button_create_wc):
-        st.write("Creating a Wordcoloud for a specific user")
+        st.markdown(f"### Creating a Wordcoloud for {user_name}")
         df = load_data('data/final/tweets_66DaysofData.csv')
         create_wordcloud(df=df, user_name=user_name, option=option, src="user")
+        st.session_state.button_clicked = False

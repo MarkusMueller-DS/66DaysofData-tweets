@@ -4,7 +4,7 @@ import re
 import altair as alt
 
 # load data
-@st.cache
+@st.cache_data
 def load_data(path: str) -> pd.DataFrame:
     df = pd.read_csv(path) 
     return df
