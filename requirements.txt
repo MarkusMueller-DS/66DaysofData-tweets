@@ -1,6 +1,0 @@
-matplotlib==3.7.1
-nltk==3.7
-pandas==1.5.1
-streamlit==1.21.0
-tokenizers==0.13.2
-wordcloud==1.8.2.2
