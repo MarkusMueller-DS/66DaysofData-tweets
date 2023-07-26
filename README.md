@@ -19,7 +19,7 @@ For a more in depth description of the project visit my <a href="https://markusm
 
 ### Wordcloud Streamlit-App
 
-<a href="https://markusmueller-ds-66daysofdata-tweets-scriptsapp-q7vlyf.streamlit.app/">Link</a> to the streamlit app.
+<a href="https://66daysofdata-tweets-wpfj1xmm3sh.streamlit.app/">Link</a> to the streamlit app.
 
 Streamlit app can be run with:
 `streamlit run scripts/App.py`
